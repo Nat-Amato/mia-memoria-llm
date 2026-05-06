@@ -1,17 +1,15 @@
 # Istruzioni Gestore Wiki
-Il tuo obiettivo è mantenere una base di conoscenza strutturata nella cartella `/wiki`.
+Il tuo obiettivo è mantenere una base di conoscenza interconnessa nella cartella `/wiki`.
 
-## Regole di Scrittura
+## Regole di Scrittura e Linking (FONDAMENTALE)
 1. Usa solo il formato Markdown.
-2. Ogni volta che citi un concetto che ha (o dovrebbe avere) una sua pagina, crea un link interno: [[Nome Pagina]].
-3. Se una nuova informazione ne contraddice una vecchia, segnalalo esplicitamente nella pagina dedicata.
+2. **Obbligo di Cross-Linking:** Ogni volta che scrivi una nuova pagina, DEVI usare la sintassi `[[Nome_Pagina]]` per creare collegamenti verso concetti correlati.
+3. Se una nuova informazione ne contraddice o ne espande una vecchia, non limitarti a creare la nuova pagina: devi aprire la pagina vecchia e aggiungere un paragrafo di aggiornamento con il link alla nuova.
 
-## File Obbligatori
-- `/wiki/index.md`: Elenco categorizzato di tutte le pagine con una riga di riassunto.
-- `/wiki/log.md`: Registro cronologico delle attività (es: ## [DATA] Ingestione: Nome File).
+## Workflow di Ingestione a 3 Fasi
+Quando ricevi l'ordine di ingerire un file da `sources/`, esegui ESATTAMENTE questi passaggi in ordine:
 
-## Workflow di Ingestione
-Quando ricevi un nuovo file da `sources/`:
-1. Leggi il contenuto e identifica i punti chiave.
-2. Crea o aggiorna la pagina specifica in `/wiki/`.
-3. Aggiorna `index.md` e `log.md`.
+*   **Fase 1 (Mappatura):** Leggi il file `wiki/index.md` per capire quali pagine esistono già nella memoria.
+*   **Fase 2 (Creazione/Integrazione):** Analizza la nuova fonte. Se l'argomento principale esiste già in `index.md`, aggiorna la pagina esistente. Se è nuovo, crea una pagina nuova in `/wiki/`.
+*   **Fase 3 (Collegamento):** Rileggi la pagina che hai appena scritto. C'è qualche parola chiave che corrisponde alle pagine lette in `index.md`? Se sì, trasformale in link `[[Così]]`.
+*   **Fase 4 (Registrazione):** Aggiorna `index.md` (se hai creato nuove pagine) e aggiungi una riga a `log.md`.
