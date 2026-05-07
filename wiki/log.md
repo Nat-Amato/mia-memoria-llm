@@ -46,3 +46,23 @@
 ## [2026-05-08] Ingestione: sodio.txt
 - Creata la pagina [[Sodio]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-08] Ingestione: antiossidanti.txt
+- Creata la pagina [[Antiossidanti]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-08] Ingestione: colesterolo.txt
+- Creata la pagina [[Colesterolo]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-08] Ingestione: fibre_alimentari.txt
+- Creata la pagina [[Fibre alimentari]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-08] Ingestione: magnesio.txt
+- Creata la pagina [[Magnesio]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-08] Ingestione: pesce_azzurro.txt
+- Creata la pagina [[Pesce azzurro]].
+- Aggiornato l'elenco in `/wiki/index.md`.
