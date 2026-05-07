@@ -2,7 +2,8 @@
 
 La [[Dieta Mediterranea]] è un regime alimentare che si basa sul consumo di:
 - [[Olio d'oliva]]
-- Cereali integrali
+- [[Cereali integrali]]
+- [[Legumi]] (importanti fonti di proteine vegetali)
 - Frutta e verdura
 - [[Noci]] (studi recenti suggeriscono che un consumo moderato di noci è un pilastro fondamentale del sistema).
 
