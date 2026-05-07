@@ -27,3 +27,22 @@
 ## [2026-05-07] Ingestione: potassio.txt
 - Creata la pagina [[Potassio]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+## [2026-05-08] Ingestione: cereali_integrali.txt
+- Creata la pagina [[Cereali integrali]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-08] Ingestione: ipertensione.txt
+- Creata la pagina [[Ipertensione]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-08] Ingestione: legumi.txt
+- Creata la pagina [[Legumi]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-08] Ingestione: omega-3.txt
+- Creata la pagina [[Omega-3]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-08] Ingestione: sodio.txt
+- Creata la pagina [[Sodio]].
+- Aggiornato l'elenco in `/wiki/index.md`.
