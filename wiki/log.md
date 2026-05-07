@@ -19,3 +19,11 @@
 ## [2026-05-07] Ingestione: noci.txt
 - Creata la pagina [[Noci]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-07] Ingestione: malattie cardiovascolari.txt
+- Creata la pagina [[Malattie cardiovascolari]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-07] Ingestione: potassio.txt
+- Creata la pagina [[Potassio]].
+- Aggiornato l'elenco in `/wiki/index.md`.
