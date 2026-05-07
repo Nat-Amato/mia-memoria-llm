@@ -1,5 +1,12 @@
 # Registro Attività
 
+## [2026-05-07] Ingestione: dieta_mediterranea.txt
+- File analizzato, contenuti già coperti in [[Dieta_Mediterranea.md|Dieta Mediterranea]]. Nessuna modifica applicata.
+
+## [2026-05-07] Ingestione: noci.txt
+- Creata la pagina [[Noci.md|Noci]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
 ## [2026-05-06] Ingestione: olio-oliva.txt
 - Creata la pagina [[Olio_d_oliva.md|Olio d'oliva]].
 - Aggiornato l'elenco in `/wiki/index.md`.
