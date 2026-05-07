@@ -75,6 +75,6 @@ Il workflow principale di ingestione si articola in 4 fasi manuali o guidate dal
 > Note: Mancano flussi di CI/CD automatizzati (es. GitHub Actions, pipeline Docker) e mancano le istruzioni per i test, poiché i processi di verifica e normalizzazione vengono eseguiti tramite prompt di controllo invece che tramite script di test standard.
 
 ## 🤝 Contribuire e 📄 Licenza
-**Contribuire:** I contributi sono benvenuti per espandere le regole di formattazione in `schema/INSTRUCTIONS.md` o per perfezionare i comandi in `Prompt.md`. Assicurati che ogni modifica mantenga la coerenza della base di conoscenza.
+**Contribuire:** I contributi sono benvenuti per l'inserimento di nuovi file al fine di espandere la rete neurale e la base di conoscenza. Assicurati che ogni nuovo contributo mantenga la coerenza della base di conoscenza.
 
 **Licenza:** Il progetto è distribuito sotto la licenza **GNU Affero General Public License v3.0 (AGPLv3)**. Consulta il file `LICENSE` per i dettagli completi.
