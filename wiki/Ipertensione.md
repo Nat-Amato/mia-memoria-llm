@@ -1,4 +1,4 @@
 # Ipertensione
 
 L'ipertensione arteriosa è una condizione clinica in cui la pressione del sangue nelle arterie è costantemente elevata.
-È un fattore di rischio determinante per lo sviluppo di complicanze cardiache e cerebrovascolari (vedi [[Malattie cardiovascolari]]).
+È un fattore di rischio determinante per lo sviluppo di [[Malattie cardiovascolari]] e cerebrovascolari (vedi [[Malattie cardiovascolari]]).

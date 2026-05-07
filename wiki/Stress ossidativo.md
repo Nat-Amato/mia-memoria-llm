@@ -1,0 +1,6 @@
+# Stress ossidativo
+
+Lo stress ossidativo si verifica quando c'è uno squilibrio tra radicali liberi e [[Antiossidanti]], portando all'ossidazione delle LDL, un passaggio critico nella formazione della placca aterosclerotica.
+
+Riferimenti:
+Kibel, A., Lukinac, A. M., Dambic, V., et al. Oxidative Stress in Ischemic Heart Disease: From Biology to Clinical Practice. Nutrients, 2021. DOI: 10.3390/nu13113926

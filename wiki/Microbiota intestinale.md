@@ -1,0 +1,6 @@
+# Microbiota intestinale
+
+Esiste un asse intestino-cuore. Alcuni batteri intestinali producono TMAO (trimetilammina-N-ossido) dal metabolismo di colina e carnitina, un composto associato a un maggior rischio di [[Malattie cardiovascolari]].
+
+Riferimenti:
+Tang, W. H. W., Wang, Z., Levison, B. S., et al. Intestinal Microbial Metabolism of Phosphatidylcholine and Cardiovascular Risk. New England Journal of Medicine, 2013. DOI: 10.1056/NEJMoa1109400

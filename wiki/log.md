@@ -66,3 +66,67 @@
 ## [2026-05-08] Ingestione: pesce_azzurro.txt
 - Creata la pagina [[Pesce azzurro]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: attivita_fisica.txt
+- Creata la pagina [[Attività fisica]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: calcio.txt
+- Creata la pagina [[Calcio]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: carni_processate.txt
+- Creata la pagina [[Carni processate]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: cioccolato_fondente.txt
+- Creata la pagina [[Cioccolato fondente]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: diabete_tipo_2.txt
+- Creata la pagina [[Diabete di tipo 2]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: frutta_a_guscio.txt
+- Creata la pagina [[Frutta a guscio]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: microbiota_intestinale.txt
+- Creata la pagina [[Microbiota intestinale]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: obesita.txt
+- Creata la pagina [[Obesità]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: prevenzione_primaria.txt
+- Creata la pagina [[Prevenzione primaria]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: sindrome_metabolica.txt
+- Creata la pagina [[Sindrome metabolica]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: stress_ossidativo.txt
+- Creata la pagina [[Stress ossidativo]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: te_verde.txt
+- Creata la pagina [[Tè verde]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: verdure_a_foglia_verde.txt
+- Creata la pagina [[Verdure a foglia verde]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: vino_rosso.txt
+- Creata la pagina [[Vino rosso]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: vitamina_d.txt
+- Creata la pagina [[Vitamina D]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: zuccheri_semplici.txt
+- Creata la pagina [[Zuccheri semplici]].
+- Aggiornato l'elenco in `/wiki/index.md`.
