@@ -12,3 +12,6 @@
 - Creata la pagina [[Dieta Mediterranea]].
 - Predisposti link interni per future espansioni: [[Olio d'oliva]], [[Noci]], [[Malattie cardiovascolari]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-07] Ingestione: dieta_mediterranea.txt
+- Analizzato file sorgente. Contenuto già presente in [[Dieta Mediterranea]]. Nessuna modifica applicata ai contenuti.
