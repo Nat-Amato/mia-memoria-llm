@@ -15,3 +15,7 @@
 
 ## [2026-05-07] Ingestione: dieta_mediterranea.txt
 - Analizzato file sorgente. Contenuto già presente in [[Dieta Mediterranea]]. Nessuna modifica applicata ai contenuti.
+
+## [2026-05-07] Ingestione: noci.txt
+- Creata la pagina [[Noci]].
+- Aggiornato l'elenco in `/wiki/index.md`.
