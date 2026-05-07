@@ -67,8 +67,7 @@ Prima di eseguire qualsiasi operazione:
 Obiettivo:
 Eseguire il workflow di ingestione esclusivamente per nuovi file sorgente non ancora processati.
 
-File sorgente di esempio:
-`sources/dieta_mediterranea.txt`
+File sorgente di esempio: sources/FILE NON ANCORA PROCESSATO
 
 Vincolo fondamentale:
 L’operazione deve partire solo se il file non risulta già elaborato.
