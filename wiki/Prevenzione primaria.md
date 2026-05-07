@@ -1,0 +1,6 @@
+# Prevenzione primaria
+
+La prevenzione primaria mira a prevenire l'insorgenza delle [[Malattie cardiovascolari]] attraverso il controllo dei fattori di rischio modificabili: fumo, dieta, [[Attività fisica]] e peso corporeo.
+
+Riferimenti:
+Arnett, D. K., Blumenthal, R. S., Albert, M. A., et al. 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease. Circulation, 2019. DOI: 10.1161/CIR.0000000000000678

@@ -1,0 +1,10 @@
+# Obesità
+
+L'obesità, in particolare quella viscerale, è associata a un aumento significativo del rischio di [[Ipertensione]], [[Diabete di tipo 2]] e dislipidemia, tutti fattori che promuovono l'aterosclerosi.
+
+Strategie:
+- Dieta ipocalorica bilanciata.
+- Monitoraggio della circonferenza vita.
+
+Riferimenti:
+Powell-Wiley, T. M., Poirier, P., Burke, L. E., et al. Obesity and Cardiovascular Disease: A Scientific Statement From the American Heart Association. Circulation, 2021. DOI: 10.1161/CIR.0000000000000973

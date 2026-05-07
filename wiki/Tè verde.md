@@ -1,0 +1,6 @@
+# Tè verde
+
+Il tè verde è ricco di epigallocatechina gallato (EGCG), che aiuta a ridurre lo [[Stress ossidativo]] e a migliorare il profilo lipidico, riducendo il rischio di aterosclerosi.
+
+Riferimenti:
+Pang, J., Zhang, Z., Zheng, T. Z., et al. Green tea consumption and risk of cardiovascular diseases: A meta-analysis. International Journal of Cardiology, 2016. DOI: 10.1016/j.ijcard.2015.10.126

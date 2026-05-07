@@ -1,0 +1,10 @@
+# Diabete di tipo 2
+
+Il diabete accelera i processi di irrigidimento arterioso e aumenta la probabilità di [[Malattie cardiovascolari]]. La gestione della glicemia è essenziale per proteggere l'endotelio vascolare.
+
+Indicatori chiave:
+- Emoglobina glicata (HbA1c).
+- Glicemia a digiuno.
+
+Riferimenti:
+Joseph, J. J., Dee, J. S., Hall, J. E., et al. Comprehensive Management of Cardiovascular Risk Factors for Adults With Type 2 Diabetes: A Scientific Statement From the American Heart Association. Circulation, 2022. DOI: 10.1161/CIR.0000000000001040

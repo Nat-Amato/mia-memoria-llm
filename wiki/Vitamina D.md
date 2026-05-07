@@ -1,0 +1,10 @@
+# Vitamina D
+
+Bassi livelli di vitamina D sono stati collegati a un aumento della rigidità arteriosa e dell'[[Ipertensione]]. La vitamina D gioca un ruolo nella regolazione del sistema renina-angiotensina-aldosterone.
+
+Fonti:
+- Esposizione solare.
+- [[Pesce azzurro]], uova, alimenti fortificati.
+
+Riferimenti:
+Judd, S. E., Tangpricha, V. Vitamin D Deficiency and Risk for Cardiovascular Disease. The American Journal of the Medical Sciences, 2009. URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2851242/
