@@ -1,0 +1,5 @@
+# Acidi grassi a catena corta
+
+Gli acidi grassi a catena corta (SCFA), come l'acetato, il propionato e il butirrato, sono prodotti principalmente dalla fermentazione delle [[Fibre alimentari]] non digeribili da parte dei batteri intestinali nel colon.
+Essi rappresentano la principale fonte di energia per le cellule epiteliali del colon (colonociti) e svolgono un ruolo vitale nel mantenimento dell'integrità della barriera intestinale.
+Hanno anche effetti sistemici, influenzando il metabolismo dei lipidi nel fegato e la sensibilità all'insulina periferica.

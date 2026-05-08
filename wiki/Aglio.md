@@ -1,0 +1,10 @@
+# Aglio
+
+L'aglio (Allium sativum) è una pianta bulbosa utilizzata fin dall'antichità sia come condimento che per i suoi presunti benefici per la salute.
+Contiene composti solforati, in particolare l'allicina, che si attiva quando il bulbo viene tritato o masticato.
+
+È noto per le sue proprietà antimicrobiche e [[Antiossidanti]]. Alcuni studi suggeriscono che un consumo regolare possa contribuire a una lieve riduzione della pressione sanguigna e dei livelli di [[Colesterolo]] totale, sebbene i risultati siano variabili.
+Viene spesso raccomandato nel contesto di un'alimentazione bilanciata per il supporto al sistema cardiovascolare.
+
+Riferimenti:
+Ried, K. Garlic Lowers Blood Pressure in Hypertensive Individuals, Regulates Serum Cholesterol, and Stimulates Immunity: An Updated Meta-analysis and Review. The Journal of Nutrition, 2016. DOI: 10.3945/jn.114.202192

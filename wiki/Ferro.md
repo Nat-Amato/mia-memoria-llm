@@ -1,0 +1,9 @@
+# Ferro
+
+Il ferro è un minerale essenziale per l'organismo umano, fondamentale per la sintesi dell'emoglobina e della mioglobina, proteine responsabili del trasporto dell'ossigeno nel sangue e nei muscoli.
+
+Si trova negli alimenti in due forme:
+- Ferro eme: presente in alimenti di origine animale, è più facilmente assorbibile.
+- Ferro non-eme: presente in alimenti di origine vegetale, ha un tasso di assorbimento inferiore.
+
+Una carenza prolungata può portare ad anemia sideropenica. L'assorbimento del ferro non-eme può essere favorito dalla concomitante assunzione di fonti di [[Vitamina C]].

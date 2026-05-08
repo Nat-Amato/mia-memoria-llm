@@ -1,0 +1,5 @@
+# Ossido nitrico
+
+L'ossido nitrico (NO) è una piccola molecola gassosa prodotta dalle cellule endoteliali che rivestono l'interno dei vasi sanguigni.
+Funziona da cruciale messaggero cellulare e ha un ruolo primario come vasodilatatore, inducendo il rilassamento della muscolatura liscia vascolare.
+Una carenza o una ridotta biodisponibilità di ossido nitrico è un segno distintivo della [[Disfunzione endoteliale]], che è il primo passo verso l'[[Aterosclerosi]] e l'[[Ipertensione]] arteriosa.

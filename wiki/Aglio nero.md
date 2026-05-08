@@ -1,0 +1,5 @@
+# Aglio nero
+
+L'[[Aglio]] nero è ottenuto dall'[[Aglio]] fresco attraverso un processo prolungato di invecchiamento a temperatura e umidità controllate (spesso definito impropriamente fermentazione).
+Questo processo altera la composizione chimica del bulbo, trasformando composti solforati in S-allil cisteina (SAC), un derivato solubile in acqua con spiccate capacità [[Antiossidanti]].
+Rispetto all'[[Aglio]] crudo, ha un sapore più dolce e delicato, ed è studiato per le sue potenziali proprietà epatoprotettive e modulatrici dei lipidi nel sangue.

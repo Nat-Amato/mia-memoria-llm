@@ -1,0 +1,7 @@
+# Resveratrolo
+
+Il resveratrolo è un composto fenolico appartenente alla famiglia delle fitoalessine, sostanze prodotte da alcune piante in risposta a stress ambientali o infezioni patogene.
+Le fonti più note includono la buccia dell'uva rossa, le arachidi e vari tipi di bacche.
+
+In vitro e in modelli animali ha mostrato effetti cardioprotettivi, antinfiammatori e potenzialmente anti-invecchiamento.
+Tuttavia, nell'uomo la sua biodisponibilità è limitata, ed è oggetto di ricerca determinare le dosi ottimali per replicare gli effetti osservati negli studi preclinici.

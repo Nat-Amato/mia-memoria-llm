@@ -1,0 +1,5 @@
+# Fitosteroli
+
+I fitosteroli, o steroli vegetali, sono composti lipidici naturali presenti nelle membrane cellulari delle piante, aventi una struttura chimica molto simile al [[Colesterolo]] umano.
+A causa di questa somiglianza, competono con il [[Colesterolo]] alimentare e biliare per l'assorbimento nell'intestino tenue.
+Il consumo di fitosteroli porta a una ridotta assimilazione di [[Colesterolo]] nel sangue e a una sua maggiore escrezione, risultando in una diminuzione significativa dei livelli di [[Colesterolo]] LDL.

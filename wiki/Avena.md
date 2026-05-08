@@ -1,0 +1,5 @@
+# Avena
+
+L'avena è un cereale ricco di fibre solubili, in particolare beta-glucani.
+Queste fibre sono note per la loro capacità di rallentare la digestione e ridurre l'assorbimento del [[Colesterolo]] nel tratto intestinale.
+Il consumo regolare di avena è associato a un miglior controllo della glicemia e a una riduzione dei livelli di [[Colesterolo]] LDL, supportando così la salute cardiovascolare.

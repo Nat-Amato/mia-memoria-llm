@@ -1,0 +1,6 @@
+# Zenzero
+
+Lo zenzero (Zingiber officinale) è una radice utilizzata globalmente come spezia e come rimedio tradizionale.
+
+I suoi composti bioattivi, come i gingeroli, gli conferiscono proprietà antinfiammatorie e [[Antiossidanti]] documentate.
+È ampiamente studiato per il suo potenziale nell'alleviare la nausea, favorire la digestione e ridurre lievi stati infiammatori. Il suo uso in ambito cardiovascolare viene esplorato per un possibile effetto moderato sui profili lipidici e sulla sensibilità insulinica, sebbene siano necessarie ulteriori ricerche.
