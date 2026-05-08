@@ -1,0 +1,6 @@
+PROTEINA C REATTIVA (PCR)
+
+La proteina C reattiva ad alta sensibilità (hs-CRP) è un marcatore di infiammazione sistemica. Livelli costantemente elevati indicano un'infiammazione cronica di basso grado, strettamente associata alla progressione dell'aterosclerosi e agli eventi coronarici.
+
+Riferimenti:
+Ridker, P. M. Clinical application of C-reactive protein for cardiovascular disease detection and prevention. Circulation, 2003. DOI: 10.1161/01.CIR.0000053730.47739.3C

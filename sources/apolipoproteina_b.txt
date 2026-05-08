@@ -1,0 +1,6 @@
+APOLIPOPROTEINA B (ApoB)
+
+L'ApoB è la proteina strutturale principale di tutte le lipoproteine aterogene (VLDL, IDL, LDL). La misurazione dell'ApoB nel sangue fornisce una stima accurata del numero totale di particelle aterogene ed è un indicatore predittivo di rischio cardiovascolare migliore rispetto al solo colesterolo LDL.
+
+Riferimenti:
+Sniderman, A. D., Williams, K., Contois, J. H., et al. A meta-analysis of low-density lipoprotein cholesterol, non-high-density lipoprotein cholesterol, and apolipoprotein B as markers of cardiovascular risk. Circulation Cardiovascular Quality and Outcomes, 2011. DOI: 10.1161/CIRCOUTCOMES.110.959247
