@@ -1,0 +1,5 @@
+# Vitamina K
+
+La vitamina K è una vitamina liposolubile fondamentale per la sintesi delle proteine coinvolte nella coagulazione del sangue (come la protrombina) e nel metabolismo osseo (osteocalcina).
+Si divide in due forme principali: K1 (fillochinone), abbondante nelle [[Verdure a foglia verde]], e K2 (menachinone), presente in cibi fermentati e prodotti animali.
+Ricerche emergenti suggeriscono che la vitamina K2, in particolare, può aiutare a prevenire la calcificazione delle arterie e dei tessuti molli attivando specifiche proteine inibitrici.

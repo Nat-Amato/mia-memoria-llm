@@ -1,0 +1,6 @@
+# Selenio
+
+Il selenio è un oligoelemento essenziale che agisce come cofattore per numerosi enzimi, in particolare per le glutatione perossidasi, fondamentali per la difesa cellulare contro lo [[Stress ossidativo]].
+
+È anche cruciale per il corretto funzionamento della tiroide e del sistema immunitario.
+La quantità di selenio negli alimenti di origine vegetale dipende fortemente dalla concentrazione di questo minerale nel suolo in cui le colture sono cresciute. Ottime fonti includono [[Noci]] del Brasile, pesce e [[Cereali integrali]].

@@ -1,0 +1,6 @@
+# Vitamina C
+
+La vitamina C, o acido ascorbico, è un nutriente essenziale noto per le sue proprietà [[Antiossidanti]] e per il ruolo chiave nella sintesi del collagene, una proteina strutturale vitale per pelle, vasi sanguigni, ossa e cartilagini.
+
+Facilita l'assorbimento del [[Ferro]] di origine vegetale e supporta le difese immunitarie.
+Non essendo sintetizzata dall'organismo umano, deve essere assunta tramite l'alimentazione; frutta (soprattutto agrumi e kiwi) e verdura (peperoni, broccoli) ne sono fonti primarie.
