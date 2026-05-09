@@ -15,7 +15,7 @@
 - [[Avocado]]: L'avocado è un frutto unico per il suo elevato contenuto di grassi, prevalentemente acido oleico (monoinsaturo).
 - [[Beta glucani]]: I beta-glucani sono polisaccaridi naturali presenti in alcune fibre solubili, in particolare nell'avena e nell'orzo.
 - [[Cacao]]: Il cacao, ottenuto dai semi dell'albero Theobroma cacao, è l'ingrediente principale del cioccolato.
-- [[Caffe non filtrato]]: Il caffè non filtrato (come il caffè bollito scandinavo, il caffè turco o la pressa francese) contiene diterpeni, composti lipidici naturali del chicco di caffè, tra cui il cafestolo e il caweolo.
+- [[Caffè non filtrato]]: Il caffè non filtrato (come il caffè bollito scandinavo, il caffè turco o la pressa francese) contiene diterpeni, composti lipidici naturali del chicco di caffè, tra cui il cafestolo e il caweolo.
 - [[Calcificazione vascolare]]: La calcificazione vascolare è il deposito patologico di minerali, principalmente fosfato di calcio, nelle pareti dei vasi sanguigni, spesso associato all'invecchiamento, al diabete e alle malattie renali croniche.
 - [[Calcio]]: Minerale essenziale per le ossa che partecipa alla contrazione e al rilassamento dei vasi sanguigni.
 - [[Carciofi]]: I carciofi sono ortaggi ricchi di fibre inulina, cinarina e numerosi composti antiossidanti.
@@ -26,7 +26,7 @@
 - [[Curcuma]]: La curcuma (Curcuma longa) è una spezia dal caratteristico colore giallo brillante, ampiamente utilizzata nella cucina asiatica e nella medicina tradizionale.
 - [[Diabete di tipo 2]]: Condizione metabolica che accelera l'irrigidimento arterioso e aumenta la probabilità di eventi coronarici.
 - [[Dieta DASH]]: Regime alimentare a ridotto contenuto di sale, utile per abbassare la pressione arteriosa e migliorare la salute cardiovascolare.
-- [[Dieta Mediterranea]]: Panoramica sui principi della dieta mediterranea, i suoi ingredienti base e i benefici per il cuore.
+- [[Dieta mediterranea]]: Panoramica sui principi della dieta mediterranea, i suoi ingredienti base e i benefici per il cuore.
 - [[Disfunzione endoteliale]]: La disfunzione endoteliale è una condizione patologica in cui l'endotelio (lo strato più interno dei vasi sanguigni) perde la sua capacità di regolare adeguatamente il tono vascolare, l'infiammazione e la coagulazione.
 - [[Diterpeni]]: I diterpeni sono una vasta classe di composti organici terpenoidi.
 - [[Fagioli]]: I fagioli sono legumi ricchi di proteine vegetali, fibre complesse (sia solubili che insolubili), ferro, magnesio e potassio.
@@ -45,7 +45,7 @@
 - [[Iperomocisteinemia]]: L'iperomocisteinemia è una condizione medica caratterizzata da livelli anormalmente alti dell'amminoacido omocisteina nel plasma sanguigno.
 - [[Ipertensione]]: Condizione clinica in cui la pressione del sangue nelle arterie è costantemente elevata.
 - [[Isoflavoni]]: Gli isoflavoni sono un tipo di fitoestrogeni presenti in abbondanza nelle fave di soia e in altri legumi.
-- [[Legumi]]: Alimenti ricchi di fibre, proteine vegetali e sali minerali preziosi, pilastri della Dieta Mediterranea.
+- [[Legumi]]: Alimenti ricchi di fibre, proteine vegetali e sali minerali preziosi, pilastri della Dieta mediterranea.
 - [[Lenticchie]]: Le lenticchie sono semi di piante leguminose particolarmente apprezzati per la loro rapidità di cottura rispetto ad altri legumi e per l'assenza di necessità di ammollo prolungato.
 - [[Licopene]]: Il licopene è un carotenoide responsabile del colore rosso brillante di molti frutti e verdure, in particolare dei pomodori, dell'anguria e del pompelmo rosa.
 - [[Lignani]]: I lignani sono una classe di fitoestrogeni, composti vegetali la cui struttura chimica è simile agli estrogeni umani, e di polifenoli.
@@ -63,7 +63,7 @@
 - [[Omega-3]]: Acidi grassi essenziali per il sistema cardiovascolare con azione antinfiammatoria.
 - [[Omocisteina]]: L'omocisteina è un amminoacido solforato derivante dal metabolismo della metionina.
 - [[Ossido nitrico]]: L'ossido nitrico (NO) è una piccola molecola gassosa prodotta dalle cellule endoteliali che rivestono l'interno dei vasi sanguigni.
-- [[Pesce azzurro]]: Alimento tipico della Dieta Mediterranea e principale fonte di Omega-3 per proteggere il cuore.
+- [[Pesce azzurro]]: Alimento tipico della Dieta mediterranea e principale fonte di Omega-3 per proteggere il cuore.
 - [[Pistacchi]]: I pistacchi sono semi commestibili appartenenti alla famiglia delle Anacardiaceae, caratterizzati da un alto contenuto di fitosteroli, antiossidanti (come luteina e zeaxantina) e proteine rispetto ad altra frutta a guscio.
 - [[Polifenoli]]: I polifenoli sono un vasto e diversificato gruppo di composti bioattivi di origine vegetale.
 - [[Pomodori]]: I pomodori sono frutti (spesso considerati ortaggi dal punto di vista culinario) caratterizzati da un elevato contenuto di acqua, potassio, vitamina C e licopene.
@@ -71,7 +71,7 @@
 - [[Prevenzione primaria]]: Insieme di strategie volte a prevenire l'insorgenza delle malattie cardiovascolari controllando i fattori di rischio.
 - [[Resveratrolo]]: Il resveratrolo è un composto fenolico appartenente alla famiglia delle fitoalessine, sostanze prodotte da alcune piante in risposta a stress ambientali o infezioni patogene.
 - [[Salmone]]: Il salmone è un pesce grasso che rappresenta una delle migliori fonti alimentari di acidi grassi polinsaturi a lunga catena.
-- [[Sedentarieta]]: La sedentarietà è uno stile di vita caratterizzato da un dispendio energetico minimo, che include attività svolte prevalentemente da seduti o sdraiati per lunghi periodi.
+- [[Sedentarietà]]: La sedentarietà è uno stile di vita caratterizzato da un dispendio energetico minimo, che include attività svolte prevalentemente da seduti o sdraiati per lunghi periodi.
 - [[Selenio]]: Il selenio è un oligoelemento essenziale che agisce come cofattore per numerosi enzimi, in particolare per le glutatione perossidasi, fondamentali per la difesa cellulare contro lo stress ossidativo.
 - [[Semi di chia]]: I semi di chia (Salvia hispanica) sono piccoli semi scuri ricchi di fibre, proteine e acidi grassi polinsaturi, in particolare l'acido alfa-linolenico (ALA), un precursore di origine vegetale.
 - [[Semi di lino]]: I semi di lino sono una fonte nutrizionale concentrata di lignani, fibre solubili e acidi grassi essenziali di origine vegetale.

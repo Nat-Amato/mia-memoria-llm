@@ -1,4 +1,4 @@
-# Sedentarieta
+# Sedentarietà
 
 La sedentarietà è uno stile di vita caratterizzato da un dispendio energetico minimo, che include attività svolte prevalentemente da seduti o sdraiati per lunghi periodi.
 

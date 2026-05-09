@@ -9,12 +9,12 @@
 - Aggiornato l'elenco in `/wiki/index.md`.
 
 ## [2026-05-06] Ingestione: Fonte grezza (Testo)
-- Creata la pagina [[Dieta Mediterranea]].
+- Creata la pagina [[Dieta mediterranea]].
 - Predisposti link interni per future espansioni: [[Olio d'oliva]], [[Noci]], [[Malattie cardiovascolari]].
 - Aggiornato l'elenco in `/wiki/index.md`.
 
 ## [2026-05-07] Ingestione: dieta_mediterranea.txt
-- Analizzato file sorgente. Contenuto già presente in [[Dieta Mediterranea]]. Nessuna modifica applicata ai contenuti.
+- Analizzato file sorgente. Contenuto già presente in [[Dieta mediterranea]]. Nessuna modifica applicata ai contenuti.
 
 ## [2026-05-07] Ingestione: noci.txt
 - Creata la pagina [[Noci]].
@@ -169,7 +169,7 @@
 - Aggiornato l'elenco in `/wiki/index.md`.
 
 ## [2026-05-08] Ingestione: sedentarieta.txt
-- Creata la pagina [[Sedentarieta]].
+- Creata la pagina [[Sedentarietà]].
 - Aggiornato l'elenco in `/wiki/index.md`.
 
 ## [2026-05-08] Ingestione: lignani.txt
@@ -313,7 +313,7 @@
 - Aggiornato l'elenco in `/wiki/index.md`.
 
 ## [2026-05-08] Ingestione: caffe_non_filtrato.txt
-- Creata la pagina [[Caffe non filtrato]].
+- Creata la pagina [[Caffè non filtrato]].
 - Aggiornato l'elenco in `/wiki/index.md`.
 
 ## [2026-05-08] Ingestione: licopene.txt
