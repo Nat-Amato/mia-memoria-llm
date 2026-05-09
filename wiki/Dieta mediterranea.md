@@ -1,6 +1,6 @@
-# Dieta Mediterranea
+# Dieta mediterranea
 
-La [[Dieta Mediterranea]] è un regime alimentare che si basa sul consumo di:
+La [[Dieta mediterranea]] è un regime alimentare che si basa sul consumo di:
 - [[Olio d'oliva]]
 - [[Cereali integrali]]
 - [[Legumi]] (importanti fonti di proteine vegetali)
