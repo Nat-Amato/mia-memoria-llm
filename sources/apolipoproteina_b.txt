@@ -1,0 +1,6 @@
+L'apolipoproteina B (ApoB) è la principale proteina strutturale delle lipoproteine a bassa densità (LDL), a densità intermedia (IDL), a densità molto bassa (VLDL) e dei chilomicroni.
+Esiste in due forme principali nell'uomo: ApoB-100, sintetizzata nel fegato, e ApoB-48, prodotta nell'intestino.
+Poiché ogni particella lipoproteica aterogena contiene esattamente una molecola di ApoB, la concentrazione plasmatica di ApoB fornisce una stima diretta del numero totale di particelle aterogene in circolo. Per questo motivo, viene considerata da molti esperti un marker più accurato del rischio cardiovascolare rispetto al solo calcolo del colesterolo LDL.
+
+Riferimenti:
+Sniderman, A. D., et al. Apolipoprotein B Particles and Cardiovascular Disease: A Narrative Review. JAMA Cardiology, 2019. DOI: 10.1001/jamacardio.2019.3780
