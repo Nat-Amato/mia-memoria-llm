@@ -9,6 +9,7 @@
 - [[Aglio nero]]: L'aglio nero è ottenuto dall'aglio fresco attraverso un processo prolungato di invecchiamento a temperatura e umidità controllate (spesso definito impropriamente fermentazione).
 - [[Antiossidanti]]: Molecole che neutralizzano i radicali liberi, contrastando l'invecchiamento cellulare e lo stress ossidativo.
 - [[Antocianine]]: Le antocianine sono una classe di pigmenti idrosolubili appartenenti alla famiglia dei flavonoidi, responsabili dei colori rosso, viola e blu di molti frutti e verdure.
+- [[Apolipoproteina B]]: L'apolipoproteina B (ApoB) è la principale proteina strutturale delle lipoproteine a bassa densità (LDL), a densità intermedia (IDL), a densità molto bassa (VLDL) e dei chilomicroni.
 - [[Aterosclerosi]]: L'aterosclerosi è una condizione patologica caratterizzata dall'accumulo di lipidi, colesterolo, calcio e altre sostanze nelle pareti delle arterie, formando placche.
 - [[Attività fisica]]: Pilastro fondamentale nella prevenzione delle malattie cardiovascolari, che contribuisce al controllo del peso e alla regolazione della pressione arteriosa.
 - [[Avena]]: L'avena è un cereale ricco di fibre solubili, in particolare beta-glucani.
@@ -22,6 +23,7 @@
 - [[Carni processate]]: Alimenti il cui elevato consumo è correlato a un aumento del rischio di malattie coronariche e diabete.
 - [[Cereali integrali]]: Cereali non raffinati che mantengono un elevato apporto di fibre e antiossidanti.
 - [[Cioccolato fondente]]: Alimento che, se consumato con moderazione, offre benefici vascolari grazie all'alto contenuto di flavonoidi.
+- [[Coenzima Q10]]: Il coenzima Q10 (CoQ10), o ubichinone, è una molecola liposolubile presente in quasi tutte le cellule dell'organismo umano, concentrata in particolare nei mitocondri di organi ad alto dispendio energetico come il cuore.
 - [[Colesterolo]]: Lipide essenziale per l'organismo, i cui livelli elevati aumentano il rischio di malattie cardiache.
 - [[Curcuma]]: La curcuma (Curcuma longa) è una spezia dal caratteristico colore giallo brillante, ampiamente utilizzata nella cucina asiatica e nella medicina tradizionale.
 - [[Diabete di tipo 2]]: Condizione metabolica che accelera l'irrigidimento arterioso e aumenta la probabilità di eventi coronarici.
@@ -49,6 +51,7 @@
 - [[Lenticchie]]: Le lenticchie sono semi di piante leguminose particolarmente apprezzati per la loro rapidità di cottura rispetto ad altri legumi e per l'assenza di necessità di ammollo prolungato.
 - [[Licopene]]: Il licopene è un carotenoide responsabile del colore rosso brillante di molti frutti e verdure, in particolare dei pomodori, dell'anguria e del pompelmo rosa.
 - [[Lignani]]: I lignani sono una classe di fitoestrogeni, composti vegetali la cui struttura chimica è simile agli estrogeni umani, e di polifenoli.
+- [[Lipoproteina a]]: La lipoproteina(a), spesso abbreviata in Lp(a), è una particella lipoproteica strutturalmente simile alle lipoproteine a bassa densità (LDL), ma caratterizzata dalla presenza di un'ulteriore proteina chiamata apolipoproteina(a), legata covalentemente all'[[Apolipoproteina B]].
 - [[Magnesio]]: Minerale vitale per rilassare i vasi sanguigni e regolare il battito cardiaco, chiave nella Dieta DASH.
 - [[Malattie cardiovascolari]]: Disturbi che colpiscono cuore e vasi sanguigni, come infarto, ictus e ipertensione.
 - [[Mandorle]]: Le mandorle sono frutti a guscio ricchi di grassi monoinsaturi, vitamina E, fibre e magnesio.
@@ -69,8 +72,12 @@
 - [[Pomodori]]: I pomodori sono frutti (spesso considerati ortaggi dal punto di vista culinario) caratterizzati da un elevato contenuto di acqua, potassio, vitamina C e licopene.
 - [[Potassio]]: Minerale essenziale per muscoli, nervi, cuore e l'equilibrio dei liquidi, presente in molti alimenti vegetali.
 - [[Prevenzione primaria]]: Insieme di strategie volte a prevenire l'insorgenza delle malattie cardiovascolari controllando i fattori di rischio.
+- [[Proteina C-reattiva]]: La proteina C-reattiva (PCR o CRP, dall'inglese C-Reactive Protein) è una proteina di fase acuta prodotta dal fegato in risposta a infiammazioni, infezioni o danni tissutali.
+- [[Quercetina]]: La quercetina è un flavonoide ubiquitario presente in numerosi alimenti di origine vegetale, tra cui cipolle, mele, capperi, uva e frutti di bosco.
+- [[Radicali liberi]]: I radicali liberi sono molecole o atomi altamente instabili e reattivi, caratterizzati dalla presenza di uno o più elettroni spaiati nel loro orbitale esterno.
 - [[Resveratrolo]]: Il resveratrolo è un composto fenolico appartenente alla famiglia delle fitoalessine, sostanze prodotte da alcune piante in risposta a stress ambientali o infezioni patogene.
 - [[Salmone]]: Il salmone è un pesce grasso che rappresenta una delle migliori fonti alimentari di acidi grassi polinsaturi a lunga catena.
+- [[Scompenso cardiaco]]: Lo scompenso cardiaco, o insufficienza cardiaca, è una sindrome clinica complessa in cui il cuore non è in grado di pompare sangue in quantità adeguata a soddisfare le richieste metaboliche dell'organismo, oppure riesce a farlo solo a pressioni di riempimento elevate.
 - [[Sedentarietà]]: La sedentarietà è uno stile di vita caratterizzato da un dispendio energetico minimo, che include attività svolte prevalentemente da seduti o sdraiati per lunghi periodi.
 - [[Selenio]]: Il selenio è un oligoelemento essenziale che agisce come cofattore per numerosi enzimi, in particolare per le glutatione perossidasi, fondamentali per la difesa cellulare contro lo stress ossidativo.
 - [[Semi di chia]]: I semi di chia (Salvia hispanica) sono piccoli semi scuri ricchi di fibre, proteine e acidi grassi polinsaturi, in particolare l'acido alfa-linolenico (ALA), un precursore di origine vegetale.
@@ -79,6 +86,7 @@
 - [[Sindrome metabolica]]: Cluster di condizioni che aumentano il rischio di malattie cardiache, ictus e diabete di tipo 2.
 - [[Sodio]]: Elemento che regola i liquidi ma il cui abuso favorisce problemi arteriosi.
 - [[Soia]]: La soia è un legume ampiamente coltivato, noto per essere una fonte completa di proteine di origine vegetale, contenente tutti gli amminoacidi essenziali.
+- [[Statine]]: Le statine sono una classe di farmaci ampiamente utilizzati per ridurre i livelli di [[Colesterolo]] nel sangue, agendo come inibitori competitivi dell'enzima HMG-CoA reduttasi, l'enzima chiave nella sintesi epatica del [[Colesterolo]].
 - [[Stress ossidativo]]: Squilibrio tra radicali liberi e antiossidanti che favorisce la formazione della placca aterosclerotica.
 - [[Tabagismo]]: Il tabagismo è la pratica di inalare il fumo derivante dalla combustione del tabacco.
 - [[Teaflavine]]: Le teaflavine sono una classe di composti polifenolici che si formano durante la fermentazione enzimatica (ossidazione) delle foglie di tè, caratteristiche del tè nero.

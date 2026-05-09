@@ -387,3 +387,34 @@
 ## [2026-05-08] Ingestione: olio_oliva.txt
 - Aggiornata la pagina [[Olio d'oliva]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+## [2026-05-09] Ingestione: proteina_c_reattiva.txt
+- Creata la pagina [[Proteina C-reattiva]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: scompenso_cardiaco.txt
+- Creata la pagina [[Scompenso cardiaco]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: lipoproteina_a.txt
+- Creata la pagina [[Lipoproteina a]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: coenzima_q10.txt
+- Creata la pagina [[Coenzima Q10]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: apolipoproteina_b.txt
+- Creata la pagina [[Apolipoproteina B]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: radicali_liberi.txt
+- Creata la pagina [[Radicali liberi]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: quercetina.txt
+- Creata la pagina [[Quercetina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: statine.txt
+- Creata la pagina [[Statine]].
+- Aggiornato l'elenco in `/wiki/index.md`.

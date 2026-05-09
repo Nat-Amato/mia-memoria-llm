@@ -1,0 +1,8 @@
+# Quercetina
+
+La quercetina è un flavonoide ubiquitario presente in numerosi alimenti di origine vegetale, tra cui cipolle, mele, capperi, uva e frutti di bosco.
+È nota per le sue spiccate proprietà [[Antiossidanti]] e antinfiammatorie, essendo in grado di neutralizzare i [[Radicali liberi]] e inibire gli enzimi coinvolti nella risposta infiammatoria.
+Studi nutrizionali suggeriscono che un apporto adeguato di quercetina nella dieta possa contribuire alla salute cardiovascolare, migliorando la funzione endoteliale e favorendo un lieve effetto ipotensivo attraverso la modulazione dell'[[Ossido nitrico]].
+
+Riferimenti:
+Serban, M. C., et al. Effects of Quercetin on Blood Pressure: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Journal of the American Heart Association, 2016. DOI: 10.1161/JAHA.115.002713
