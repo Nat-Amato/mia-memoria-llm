@@ -1,0 +1,8 @@
+# Lipoproteina a
+
+La lipoproteina(a), spesso abbreviata in Lp(a), è una particella lipoproteica strutturalmente simile alle lipoproteine a bassa densità (LDL), ma caratterizzata dalla presenza di un'ulteriore proteina chiamata apolipoproteina(a), legata covalentemente all'[[Apolipoproteina B]].
+I livelli circolanti di Lp(a) sono determinati quasi esclusivamente su base genetica e non sono influenzati in modo significativo dalla dieta o dalla maggior parte dei farmaci ipolipemizzanti tradizionali come le [[Statine]].
+Elevati livelli plasmatici di Lp(a) rappresentano un fattore di rischio cardiovascolare indipendente e causale, essendo fortemente associati a un aumentato rischio di [[Aterosclerosi]], [[Infarto miocardico]], [[Ictus cerebrale]] e stenosi della valvola aortica, a causa delle sue proprietà pro-aterogene e pro-trombotiche.
+
+Riferimenti:
+Tsimikas, S. A Test in Context: Lipoprotein(a): Diagnosis, Prognosis, Controversies, and Emerging Therapies. Journal of the American College of Cardiology, 2017. DOI: 10.1016/j.jacc.2017.01.032
