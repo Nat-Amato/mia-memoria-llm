@@ -1,0 +1,9 @@
+# Broccoli
+
+I broccoli (Brassica oleracea var. italica) sono ortaggi appartenenti alla famiglia delle Brassicaceae, noti per il loro alto contenuto di micronutrienti, tra cui [[Vitamina C]], [[Vitamina K]], [[Acido folico]] e fibre.
+Sono particolarmente studiati per la presenza di glucosinolati, composti solforati che, durante la masticazione o la digestione, si trasformano in isotiocianati (come il sulforafano).
+Questi composti hanno dimostrato in vari studi di possedere attività [[Antiossidanti]] e antinfiammatorie. Il consumo regolare di broccoli e altre verdure crucifere è stato associato a una riduzione del rischio di sviluppare determinate condizioni croniche e supporta la salute cardiovascolare, in parte grazie all'effetto protettivo sull'endotelio vascolare.
+
+
+## Riferimenti
+Borguini, R.G. et al. Broccoli (Brassica oleracea L. var. italica) and its health benefits: a review. Journal of Food, Agriculture & Environment, 2011.

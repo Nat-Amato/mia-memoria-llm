@@ -1,0 +1,9 @@
+# Catechine
+
+Le catechine sono una sottoclasse di composti fitochimici appartenenti alla grande famiglia dei [[Flavonoidi]] (e più specificamente dei flavanoli). Strutturalmente si presentano come monomeri e si differenziano dai tannini condensati.
+Si trovano in diverse fonti vegetali, ma sono particolarmente concentrate nel tè, in particolare nel [[Tè verde]], e nel [[Cacao]]. L'epigallocatechina gallato (EGCG) è la catechina più abbondante e studiata presente nel tè verde. L'assorbimento e la biodisponibilità delle catechine possono variare ampiamente in base alla matrice alimentare.
+Le catechine sono riconosciute per le loro spiccate proprietà bioattive, che includono un forte potenziale antiossidante e attività anti-infiammatorie, antimicrobiche e neuroprotettive. A livello vascolare, è stato documentato che questi composti promuovono il rilascio di [[Ossido nitrico]] dall'endotelio, inducendo vasodilatazione e riducendo la pressione sanguigna, oltre a ostacolare l'ossidazione delle lipoproteine LDL.
+
+
+## Riferimenti
+Hodgson, J.M. e Croft, K.D. Tea flavonoids and cardiovascular health. Molecular Aspects of Medicine, 2010. DOI: 10.1016/j.mam.2010.09.004

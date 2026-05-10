@@ -1,0 +1,9 @@
+# Mele
+
+Le mele (Malus domestica) sono un frutto ampiamente consumato, ricco di [[Fibre alimentari]], in particolare la pectina, e di fitocomposti come i [[Flavonoidi]] (ad esempio la [[Quercetina]]) e i [[Polifenoli]].
+Questi nutrienti conferiscono alla mela proprietà [[Antiossidanti]] che possono contribuire a contrastare lo [[Stress ossidativo]].
+La letteratura scientifica indica che il consumo abituale di mele è inversamente associato a diversi fattori di rischio per le patologie croniche, compresi i disturbi cardiovascolari e il [[Diabete di tipo 2]]. Il contenuto di fibre solubili supporta anche la regolarità intestinale e può avere un lieve effetto ipocolesterolemizzante.
+
+
+## Riferimenti
+Bondonno, N.P. et al. Apple consumption is associated with a lower risk of all-cause and disease-specific mortality in elderly women. British Journal of Nutrition, 2016. DOI: 10.1017/S000711451600028X

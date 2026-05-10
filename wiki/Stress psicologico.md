@@ -1,0 +1,9 @@
+# Stress psicologico
+
+Lo stress psicologico prolungato è una condizione in cui l'individuo percepisce che le richieste dell'ambiente superano le proprie risorse di coping, portando a un'attivazione cronica degli assi ipotalamo-ipofisi-surrene (HPA) e simpato-adrenomedollare.
+Questa attivazione cronica si traduce in una costante e prolungata immissione in circolo di catecolamine (come l'adrenalina) e glucocorticoidi (come il cortisolo). Sebbene la risposta acuta allo stress sia adattativa, la sua cronicizzazione ha effetti deleteri sistemici.
+Dal punto di vista cardiovascolare, lo stress cronico è riconosciuto come un fattore di rischio indipendente. Promuove l'infiammazione di basso grado, l'aggregazione piastrinica, la vasocostrizione e la [[Disfunzione endoteliale]], aumentando l'incidenza di eventi cardiovascolari avversi sia nella popolazione generale che nei pazienti con malattie cardiache preesistenti.
+
+
+## Riferimenti
+Steptoe, A. e Kivimäki, M. Stress and cardiovascular disease. Nature Reviews Cardiology, 2012. DOI: 10.1038/nrcardio.2012.45
