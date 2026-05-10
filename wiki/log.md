@@ -418,3 +418,63 @@
 ## [2026-05-09] Ingestione: statine.txt
 - Creata la pagina [[Statine]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: broccoli.txt
+- Creata la pagina [[Broccoli]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: carotenoidi.txt
+- Creata la pagina [[Carotenoidi]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: catechine.txt
+- Creata la pagina [[Catechine]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: dha.txt
+- Creata la pagina [[DHA]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: dieta_vegetariana.txt
+- Creata la pagina [[Dieta vegetariana]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: digiuno_intermittente.txt
+- Creata la pagina [[Digiuno intermittente]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: epa.txt
+- Creata la pagina [[EPA]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: ipercolesterolemia.txt
+- Creata la pagina [[Ipercolesterolemia]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: mele.txt
+- Creata la pagina [[Mele]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: omega_6.txt
+- Creata la pagina [[Omega-6]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: pressione_arteriosa.txt
+- Creata la pagina [[Pressione arteriosa]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: sonno.txt
+- Creata la pagina [[Sonno]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: stress_psicologico.txt
+- Creata la pagina [[Stress psicologico]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: uova.txt
+- Creata la pagina [[Uova]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-09] Ingestione: yogurt.txt
+- Creata la pagina [[Yogurt]].
+- Aggiornato l'elenco in `/wiki/index.md`.
