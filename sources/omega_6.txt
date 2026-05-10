@@ -1,0 +1,6 @@
+Gli acidi grassi omega-6 sono una famiglia di acidi grassi polinsaturi, accomunati dalla presenza del primo doppio legame in sesta posizione partendo dall'estremità metilica della catena carboniosa.
+L'acido linoleico (LA) ne è il precursore principale ed è considerato essenziale in quanto il corpo umano non è in grado di sintetizzarlo. È ampiamente presente in numerosi oli vegetali, come quelli di mais, soia, girasole, e in semi e noci. Nell'organismo, l'acido linoleico può essere convertito in acido arachidonico, che a sua volta serve da substrato per la sintesi di vari eicosanoidi pro e anti-infiammatori.
+Il ruolo degli omega-6 nella salute cardiovascolare è stato storicamente oggetto di dibattito, a causa delle potenziali vie pro-infiammatorie dell'acido arachidonico. Tuttavia, la ricerca attuale evidenzia che un apporto adeguato di acido linoleico in sostituzione dei grassi saturi è associato a una riduzione del colesterolo LDL e a un minor rischio di malattie cardiache.
+
+Riferimenti:
+Harris, W.S. et al. Omega-6 fatty acids and risk for cardiovascular disease: a science advisory from the American Heart Association Nutrition Subcommittee of the Council on Nutrition, Physical Activity, and Metabolism; Council on Cardiovascular Nursing; and Council on Epidemiology and Prevention. Circulation, 2009. DOI: 10.1161/CIRCULATIONAHA.108.191627

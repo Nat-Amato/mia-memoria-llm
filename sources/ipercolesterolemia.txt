@@ -1,0 +1,6 @@
+L'ipercolesterolemia è un disordine metabolico caratterizzato da livelli patologicamente elevati di colesterolo totale nel sangue, ed è primariamente dovuta a un eccesso di lipoproteine a bassa densità (LDL).
+Può avere un'eziologia genetica (come nell'ipercolesterolemia familiare) o, più comunemente, essere il risultato di un'interazione tra predisposizione poligenica e fattori legati allo stile di vita, come una dieta ricca di grassi saturi e scarsa attività fisica.
+Elevate concentrazioni di colesterolo LDL innescano processi patologici a carico dell'endotelio vascolare, facilitando l'ingresso e la ritenzione delle lipoproteine nell'intima delle arterie. Questo fenomeno rappresenta il primum movens per la formazione della placca aterosclerotica, rendendo l'ipercolesterolemia uno dei principali fattori di rischio causali per lo sviluppo di malattie ischemiche del cuore.
+
+Riferimenti:
+Ference, B.A. et al. Low-density lipoproteins cause atherosclerotic cardiovascular disease. 1. Evidence from genetic, epidemiologic, and clinical studies. A consensus statement from the European Atherosclerosis Society Consensus Panel. European Heart Journal, 2017. DOI: 10.1093/eurheartj/ehx144
