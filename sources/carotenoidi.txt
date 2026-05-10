@@ -1,0 +1,6 @@
+I carotenoidi sono pigmenti organici prodotti principalmente da piante, alghe e alcuni microrganismi, responsabili della colorazione gialla, arancione e rossa di molti frutti e ortaggi.
+Esistono diverse centinaia di carotenoidi identificati, ma quelli più rilevanti per l'alimentazione umana e la fisiologia includono il beta-carotene, il licopene, la luteina e la zeaxantina. Alcuni di essi, come il beta-carotene, sono definiti provitamina A in quanto l'organismo è in grado di convertirli in retinolo (vitamina A), essenziale per la visione e la differenziazione cellulare.
+A livello sistemico, i carotenoidi agiscono come potenti antiossidanti lipofili, contrastando lo stress ossidativo neutralizzando i radicali liberi. Il loro introito dietetico è stato correlato a una riduzione del rischio di patologie croniche, comprese le malattie cardiovascolari, proteggendo le lipoproteine LDL dall'ossidazione e preservando la funzione endoteliale.
+
+Riferimenti:
+Rao, A.V. e Rao, L.G. Carotenoids and human health. Pharmacological Research, 2007. DOI: 10.1016/j.phrs.2007.01.012
