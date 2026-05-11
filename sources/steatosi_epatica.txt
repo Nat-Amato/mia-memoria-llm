@@ -1,0 +1,7 @@
+La steatosi epatica, comunemente definita fegato grasso, è l'accumulo anomalo di trigliceridi all'interno degli epatociti.
+Se non correlata a un eccessivo consumo di alcol, viene definita Steatosi Epatica Non Alcolica (NAFLD).
+È strettamente legata alla sindrome metabolica, all'obesità addominale, all'insulino-resistenza e alla dislipidemia.
+Sebbene la forma semplice sia generalmente benigna, può progredire verso la steatoepatite non alcolica (NASH), con infiammazione e fibrosi, potenzialmente evolvendo in cirrosi o insufficienza epatica. Gli interventi dietetici e l'attività fisica rappresentano la prima linea di trattamento.
+
+Riferimenti:
+Younossi, Z. M., et al. Global epidemiology of nonalcoholic fatty liver disease-Meta-analytic assessment of prevalence, incidence, and outcomes. Hepatology, 2016. DOI: 10.1002/hep.28431
