@@ -1,0 +1,6 @@
+L'infiammazione cronica di basso grado è una risposta prolungata del sistema immunitario caratterizzata dalla presenza costante di bassi livelli di mediatori pro-infiammatori circolanti, come la proteina C-reattiva (CRP) e varie citochine.
+A differenza dell'infiammazione acuta, che è una risposta difensiva a breve termine a lesioni o infezioni, l'infiammazione cronica sistemica è spesso asintomatica per lunghi periodi.
+È considerata un fattore eziologico chiave nello sviluppo di numerose patologie legate all'invecchiamento e agli stili di vita scorretti, tra cui l'aterosclerosi, il diabete di tipo 2 e alcune malattie neurodegenerative.
+
+Riferimenti:
+Furman, D., et al. Chronic inflammation in the etiology of disease across the life span. Nature Medicine, 2019. DOI: 10.1038/s41591-019-0675-0
