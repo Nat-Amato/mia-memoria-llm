@@ -478,3 +478,90 @@
 ## [2026-05-09] Ingestione: yogurt.txt
 - Creata la pagina [[Yogurt]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+
+## [2026-05-11] Ingestione: allicina.txt
+- Creata la pagina [[Allicina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: carote.txt
+- Creata la pagina [[Carote]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: ceci.txt
+- Creata la pagina [[Ceci]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: endotelio.txt
+- Creata la pagina [[Endotelio]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: fragole.txt
+- Creata la pagina [[Fragole]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: infiammazione_cronica.txt
+- Creata la pagina [[Infiammazione cronica]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: kefir.txt
+- Creata la pagina [[Kefir]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: kombucha.txt
+- Creata la pagina [[Kombucha]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: luteina.txt
+- Creata la pagina [[Luteina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: malattie_cardiovascolari.txt
+- Analizzato file sorgente. Contenuto già presente in [[Malattie cardiovascolari]]. Nessuna modifica applicata ai contenuti.
+
+## [2026-05-11] Ingestione: miso.txt
+- Creata la pagina [[Miso]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: noci_pecan.txt
+- Creata la pagina [[Noci pecan]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: omega_3.txt
+- Analizzato file sorgente. Contenuto già presente in [[Omega-3]]. Nessuna modifica applicata ai contenuti.
+
+## [2026-05-11] Ingestione: peperoni.txt
+- Creata la pagina [[Peperoni]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: quinoa.txt
+- Creata la pagina [[Quinoa]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: ritmo_circadiano.txt
+- Creata la pagina [[Ritmo circadiano]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: sgombro.txt
+- Creata la pagina [[Sgombro]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: spinaci.txt
+- Creata la pagina [[Spinaci]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: steatosi_epatica.txt
+- Creata la pagina [[Steatosi epatica]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: sulforafano.txt
+- Creata la pagina [[Sulforafano]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: trombosi.txt
+- Creata la pagina [[Trombosi]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-11] Ingestione: vitamina_a.txt
+- Creata la pagina [[Vitamina a]].
+- Aggiornato l'elenco in `/wiki/index.md`.
