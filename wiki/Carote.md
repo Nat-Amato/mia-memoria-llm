@@ -1,0 +1,9 @@
+# Carote
+
+Le carote (Daucus carota) sono ortaggi a radice noti principalmente per il loro elevato contenuto di beta-carotene, un precursore della vitamina A.
+Forniscono anche discrete quantità di fibre, vitamina K1, [[Potassio]] e [[Antiossidanti]].
+L'assunzione di beta-carotene attraverso alimenti come le carote è fondamentale per il mantenimento di una vista sana, per la funzione immunitaria e per l'integrità della pelle e delle mucose.
+La cottura con piccole quantità di grassi può aumentare significativamente la biodisponibilità dei [[Carotenoidi]] in esse contenuti.
+
+Riferimenti:
+Krinsky, N. I., & Johnson, E. J. Carotenoid actions and their relation to health and disease. Molecular Aspects of Medicine, 2005. DOI: 10.1016/j.mam.2005.10.001

@@ -1,0 +1,8 @@
+# Kefir
+
+Il kefir è una bevanda fermentata tradizionalmente prodotta da latte vaccino o caprino, inoculato con grani di kefir che contengono una complessa associazione simbiotica di batteri e lieviti.
+Si caratterizza per un profilo probiotico molto vario ed è tollerato meglio del latte dalle persone intolleranti al lattosio, grazie alla parziale degradazione di quest'ultimo durante la fermentazione.
+Studi nutrizionali mostrano che il kefir può modulare positivamente il [[Microbiota intestinale]], migliorare le risposte immunitarie e presentare proprietà antimicrobiche e antinfiammatorie.
+
+Riferimenti:
+Bourrie, B. C., et al. The Microbiota and Health Promoting Characteristics of the Fermented Beverage Kefir. Frontiers in Microbiology, 2016. DOI: 10.3389/fmicb.2016.00647

@@ -1,0 +1,9 @@
+# Quinoa
+
+La quinoa (Chenopodium quinoa) è uno pseudocereale andino riconosciuto per le sue proprietà nutrizionali eccezionali.
+È uno dei pochi alimenti vegetali a fornire proteine complete, contenendo tutti i nove amminoacidi essenziali in proporzioni adeguate per la nutrizione umana.
+Oltre alle proteine, la quinoa fornisce fibre, [[Magnesio]], manganese, fosforo e [[Antiossidanti]] come la [[Quercetina]].
+Il suo impiego nell'alimentazione è utile per il miglioramento del metabolismo lipidico e per il controllo del peso corporeo, essendo priva di glutine e con un basso [[Indice glicemico]].
+
+Riferimenti:
+Navruz-Varli, S., & Sanlier, N. Nutritional and health benefits of quinoa (Chenopodium quinoa Willd.). Journal of Cereal Science, 2016. DOI: 10.1016/j.jcs.2016.02.012
