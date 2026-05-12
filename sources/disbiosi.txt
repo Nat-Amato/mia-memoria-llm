@@ -1,0 +1,5 @@
+La disbiosi intestinale è una condizione di alterazione qualitativa e quantitativa della normale flora batterica (microbiota) residente nel tratto gastrointestinale.
+Questa perdita di equilibrio, spesso causata da diete povere di fibre, uso eccessivo di antibiotici o stress cronico, è associata a un aumento della permeabilità intestinale e a un'infiammazione sistemica di basso grado. La disbiosi gioca un ruolo patogenetico in numerose condizioni cliniche, tra cui l'obesità, la sindrome metabolica e i disturbi cardiovascolari.
+
+Riferimenti:
+Carding, S. et al. Dysbiosis of the gut microbiota in disease. Microbial Ecology in Health and Disease, 2015. DOI: 10.3402/mehd.v26.26191

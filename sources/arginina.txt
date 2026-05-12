@@ -1,0 +1,5 @@
+L'arginina è un amminoacido condizionatamente essenziale, coinvolto nella sintesi delle proteine, dell'urea e della creatina.
+È il precursore fisiologico diretto per la sintesi dell'ossido nitrico da parte dell'enzima ossido nitrico sintasi endoteliale (eNOS). La supplementazione dietetica di L-arginina è stata esplorata per la sua potenziale capacità di migliorare la vasodilatazione endotelio-dipendente e di modulare positivamente la pressione arteriosa, sebbene la sua efficacia possa essere limitata dall'esteso metabolismo di primo passaggio epatico e intestinale.
+
+Riferimenti:
+Böger, R.H. The pharmacodynamics of L-arginine. The Journal of Nutrition, 2007. DOI: 10.1093/jn/137.6.1650S
