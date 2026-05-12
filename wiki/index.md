@@ -128,7 +128,7 @@
 - [[Uova]]: Le uova sono un alimento di origine animale ad alto valore biologico, fonte di proteine complete, vitamine (inclusa la vitamina B12 e la vitamina D) e minerali.
 - [[Verdure a foglia verde]]: Ortaggi ricchi di nitrati, vitamina K e acido folico, importanti per mantenere bassa la pressione arteriosa.
 - [[Vino rosso]]: Bevanda contenente polifenoli come il resveratrolo, con potenziali effetti protettivi sul cuore se consumata con estrema moderazione.
-- [[Vitamina a]]: La vitamina A è una vitamina liposolubile essenziale, presente in natura in due forme: retinoidi (preformati, negli alimenti di origine animale) e carotenoidi provitaminici (negli alimenti vegetali).
+- [[Vitamina A]]: La vitamina A è una vitamina liposolubile essenziale, presente in natura in due forme: retinoidi (preformati, negli alimenti di origine animale) e carotenoidi provitaminici (negli alimenti vegetali).
 - [[Vitamina B12]]: La vitamina B12 (cobalamina) è una vitamina idrosolubile essenziale per la formazione dei globuli rossi, per il metabolismo cellulare, per la funzione nervosa e per la sintesi del DNA.
 - [[Vitamina B6]]: La vitamina B6 (piridossina) è un coenzima idrosolubile coinvolto in oltre 100 reazioni metaboliche enzimatiche, prevalentemente nel metabolismo delle proteine e degli amminoacidi.
 - [[Vitamina C]]: La vitamina C, o acido ascorbico, è un nutriente essenziale noto per le sue proprietà antiossidanti e per il ruolo chiave nella sintesi del collagene, una proteina strutturale vitale per pelle, vasi sanguigni, ossa e cartilagini.

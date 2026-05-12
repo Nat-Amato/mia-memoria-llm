@@ -1,4 +1,4 @@
-# Vitamina a
+# Vitamina A
 
 La vitamina A è una vitamina liposolubile essenziale, presente in natura in due forme: retinoidi (preformati, negli alimenti di origine animale) e [[Carotenoidi]] provitaminici (negli alimenti vegetali).
 Riveste un ruolo cruciale nella trasduzione del segnale visivo, essendo un componente fondamentale della rodopsina, pigmento della retina.
