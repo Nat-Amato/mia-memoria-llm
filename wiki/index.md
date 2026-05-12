@@ -5,6 +5,7 @@
 - [[Acido alfa linolenico]]: L'acido alfa-linolenico (ALA) è un acido grasso essenziale della famiglia dei polinsaturi, che deve essere necessariamente introdotto con la dieta in quanto il corpo umano non è in grado di sintetizzarlo.
 - [[Acido folico]]: L'acido folico (o vitamina B9) è una vitamina idrosolubile essenziale per la sintesi del DNA, la divisione cellulare e la formazione dei globuli rossi.
 - [[Acido oleico]]: L'acido oleico è un acido grasso monoinsaturo appartenente alla famiglia degli omega-9, ed è il componente principale dell'olio d'oliva.
+- [[Acido urico]]: L'acido urico è il prodotto finale del metabolismo delle purine negli esseri umani, escreto principalmente attraverso i reni.
 - [[Aglio]]: L'aglio (Allium sativum) è una pianta bulbosa utilizzata fin dall'antichità sia come condimento che per i suoi presunti benefici per la salute.
 - [[Aglio nero]]: L'aglio nero è ottenuto dall'aglio fresco attraverso un processo prolungato di invecchiamento a temperatura e umidità controllate (spesso definito impropriamente fermentazione).
 - [[Allicina]]: L'allicina (diallil tiosulfinato) è il principale composto organosulfurico bioattivo presente nell'aglio crudo frantumato.

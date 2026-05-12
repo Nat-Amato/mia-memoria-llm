@@ -565,3 +565,7 @@
 ## [2026-05-11] Ingestione: vitamina_a.txt
 - Creata la pagina [[Vitamina A]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-12] Ingestione: acido_urico.txt
+- Creata la pagina [[Acido urico]].
+- Aggiornato l'elenco in `/wiki/index.md`.
