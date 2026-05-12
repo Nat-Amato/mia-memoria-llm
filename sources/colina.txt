@@ -1,0 +1,5 @@
+La colina è un nutriente essenziale, idrosolubile, spesso raggruppato con le vitamine del gruppo B, fondamentale per la sintesi dei fosfolipidi delle membrane cellulari e del neurotrasmettitore acetilcolina.
+È presente in abbondanza in alimenti come uova, fegato e carni. Sebbene sia cruciale per lo sviluppo cerebrale e la funzionalità epatica (prevenendo la steatosi), un eccesso derivante da fonti animali può essere convertito in TMA dalla flora batterica intestinale, un precursore del TMAO.
+
+Riferimenti:
+Zeisel, S.H., da Costa, K.A. Choline: an essential nutrient for public health. Nutrition Reviews, 2009. DOI: 10.1111/j.1753-4887.2009.00246.x

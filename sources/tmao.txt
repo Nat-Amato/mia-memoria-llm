@@ -1,0 +1,5 @@
+L'N-ossido di trimetilammina (TMAO) è un metabolita derivato dall'ossidazione epatica della trimetilammina (TMA), prodotta dai batteri del microbiota intestinale a partire da nutrienti come colina e L-carnitina.
+Livelli circolanti elevati di TMAO sono considerati un fattore di rischio emergente per lo sviluppo e la progressione dell'aterosclerosi, in quanto favoriscono l'accumulo di colesterolo nei macrofagi e alterano la reattività piastrinica, incrementando il rischio di eventi trombotici.
+
+Riferimenti:
+Wang, Z. et al. Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease. Nature, 2011. DOI: 10.1038/nature09922
