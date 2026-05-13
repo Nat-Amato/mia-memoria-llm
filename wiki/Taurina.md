@@ -1,0 +1,8 @@
+# Taurina
+
+La taurina è un acido amminoetansolfonico presente in elevate concentrazioni nei tessuti dei mammiferi, in particolare nel cuore, nel cervello e nei muscoli scheletrici.
+Non è utilizzata per la sintesi proteica, ma svolge ruoli fisiologici essenziali, tra cui l'osmoregolazione, la modulazione del [[Calcio]] intracellulare e un'azione antiossidante.
+A livello cardiovascolare, diversi studi evidenziano come la taurina possa supportare la funzione endoteliale e possedere un potenziale ipotensivo, aiutando a regolare la [[Pressione arteriosa]]. Inoltre, è stata impiegata come supplemento in pazienti con [[Scompenso cardiaco]] per migliorare la capacità di esercizio.
+
+Riferimenti:
+Schaffer, S. W., et al. "Physiological roles of taurine in heart and muscle." Journal of Biomedical Science, 2010. DOI: 10.1186/1423-0127-17-S1-S2

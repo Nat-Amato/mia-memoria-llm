@@ -1,6 +1,7 @@
 # Indice della Wiki
 
 ## Alimentazione e Nutrizione
+- [[Acciughe]]: Le acciughe sono piccoli pesci azzurri marini molto diffusi e consumati freschi o conservati (sotto sale o sott'olio).
 - [[Acidi grassi a catena corta]]: Gli acidi grassi a catena corta (SCFA), come l'acetato, il propionato e il butirrato, sono prodotti principalmente dalla fermentazione delle fibre alimentari non digeribili da parte dei batteri intestinali nel colon.
 - [[Acido alfa linolenico]]: L'acido alfa-linolenico (ALA) è un acido grasso essenziale della famiglia dei polinsaturi, che deve essere necessariamente introdotto con la dieta in quanto il corpo umano non è in grado di sintetizzarlo.
 - [[Acido folico]]: L'acido folico (o vitamina B9) è una vitamina idrosolubile essenziale per la sintesi del DNA, la divisione cellulare e la formazione dei globuli rossi.
@@ -9,29 +10,41 @@
 - [[Aglio]]: L'aglio (Allium sativum) è una pianta bulbosa utilizzata fin dall'antichità sia come condimento che per i suoi presunti benefici per la salute.
 - [[Aglio nero]]: L'aglio nero è ottenuto dall'aglio fresco attraverso un processo prolungato di invecchiamento a temperatura e umidità controllate (spesso definito impropriamente fermentazione).
 - [[Allicina]]: L'allicina (diallil tiosulfinato) è il principale composto organosulfurico bioattivo presente nell'aglio crudo frantumato.
+- [[Angina pectoris]]: L'angina pectoris è una sindrome clinica caratterizzata da dolore, oppressione o fastidio al petto, spesso irradiato al braccio sinistro, al collo o alla mandibola, provocato da un'[[Ischemia miocardica]] transitoria.
 - [[Antiossidanti]]: Molecole che neutralizzano i radicali liberi, contrastando l'invecchiamento cellulare e lo stress ossidativo.
 - [[Antocianine]]: Le antocianine sono una classe di pigmenti idrosolubili appartenenti alla famiglia dei flavonoidi, responsabili dei colori rosso, viola e blu di molti frutti e verdure.
 - [[Apolipoproteina B]]: L'apolipoproteina B (ApoB) è la principale proteina strutturale delle lipoproteine a bassa densità (LDL), a densità intermedia (IDL), a densità molto bassa (VLDL) e dei chilomicroni.
+- [[Arginina]]: L'arginina è un amminoacido condizionatamente essenziale, coinvolto nella sintesi delle proteine, dell'urea e della creatina.
+- [[Aritmia]]: L'aritmia è un'alterazione del normale ritmo del battito cardiaco, che può manifestarsi come una frequenza anomala (tachicardia, se troppo veloce; bradicardia, se troppo lenta) o un ritmo irregolare.
+- [[Arterie coronarie]]: Le arterie coronarie sono i vasi sanguigni che si originano dalla radice dell'aorta e avvolgono il cuore, avendo la funzione esclusiva di fornire ossigeno e nutrienti al [[Miocardio]].
+- [[Astaxantina]]: L'astaxantina è un carotenoide appartenente alla classe delle xantofille, responsabile del caratteristico colore rosso-rosato di alcuni pesci (come [[Salmone]] e trota) e crostacei.
 - [[Aterosclerosi]]: L'aterosclerosi è una condizione patologica caratterizzata dall'accumulo di lipidi, colesterolo, calcio e altre sostanze nelle pareti delle arterie, formando placche.
 - [[Attività fisica]]: Pilastro fondamentale nella prevenzione delle malattie cardiovascolari, che contribuisce al controllo del peso e alla regolazione della pressione arteriosa.
 - [[Avena]]: L'avena è un cereale ricco di fibre solubili, in particolare beta-glucani.
 - [[Avocado]]: L'avocado è un frutto unico per il suo elevato contenuto di grassi, prevalentemente acido oleico (monoinsaturo).
+- [[Barbabietole]]: Le barbabietole (Beta vulgaris) sono ortaggi da radice caratterizzati da un intenso colore rosso violaceo dovuto alla presenza di betalaine, pigmenti con spiccate proprietà [[Antiossidanti]].
 - [[Beta glucani]]: I beta-glucani sono polisaccaridi naturali presenti in alcune fibre solubili, in particolare nell'avena e nell'orzo.
+- [[Betaina]]: La betaina (trimetilglicina) è un composto derivato dalla [[Colina]] o assunto tramite l'alimentazione (ad esempio tramite [[Barbabietole]], [[Spinaci]] e [[Cereali integrali]]), che agisce come osmolita organico e donatore di metili.
 - [[Broccoli]]: I broccoli (Brassica oleracea var. italica) sono ortaggi appartenenti alla famiglia delle Brassicaceae, noti per il loro alto contenuto di micronutrienti, tra cui [[Vitamina C]], [[Vitamina K]], [[Acido folico]] e fibre.
 - [[Cacao]]: Il cacao, ottenuto dai semi dell'albero Theobroma cacao, è l'ingrediente principale del cioccolato.
 - [[Caffè non filtrato]]: Il caffè non filtrato (come il caffè bollito scandinavo, il caffè turco o la pressa francese) contiene diterpeni, composti lipidici naturali del chicco di caffè, tra cui il cafestolo e il caweolo.
 - [[Calcificazione vascolare]]: La calcificazione vascolare è il deposito patologico di minerali, principalmente fosfato di calcio, nelle pareti dei vasi sanguigni, spesso associato all'invecchiamento, al diabete e alle malattie renali croniche.
 - [[Calcio]]: Minerale essenziale per le ossa che partecipa alla contrazione e al rilassamento dei vasi sanguigni.
+- [[Capsaicina]]: La capsaicina è il composto chimico attivo presente nei peperoncini (genere Capsicum) responsabile del loro sapore piccante.
 - [[Carciofi]]: I carciofi sono ortaggi ricchi di fibre inulina, cinarina e numerosi composti antiossidanti.
 - [[Carni processate]]: Alimenti il cui elevato consumo è correlato a un aumento del rischio di malattie coronariche e diabete.
+- [[Carnitina]]: La carnitina è un derivato amminoacidico essenziale per il trasporto degli acidi grassi a lunga catena all'interno dei mitocondri, dove subiscono la beta-ossidazione per produrre energia.
 - [[Carote]]: Le carote (Daucus carota) sono ortaggi a radice noti principalmente per il loro elevato contenuto di beta-carotene, un precursore della vitamina A.
 - [[Carotenoidi]]: I carotenoidi sono pigmenti organici prodotti principalmente da piante, alghe e alcuni microrganismi, responsabili della colorazione gialla, arancione e rossa di molti frutti e ortaggi.
 - [[Catechine]]: Le catechine sono una sottoclasse di composti fitochimici appartenenti alla grande famiglia dei flavonoidi (e più specificamente dei flavanoli).
 - [[Ceci]]: I ceci (Cicer arietinum) sono legumi ampiamente consumati a livello globale e noti per il loro elevato profilo nutrizionale.
 - [[Cereali integrali]]: Cereali non raffinati che mantengono un elevato apporto di fibre e antiossidanti.
 - [[Cioccolato fondente]]: Alimento che, se consumato con moderazione, offre benefici vascolari grazie all'alto contenuto di flavonoidi.
+- [[Cipolle]]: Le cipolle (Allium cepa) sono un ortaggio largamente coltivato e consumato a livello globale, note per il loro caratteristico profilo aromatico.
+- [[Citrullina]]: La citrullina è un amminoacido non essenziale presente in natura soprattutto in frutti come l'anguria, che prende il nome proprio dal genere botanico Citrullus.
 - [[Coenzima Q10]]: Il coenzima Q10 (CoQ10), o ubichinone, è una molecola liposolubile presente in quasi tutte le cellule dell'organismo umano, concentrata in particolare nei mitocondri di organi ad alto dispendio energetico come il cuore.
 - [[Colesterolo]]: Lipide essenziale per l'organismo, i cui livelli elevati aumentano il rischio di malattie cardiache.
+- [[Colina]]: La colina è un nutriente essenziale, idrosolubile, spesso raggruppato con le vitamine del gruppo B, fondamentale per la sintesi dei fosfolipidi delle membrane cellulari e del neurotrasmettitore acetilcolina.
 - [[Curcuma]]: La curcuma (Curcuma longa) è una spezia dal caratteristico colore giallo brillante, ampiamente utilizzata nella cucina asiatica e nella medicina tradizionale.
 - [[DHA]]: L'acido docosaesaenoico (DHA) è un acido grasso polinsaturo a catena lunga della serie omega-3.
 - [[Diabete di tipo 2]]: Condizione metabolica che accelera l'irrigidimento arterioso e aumenta la probabilità di eventi coronarici.
@@ -39,28 +52,37 @@
 - [[Dieta mediterranea]]: Panoramica sui principi della dieta mediterranea, i suoi ingredienti base e i benefici per il cuore.
 - [[Dieta vegetariana]]: La dieta vegetariana è un modello alimentare basato principalmente o esclusivamente su alimenti di origine vegetale, escludendo il consumo di carne e pesce.
 - [[Digiuno intermittente]]: Il digiuno intermittente non è una dieta nel senso tradizionale focalizzata sulla restrizione calorica o sull'esclusione di macronutrienti, bensì un pattern temporale di assunzione dei pasti, che alterna periodi di astensione totale (o severa riduzione) dall'apporto calorico a finestre temporali di alimentazione ad libitum.
+- [[Disbiosi]]: La disbiosi intestinale è una condizione di alterazione qualitativa e quantitativa della normale flora batterica (microbiota) residente nel tratto gastrointestinale.
 - [[Disfunzione endoteliale]]: La disfunzione endoteliale è una condizione patologica in cui l'endotelio (lo strato più interno dei vasi sanguigni) perde la sua capacità di regolare adeguatamente il tono vascolare, l'infiammazione e la coagulazione.
 - [[Diterpeni]]: I diterpeni sono una vasta classe di composti organici terpenoidi.
+- [[Ecocardiogramma]]: L'ecocardiogramma è una tecnica di imaging medico che utilizza gli ultrasuoni per creare immagini bidimensionali o tridimensionali del cuore.
+- [[Elettrocardiogramma]]: L'elettrocardiogramma (ECG) è un esame diagnostico non invasivo che registra l'attività elettrica del cuore nel tempo, rilevabile attraverso elettrodi posizionati sulla superficie del corpo.
 - [[Endotelio]]: L'endotelio è il monostrato di cellule squamose che riveste la superficie interna dei vasi sanguigni, dei vasi linfatici e del cuore.
 - [[EPA]]: L'acido eicosapentaenoico (EPA) è un acido grasso polinsaturo a catena lunga appartenente alla famiglia degli omega-3.
 - [[Fagioli]]: I fagioli sono legumi ricchi di proteine vegetali, fibre complesse (sia solubili che insolubili), ferro, magnesio e potassio.
+- [[Farro]]: Il farro è un genere di frumento antico, appartenente al genere Triticum, che comprende tre specie principali (dicocco, spelta e monococco) coltivate fin dalla preistoria.
 - [[Ferro]]: Il ferro è un minerale essenziale per l'organismo umano, fondamentale per la sintesi dell'emoglobina e della mioglobina, proteine responsabili del trasporto dell'ossigeno nel sangue e nei muscoli.
 - [[Fibre alimentari]]: Componenti vegetali non digeribili che favoriscono la regolarità intestinale e riducono colesterolo e zuccheri nel sangue.
+- [[Fibrillazione atriale]]: La fibrillazione atriale è la più comune forma di [[Aritmia]] cardiaca sostenuta, caratterizzata da un'attività elettrica atriale disorganizzata e rapida che porta a una contrazione irregolare e inefficace degli atri.
 - [[Fitosteroli]]: I fitosteroli, o steroli vegetali, sono composti lipidici naturali presenti nelle membrane cellulari delle piante, aventi una struttura chimica molto simile al colesterolo umano.
 - [[Flavonoidi]]: I flavonoidi sono una vasta classe di composti polifenolici presenti in abbondanza in molte piante, frutta e verdura.
 - [[Fragole]]: Le fragole (Fragaria × ananassa) sono frutti apprezzati per il sapore dolce e per il loro notevole contenuto di composti bioattivi.
 - [[Frutta a guscio]]: Alimenti ricchi di grassi monoinsaturi e fibre che aiutano a ridurre il colesterolo LDL.
+- [[Glucagone]]: Il glucagone è un ormone peptidico prodotto dalle cellule alfa delle isole pancreatiche, la cui azione è principalmente antagonista a quella dell'[[Insulina]].
+- [[Glutatione]]: Il glutatione (GSH) è un tripeptide con potenti proprietà [[Antiossidanti]], presente in quasi tutte le cellule del corpo umano. È fondamentale per la neutralizzazione dei [[Radicali liberi]] e dei composti reattivi dell'ossigeno.
 - [[Grassi saturi]]: I grassi saturi sono una tipologia di acidi grassi in cui tutti i legami tra gli atomi di carbonio sono singoli.
 - [[Grassi trans]]: I grassi trans sono un tipo di acido grasso insaturo.
 - [[Ictus cerebrale]]: L'ictus cerebrale si verifica quando l'afflusso di sangue a una parte del cervello si interrompe o si riduce drasticamente, privando il tessuto cerebrale di ossigeno e nutrienti.
 - [[Indice glicemico]]: L'indice glicemico (IG) è un sistema di classificazione che misura la velocità con cui i carboidrati contenuti in un alimento aumentano i livelli di glucosio nel sangue.
 - [[Infarto miocardico]]: L'infarto miocardico acuto si verifica quando il flusso sanguigno verso una parte del muscolo cardiaco (miocardio) si blocca in modo improvviso, spesso a causa della rottura di una placca e della formazione di un trombo all'interno di un'arteria coronaria.
 - [[Infiammazione cronica]]: L'infiammazione cronica di basso grado è una risposta prolungata del sistema immunitario caratterizzata dalla presenza costante di bassi livelli di mediatori pro-infiammatori circolanti, come la proteina C-reattiva (CRP) e varie citochine.
+- [[Insulina]]: L'insulina è un ormone peptidico secreto dalle cellule beta delle isole di Langerhans nel pancreas, indispensabile per il metabolismo dei carboidrati, dei grassi e delle proteine.
 - [[Insulino resistenza]]: L'insulino-resistenza è una condizione fisiologica in cui le cellule dell'organismo (in particolare muscoli, grasso e fegato) non rispondono in modo efficace all'insulina, ostacolando l'assorbimento del glucosio dal sangue.
 - [[Inulina]]: L'inulina è un tipo di fibra alimentare solubile, classificata come fruttano, che non viene digerita nello stomaco o nell'intestino tenue umano.
 - [[Ipercolesterolemia]]: L'ipercolesterolemia è un disordine metabolico caratterizzato da livelli patologicamente elevati di colesterolo totale nel sangue, ed è primariamente dovuta a un eccesso di lipoproteine a bassa densità (LDL).
 - [[Iperomocisteinemia]]: L'iperomocisteinemia è una condizione medica caratterizzata da livelli anormalmente alti dell'amminoacido omocisteina nel plasma sanguigno.
 - [[Ipertensione]]: Condizione clinica in cui la pressione del sangue nelle arterie è costantemente elevata.
+- [[Ischemia miocardica]]: L'ischemia miocardica si verifica quando il flusso sanguigno verso il muscolo cardiaco ([[Miocardio]]) è ridotto, impedendo al cuore di ricevere un adeguato apporto di ossigeno.
 - [[Isoflavoni]]: Gli isoflavoni sono un tipo di fitoestrogeni presenti in abbondanza nelle fave di soia e in altri legumi.
 - [[Kefir]]: Il kefir è una bevanda fermentata tradizionalmente prodotta da latte vaccino o caprino, inoculato con grani di kefir che contengono una complessa associazione simbiotica di batteri e lieviti.
 - [[Kombucha]]: La kombucha è una bevanda leggermente effervescente ottenuta dalla fermentazione di tè zuccherato mediante una coltura simbiotica di batteri e lieviti (SCOBY).
@@ -74,10 +96,13 @@
 - [[Malattie cardiovascolari]]: Disturbi che colpiscono cuore e vasi sanguigni, come infarto, ictus e ipertensione.
 - [[Mandorle]]: Le mandorle sono frutti a guscio ricchi di grassi monoinsaturi, vitamina E, fibre e magnesio.
 - [[Melagrana]]: La melagrana è un frutto ricco di polifenoli, in particolare punicalagine, che possiedono una potente attività antiossidante.
+- [[Melatonina]]: La melatonina è un ormone prodotto principalmente dalla ghiandola pineale nel cervello, fondamentale per la regolazione del [[Ritmo circadiano]] e del ciclo [[Sonno]]-veglia.
 - [[Mele]]: Le mele (Malus domestica) sono un frutto ampiamente consumato, ricco di fibre alimentari, in particolare la pectina, e di fitocomposti come i flavonoidi (ad esempio la quercetina) e i polifenoli.
 - [[Microbiota intestinale]]: Insieme di microrganismi intestinali il cui metabolismo può influenzare il rischio di eventi cardiaci.
+- [[Miocardio]]: Il miocardio è il tessuto muscolare che costituisce la porzione più spessa e centrale della parete del cuore, interposto tra l'endocardio (strato interno) e l'epicardio (strato esterno).
 - [[Mirtilli]]: I mirtilli sono piccoli frutti di bosco noti per il loro elevato contenuto di antiossidanti, in particolare antocianine, che conferiscono loro il caratteristico colore blu-violaceo.
 - [[Miso]]: Il miso è un condimento tradizionale giapponese ottenuto tramite la fermentazione della soia con l'aggiunta di sale e del fungo Aspergillus oryzae (koji).
+- [[Nitrati]]: I nitrati sono composti inorganici naturalmente presenti in diverse verdure, in particolare in quelle a foglia verde scuro e nelle [[Barbabietole]].
 - [[Noci]]: Frutti oleosi ricchi di grassi buoni, fibre, vitamine e minerali, apprezzati per la salute del cuore e il benessere generale.
 - [[Noci pecan]]: Le noci pecan (Carya illinoinensis) sono frutti a guscio energeticamente densi, originari del Nord America.
 - [[Obesità]]: Condizione caratterizzata da eccesso di peso che aumenta significativamente il rischio di ipertensione, diabete e dislipidemia.
@@ -87,9 +112,11 @@
 - [[Omega-3]]: Acidi grassi essenziali per il sistema cardiovascolare con azione antinfiammatoria.
 - [[Omega-6]]: Gli acidi grassi omega-6 sono una famiglia di acidi grassi polinsaturi, accomunati dalla presenza del primo doppio legame in sesta posizione partendo dall'estremità metilica della catena carboniosa.
 - [[Omocisteina]]: L'omocisteina è un amminoacido solforato derivante dal metabolismo della metionina.
+- [[Orzo]]: L'orzo (Hordeum vulgare) è un cereale antico caratterizzato da un alto contenuto di [[Fibre alimentari]], sia solubili che insolubili.
 - [[Ossido nitrico]]: L'ossido nitrico (NO) è una piccola molecola gassosa prodotta dalle cellule endoteliali che rivestono l'interno dei vasi sanguigni.
 - [[Peperoni]]: I peperoni (Capsicum annuum) sono ortaggi ampiamente utilizzati nella dieta mediterranea e in diverse tradizioni culinarie.
 - [[Pesce azzurro]]: Alimento tipico della Dieta mediterranea e principale fonte di Omega-3 per proteggere il cuore.
+- [[Piperina]]: La piperina è l'alcaloide principale responsabile del sapore pungente del pepe nero (Piper nigrum).
 - [[Pistacchi]]: I pistacchi sono semi commestibili appartenenti alla famiglia delle Anacardiaceae, caratterizzati da un alto contenuto di fitosteroli, antiossidanti (come luteina e zeaxantina) e proteine rispetto ad altra frutta a guscio.
 - [[Polifenoli]]: I polifenoli sono un vasto e diversificato gruppo di composti bioattivi di origine vegetale.
 - [[Pomodori]]: I pomodori sono frutti (spesso considerati ortaggi dal punto di vista culinario) caratterizzati da un elevato contenuto di acqua, potassio, vitamina C e licopene.
@@ -103,10 +130,12 @@
 - [[Resveratrolo]]: Il resveratrolo è un composto fenolico appartenente alla famiglia delle fitoalessine, sostanze prodotte da alcune piante in risposta a stress ambientali o infezioni patogene.
 - [[Ritmo circadiano]]: Il ritmo circadiano è il ciclo biologico endogeno di circa 24 ore che regola numerosi processi fisiologici e comportamentali in tutti gli organismi viventi.
 - [[Salmone]]: Il salmone è un pesce grasso che rappresenta una delle migliori fonti alimentari di acidi grassi polinsaturi a lunga catena.
+- [[Sardine]]: Le sardine sono piccoli pesci pelagici che rappresentano una componente fondamentale della [[Dieta mediterranea]].
 - [[Scompenso cardiaco]]: Lo scompenso cardiaco, o insufficienza cardiaca, è una sindrome clinica complessa in cui il cuore non è in grado di pompare sangue in quantità adeguata a soddisfare le richieste metaboliche dell'organismo, oppure riesce a farlo solo a pressioni di riempimento elevate.
 - [[Sedentarietà]]: La sedentarietà è uno stile di vita caratterizzato da un dispendio energetico minimo, che include attività svolte prevalentemente da seduti o sdraiati per lunghi periodi.
 - [[Selenio]]: Il selenio è un oligoelemento essenziale che agisce come cofattore per numerosi enzimi, in particolare per le glutatione perossidasi, fondamentali per la difesa cellulare contro lo stress ossidativo.
 - [[Semi di chia]]: I semi di chia (Salvia hispanica) sono piccoli semi scuri ricchi di fibre, proteine e acidi grassi polinsaturi, in particolare l'acido alfa-linolenico (ALA), un precursore di origine vegetale.
+- [[Semi di girasole]]: I semi di girasole sono il frutto dell'Helianthus annuus, ampiamente consumati come snack o ingrediente alimentare per il loro denso profilo nutrizionale.
 - [[Semi di lino]]: I semi di lino sono una fonte nutrizionale concentrata di lignani, fibre solubili e acidi grassi essenziali di origine vegetale.
 - [[Semi di zucca]]: I semi di zucca sono spuntini densi di nutrienti, ricchi di proteine vegetali, magnesio, zinco e acidi grassi polinsaturi.
 - [[Sgombro]]: Lo sgombro (Scomber scombrus) è un pesce azzurro molto diffuso e apprezzato per le sue qualità gastronomiche e nutrizionali.
@@ -121,12 +150,17 @@
 - [[Stress psicologico]]: Lo stress psicologico prolungato è una condizione in cui l'individuo percepisce che le richieste dell'ambiente superano le proprie risorse di coping, portando a un'attivazione cronica degli assi ipotalamo-ipofisi-surrene (HPA) e simpato-adrenomedollare.
 - [[Sulforafano]]: Il sulforafano è un isotiocianato naturale abbondante nelle verdure crocifere, in particolare nei germogli di broccoli.
 - [[Tabagismo]]: Il tabagismo è la pratica di inalare il fumo derivante dalla combustione del tabacco.
+- [[Taurina]]: La taurina è un acido amminoetansolfonico presente in elevate concentrazioni nei tessuti dei mammiferi, in particolare nel cuore, nel cervello e nei muscoli scheletrici.
 - [[Teaflavine]]: Le teaflavine sono una classe di composti polifenolici che si formano durante la fermentazione enzimatica (ossidazione) delle foglie di tè, caratteristiche del tè nero.
+- [[Tmao]]: L'N-ossido di trimetilammina (TMAO) è un metabolita derivato dall'ossidazione epatica della trimetilammina (TMA), prodotta dai batteri del [[Microbiota intestinale]] a partire da nutrienti come [[Colina]] e L-[[Carnitina]].
 - [[Trigliceridi]]: I trigliceridi sono il principale tipo di grasso presente nel corpo umano.
 - [[Trombosi]]: La trombosi è il processo patologico di formazione di un trombo, ovvero un coagulo di sangue solido, all'interno di un vaso sanguigno intatto o nel cuore, che ostacola o ostruisce il normale flusso ematico.
+- [[Troponina]]: Le troponine cardiache (troponina T e troponina I) sono proteine regolatrici presenti all'interno delle cellule muscolari cardiache (miociti), essenziali per il meccanismo di contrazione mediato dal [[Calcio]].
 - [[Tè nero]]: Il tè nero deriva dalle foglie della pianta Camellia sinensis che hanno subito un processo completo di ossidazione enzimatica prima dell'essiccazione.
 - [[Tè verde]]: Bevanda ricca di catechine che aiuta a ridurre lo stress ossidativo e a migliorare il profilo lipidico.
 - [[Uova]]: Le uova sono un alimento di origine animale ad alto valore biologico, fonte di proteine complete, vitamine (inclusa la vitamina B12 e la vitamina D) e minerali.
+- [[Valvola aortica]]: La valvola aortica è una delle quattro valvole cardiache, situata tra il ventricolo sinistro e l'aorta.
+- [[Valvola mitrale]]: La valvola mitrale, o bicuspide, è la struttura valvolare localizzata tra l'atrio sinistro e il ventricolo sinistro del cuore.
 - [[Verdure a foglia verde]]: Ortaggi ricchi di nitrati, vitamina K e acido folico, importanti per mantenere bassa la pressione arteriosa.
 - [[Vino rosso]]: Bevanda contenente polifenoli come il resveratrolo, con potenziali effetti protettivi sul cuore se consumata con estrema moderazione.
 - [[Vitamina A]]: La vitamina A è una vitamina liposolubile essenziale, presente in natura in due forme: retinoidi (preformati, negli alimenti di origine animale) e carotenoidi provitaminici (negli alimenti vegetali).

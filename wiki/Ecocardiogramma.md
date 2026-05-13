@@ -1,0 +1,7 @@
+# Ecocardiogramma
+
+L'ecocardiogramma è una tecnica di imaging medico che utilizza gli ultrasuoni per creare immagini bidimensionali o tridimensionali del cuore.
+Permette ai medici di valutare in tempo reale la morfologia e la funzionalità delle camere cardiache, delle valvole e dei grandi vasi. È essenziale per stimare la frazione di eiezione (indicatore della funzionalità di pompa del cuore), identificare patologie valvolari, misurare lo spessore delle pareti (come in caso di ipertrofia) e diagnosticare l'insufficienza cardiaca. Spesso include la funzione Doppler per valutare la direzione e la velocità dei flussi sanguigni.
+
+Riferimenti:
+Lang, R. M., et al. "Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the American Society of Echocardiography and the European Association of Cardiovascular Imaging." Journal of the American Society of Echocardiography, 2015. DOI: 10.1016/j.echo.2014.10.003

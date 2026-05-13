@@ -1,0 +1,7 @@
+# Troponina
+
+Le troponine cardiache (troponina T e troponina I) sono proteine regolatrici presenti all'interno delle cellule muscolari cardiache (miociti), essenziali per il meccanismo di contrazione mediato dal [[Calcio]].
+In condizioni normali, i loro livelli nel sangue circolante sono minimi o non rilevabili. Tuttavia, in seguito a danno miocardico, come durante un [[Infarto miocardico]] acuto, queste proteine vengono rilasciate nel torrente ematico. La misurazione della troponina ad alta sensibilità è pertanto il biomarcatore standard aureo per la diagnosi rapida e accurata di necrosi miocardica.
+
+Riferimenti:
+Thygesen, K., et al. "Fourth universal definition of myocardial infarction (2018)." European Heart Journal, 2019. DOI: 10.1093/eurheartj/ehy462
