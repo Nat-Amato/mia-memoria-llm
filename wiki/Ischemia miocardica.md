@@ -1,0 +1,7 @@
+# Ischemia miocardica
+
+L'ischemia miocardica si verifica quando il flusso sanguigno verso il muscolo cardiaco (miocardio) è ridotto, impedendo al cuore di ricevere un adeguato apporto di ossigeno.
+La causa più frequente è l'[[Aterosclerosi]] delle [[Arterie coronarie]]. Questa condizione può essere asintomatica (ischemia silente) o manifestarsi con dolore toracico, noto come [[Angina pectoris]]. Se il flusso sanguigno viene interrotto bruscamente e per un periodo prolungato, l'ischemia può evolvere in un [[Infarto miocardico]] acuto, causando la necrosi del tessuto cardiaco interessato.
+
+Riferimenti:
+Heusch, G. "Myocardial ischemia: lack of coronary blood flow, myocardial oxygen supply-demand imbalance, or what?" American Journal of Physiology-Heart and Circulatory Physiology, 2019. DOI: 10.1152/ajpheart.00139.2019

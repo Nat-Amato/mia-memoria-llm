@@ -569,3 +569,139 @@
 ## [2026-05-12] Ingestione: acido_urico.txt
 - Creata la pagina [[Acido urico]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: acciughe.txt
+- Creata la pagina [[Acciughe]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: angina_pectoris.txt
+- Creata la pagina [[Angina pectoris]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: arginina.txt
+- Creata la pagina [[Arginina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: aritmia.txt
+- Creata la pagina [[Aritmia]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: arterie_coronarie.txt
+- Creata la pagina [[Arterie coronarie]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: astaxantina.txt
+- Creata la pagina [[Astaxantina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: barbabietole.txt
+- Creata la pagina [[Barbabietole]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: betaina.txt
+- Creata la pagina [[Betaina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: capsaicina.txt
+- Creata la pagina [[Capsaicina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: carnitina.txt
+- Creata la pagina [[Carnitina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: cipolle.txt
+- Creata la pagina [[Cipolle]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: citrullina.txt
+- Creata la pagina [[Citrullina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: colina.txt
+- Creata la pagina [[Colina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: disbiosi.txt
+- Creata la pagina [[Disbiosi]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: ecocardiogramma.txt
+- Creata la pagina [[Ecocardiogramma]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: elettrocardiogramma.txt
+- Creata la pagina [[Elettrocardiogramma]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: farro.txt
+- Creata la pagina [[Farro]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: fibrillazione_atriale.txt
+- Creata la pagina [[Fibrillazione atriale]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: glucagone.txt
+- Creata la pagina [[Glucagone]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: glutatione.txt
+- Creata la pagina [[Glutatione]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: insulina.txt
+- Creata la pagina [[Insulina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: ischemia_miocardica.txt
+- Creata la pagina [[Ischemia miocardica]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: melatonina.txt
+- Creata la pagina [[Melatonina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: miocardio.txt
+- Creata la pagina [[Miocardio]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: nitrati.txt
+- Creata la pagina [[Nitrati]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: orzo.txt
+- Creata la pagina [[Orzo]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: piperina.txt
+- Creata la pagina [[Piperina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: sardine.txt
+- Creata la pagina [[Sardine]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: semi_di_girasole.txt
+- Creata la pagina [[Semi di girasole]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: taurina.txt
+- Creata la pagina [[Taurina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: tmao.txt
+- Creata la pagina [[Tmao]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: troponina.txt
+- Creata la pagina [[Troponina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: valvola_aortica.txt
+- Creata la pagina [[Valvola aortica]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: valvola_mitrale.txt
+- Creata la pagina [[Valvola mitrale]].
+- Aggiornato l'elenco in `/wiki/index.md`.

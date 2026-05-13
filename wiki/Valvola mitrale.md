@@ -1,0 +1,7 @@
+# Valvola mitrale
+
+La valvola mitrale, o bicuspide, è la struttura valvolare localizzata tra l'atrio sinistro e il ventricolo sinistro del cuore.
+È formata da due lembi ancorati ai muscoli papillari del ventricolo sinistro tramite corde tendinee. La valvola si apre durante la diastole per consentire il passaggio del sangue ossigenato proveniente dai polmoni nel ventricolo sinistro e si chiude strettamente durante la sistole per prevenire il reflusso di sangue nell'atrio sinistro. Malfunzionamenti comuni includono il prolasso della valvola mitrale, l'insufficienza e la stenosi mitralica.
+
+Riferimenti:
+Enriquez-Sarano, M., et al. "Mitral regurgitation." The Lancet, 2009. DOI: 10.1016/S0140-6736(09)60692-9
