@@ -1,0 +1,5 @@
+L'angina pectoris è una sindrome clinica caratterizzata da dolore, oppressione o fastidio al petto, spesso irradiato al braccio sinistro, al collo o alla mandibola, provocato da un'ischemia miocardica transitoria.
+L'angina si definisce stabile quando insorge in condizioni prevedibili (es. sforzo fisico o stress emotivo) e recede col riposo o con la somministrazione di nitrati. Si definisce instabile quando insorge a riposo, con una frequenza o intensità crescente, rappresentando un'urgenza medica in quanto sintomo premonitore di un possibile infarto acuto del miocardio.
+
+Riferimenti:
+Knuuti, J., et al. "2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes." European Heart Journal, 2020. DOI: 10.1093/eurheartj/ehz425
