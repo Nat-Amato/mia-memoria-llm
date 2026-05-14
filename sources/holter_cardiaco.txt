@@ -1,0 +1,5 @@
+L'Holter cardiaco è un dispositivo portatile utilizzato per la registrazione continua dell'elettrocardiogramma (ECG) per 24-48 ore.
+Permette ai medici di monitorare l'attività elettrica del cuore mentre il paziente svolge le normali attività quotidiane, risultando fondamentale per diagnosticare aritmie transitorie, bradicardia o ischemie silenti che un ECG standard a riposo potrebbe non rilevare.
+
+Riferimenti:
+Zimetbaum, P. J., & Josephson, M. E. (1999). The evolving role of ambulatory arrhythmia monitoring in general clinical practice. Annals of Internal Medicine, 130(10), 848-856. DOI: 10.7326/0003-4819-130-10-199905180-00020
