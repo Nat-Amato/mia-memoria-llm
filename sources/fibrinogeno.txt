@@ -1,0 +1,5 @@
+Il fibrinogeno è una glicoproteina prodotta dal fegato, fondamentale nella cascata della coagulazione sanguigna.
+Viene convertito in fibrina durante la formazione dei coaguli per fermare i sanguinamenti. Elevati livelli circolanti di fibrinogeno sono considerati un marcatore di infiammazione sistemica e un fattore di rischio indipendente per le malattie cardiovascolari, come infarto e ictus.
+
+Riferimenti:
+Danesh, J., et al. (2005). Fibrinogen and risk of coronary heart disease: a meta-analysis. JAMA, 294(14), 1799-1809. DOI: 10.1001/jama.294.14.1799

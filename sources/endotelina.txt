@@ -1,0 +1,5 @@
+L'endotelina è un potente peptide vasocostrittore prodotto principalmente dalle cellule endoteliali che rivestono l'interno dei vasi sanguigni.
+Svolge un ruolo cruciale nella regolazione del tono vascolare e della pressione arteriosa. Una sovrapproduzione di endotelina è stata implicata in varie patologie cardiovascolari, come l'ipertensione polmonare e lo scompenso cardiaco.
+
+Riferimenti:
+Yanagisawa, M., et al. (1988). A novel potent vasoconstrictor peptide produced by vascular endothelial cells. Nature, 332(6163), 411-415. DOI: 10.1038/332411a0

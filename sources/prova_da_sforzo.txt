@@ -1,0 +1,5 @@
+La prova da sforzo (o test ergometrico) consiste nella registrazione continua dell'elettrocardiogramma e della pressione mentre il paziente esegue un esercizio fisico, tipicamente su tapis roulant o cyclette.
+Viene utilizzata per valutare la risposta cardiovascolare allo sforzo fisico, aiutando a diagnosticare ischemie inducibili e valutare l'efficacia delle terapie in pazienti con sospetta o nota malattia coronarica.
+
+Riferimenti:
+Fletcher, G. F., et al. (2013). Exercise standards for testing and training: a scientific statement from the American Heart Association. Circulation, 128(8), 873-934. DOI: 10.1161/CIR.0b013e31829b5b44
