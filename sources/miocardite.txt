@@ -1,0 +1,5 @@
+La miocardite è un'infiammazione del miocardio, il tessuto muscolare del cuore, che può compromettere la capacità del cuore di pompare sangue.
+È spesso causata da infezioni virali (come quelle da enterovirus o adenovirus), sebbene possa anche essere di origine batterica, fungina, o dovuta a reazioni autoimmuni o esposizione a tossine. I sintomi variano da affaticamento e palpitazioni a dolore toracico e segni di insufficienza cardiaca severa. La diagnosi precoce e il trattamento adeguato sono critici per prevenire danni cardiaci a lungo termine o cardiomiopatia dilatativa.
+
+Riferimenti:
+Caforio, A. L., et al. "Current state of knowledge on aetiology, diagnosis, management, and therapy of myocarditis: a position statement of the European Society of Cardiology Working Group on Myocardial and Pericardial Diseases." European Heart Journal, 2013. DOI: 10.1093/eurheartj/eht210
