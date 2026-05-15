@@ -152,7 +152,7 @@
 - [[Tabagismo]]: Il tabagismo è la pratica di inalare il fumo derivante dalla combustione del tabacco.
 - [[Taurina]]: La taurina è un acido amminoetansolfonico presente in elevate concentrazioni nei tessuti dei mammiferi, in particolare nel cuore, nel cervello e nei muscoli scheletrici.
 - [[Teaflavine]]: Le teaflavine sono una classe di composti polifenolici che si formano durante la fermentazione enzimatica (ossidazione) delle foglie di tè, caratteristiche del tè nero.
-- [[Tmao]]: L'N-ossido di trimetilammina (TMAO) è un metabolita derivato dall'ossidazione epatica della trimetilammina (TMA), prodotta dai batteri del [[Microbiota intestinale]] a partire da nutrienti come [[Colina]] e L-[[Carnitina]].
+- [[TMAO]]: L'N-ossido di trimetilammina (TMAO) è un metabolita derivato dall'ossidazione epatica della trimetilammina (TMA), prodotta dai batteri del [[Microbiota intestinale]] a partire da nutrienti come [[Colina]] e L-[[Carnitina]].
 - [[Trigliceridi]]: I trigliceridi sono il principale tipo di grasso presente nel corpo umano.
 - [[Trombosi]]: La trombosi è il processo patologico di formazione di un trombo, ovvero un coagulo di sangue solido, all'interno di un vaso sanguigno intatto o nel cuore, che ostacola o ostruisce il normale flusso ematico.
 - [[Troponina]]: Le troponine cardiache (troponina T e troponina I) sono proteine regolatrici presenti all'interno delle cellule muscolari cardiache (miociti), essenziali per il meccanismo di contrazione mediato dal [[Calcio]].
