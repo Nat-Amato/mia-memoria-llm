@@ -705,3 +705,7 @@
 ## [2026-05-13] Ingestione: valvola_mitrale.txt
 - Creata la pagina [[Valvola mitrale]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-13] Ingestione: aorta.txt
+- Creata la pagina [[Aorta]].
+- Aggiornato l'elenco in `/wiki/index.md`.

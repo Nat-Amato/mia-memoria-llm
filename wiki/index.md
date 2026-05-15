@@ -13,6 +13,7 @@
 - [[Angina pectoris]]: L'angina pectoris è una sindrome clinica caratterizzata da dolore, oppressione o fastidio al petto, spesso irradiato al braccio sinistro, al collo o alla mandibola, provocato da un'[[Ischemia miocardica]] transitoria.
 - [[Antiossidanti]]: Molecole che neutralizzano i radicali liberi, contrastando l'invecchiamento cellulare e lo stress ossidativo.
 - [[Antocianine]]: Le antocianine sono una classe di pigmenti idrosolubili appartenenti alla famiglia dei flavonoidi, responsabili dei colori rosso, viola e blu di molti frutti e verdure.
+- [[Aorta]]: L'aorta è l'arteria più grande del corpo umano, che origina dal ventricolo sinistro e distribuisce il sangue ossigenato all'organismo.
 - [[Apolipoproteina B]]: L'apolipoproteina B (ApoB) è la principale proteina strutturale delle lipoproteine a bassa densità (LDL), a densità intermedia (IDL), a densità molto bassa (VLDL) e dei chilomicroni.
 - [[Arginina]]: L'arginina è un amminoacido condizionatamente essenziale, coinvolto nella sintesi delle proteine, dell'urea e della creatina.
 - [[Aritmia]]: L'aritmia è un'alterazione del normale ritmo del battito cardiaco, che può manifestarsi come una frequenza anomala (tachicardia, se troppo veloce; bradicardia, se troppo lenta) o un ritmo irregolare.
