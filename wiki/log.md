@@ -691,7 +691,7 @@
 - Aggiornato l'elenco in `/wiki/index.md`.
 
 ## [2026-05-13] Ingestione: tmao.txt
-- Creata la pagina [[Tmao]].
+- Creata la pagina [[TMAO]].
 - Aggiornato l'elenco in `/wiki/index.md`.
 
 ## [2026-05-13] Ingestione: troponina.txt
