@@ -1,0 +1,6 @@
+L'ezetimibe è un farmaco ipolipemizzante che agisce inibendo selettivamente l'assorbimento intestinale del colesterolo e dei fitosteroli correlati a livello dell'orletto a spazzola dell'intestino tenue, interagendo con il trasportatore sterolico Niemann-Pick C1-Like 1 (NPC1L1).
+Riducendo il trasporto di colesterolo verso il fegato, l'ezetimibe induce una sovraregolazione dei recettori epatici per le LDL, aumentando così la clearance del colesterolo LDL dal circolo sanguigno.
+Viene spesso impiegato in associazione con le statine per ottenere una riduzione aggiuntiva del colesterolo LDL nei pazienti con ipercolesterolemia che non raggiungono i target terapeutici con le sole statine o nei soggetti intolleranti a queste ultime.
+
+Riferimenti:
+Cannon, C. P., et al. Ezetimibe Added to Statin Therapy after Acute Coronary Syndromes. The New England Journal of Medicine, 2015. DOI: 10.1056/NEJMoa1410489

@@ -1,0 +1,6 @@
+Il bypass aortocoronarico (CABG, Coronary Artery Bypass Grafting) è un intervento chirurgico maggiore impiegato per trattare la cardiopatia ischemica grave, in cui le arterie coronarie presentano ostruzioni significative dovute a placche aterosclerotiche.
+La procedura prevede il prelievo di un segmento di vaso sanguigno sano dal paziente (solitamente la vena safena della gamba, l'arteria mammaria interna o l'arteria radiale), che viene poi innestato per aggirare (bypassare) il tratto coronarico bloccato, ripristinando un adeguato flusso sanguigno al miocardio.
+Nonostante la crescente popolarità dell'angioplastica con stent, il bypass rimane l'opzione preferenziale e più duratura per i pazienti con malattia coronarica diffusa (es. malattia dei tre vasi o coinvolgimento del tronco comune), specialmente se diabetici.
+
+Riferimenti:
+Serruys, P. W., et al. Coronary-artery bypass surgery versus percutaneous coronary intervention with paclitaxel-eluting stents in patients with multivessel coronary artery disease (SYNTAX). The New England Journal of Medicine, 2009. DOI: 10.1056/NEJMoa0804626
