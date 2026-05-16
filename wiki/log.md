@@ -1,5 +1,9 @@
 # Registro Attività
 
+## [2026-05-16] Ingestione: ablazione_cardiaca.txt
+- Creata la pagina [[Ablazione cardiaca]].
+- Aggiornato l'elenco in `/wiki/index.md`.
+
 ## [2026-05-06] Ingestione: olio-oliva.txt
 - Creata la pagina [[Olio d'oliva]].
 - Aggiornato l'elenco in `/wiki/index.md`.
