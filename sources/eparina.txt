@@ -1,0 +1,6 @@
+L'eparina è un anticoagulante iniettabile ampiamente utilizzato sia in ambito ospedaliero che ambulatoriale. Funziona potenziando l'attività dell'antitrombina III, un inibitore naturale della coagulazione, portando alla rapida inattivazione della trombina e del fattore Xa.
+Esistono due forme principali: l'eparina non frazionata (UFH), che richiede monitoraggio endovenoso continuo in contesti acuti, e le eparine a basso peso molecolare (LMWH, come l'enoxaparina), somministrate per via sottocutanea e con un profilo farmacocinetico più prevedibile.
+Viene impiegata nel trattamento iniziale e nella profilassi del tromboembolismo venoso, dell'embolia polmonare e nelle sindromi coronariche acute.
+
+Riferimenti:
+Garcia, D. A., Baglin, T. P., Weitz, J. I., Samama, M. M. Parenteral Anticoagulants: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines. Chest, 2012. DOI: 10.1378/chest.11-2291
