@@ -1,0 +1,7 @@
+# Ablazione cardiaca
+
+L'ablazione cardiaca è una procedura minimamente invasiva impiegata per trattare diversi tipi di aritmie cardiache (vedi [[Aritmia]]), come la [[Fibrillazione atriale]], la tachicardia sopraventricolare e il flutter atriale.
+La tecnica prevede l'inserimento di cateteri nei vasi sanguigni, guidati fino al cuore, per distruggere (ablare) selettivamente piccole aree di tessuto cardiaco responsabile di generare o condurre segnali elettrici anomali. Utilizzando l'energia a radiofrequenza (calore) o la crioablazione (freddo intenso), si crea tessuto cicatriziale che interrompe i percorsi elettrici errati, ripristinando il normale ritmo sinusale del cuore e migliorando significativamente la qualità della vita dei pazienti.
+
+Riferimenti:
+Calkins, H., et al. "2017 HRS/EHRA/ECAS/APHRS/SOLAECE expert consensus statement on catheter and surgical ablation of atrial fibrillation." Heart Rhythm, 2017. DOI: 10.1016/j.hrthm.2017.05.012

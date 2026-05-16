@@ -7,8 +7,8 @@
 - [[Acido folico]]: L'acido folico (o vitamina B9) è una vitamina idrosolubile essenziale per la sintesi del DNA, la divisione cellulare e la formazione dei globuli rossi.
 - [[Acido oleico]]: L'acido oleico è un acido grasso monoinsaturo appartenente alla famiglia degli omega-9, ed è il componente principale dell'olio d'oliva.
 - [[Acido urico]]: L'acido urico è il prodotto finale del metabolismo delle purine negli esseri umani, escreto principalmente attraverso i reni.
-- [[Aglio]]: L'aglio (Allium sativum) è una pianta bulbosa utilizzata fin dall'antichità sia come condimento che per i suoi presunti benefici per la salute.
 - [[Aglio nero]]: L'aglio nero è ottenuto dall'aglio fresco attraverso un processo prolungato di invecchiamento a temperatura e umidità controllate (spesso definito impropriamente fermentazione).
+- [[Aglio]]: L'aglio (Allium sativum) è una pianta bulbosa utilizzata fin dall'antichità sia come condimento che per i suoi presunti benefici per la salute.
 - [[Allicina]]: L'allicina (diallil tiosulfinato) è il principale composto organosulfurico bioattivo presente nell'aglio crudo frantumato.
 - [[Angina pectoris]]: L'angina pectoris è una sindrome clinica caratterizzata da dolore, oppressione o fastidio al petto, spesso irradiato al braccio sinistro, al collo o alla mandibola, provocato da un'[[Ischemia miocardica]] transitoria.
 - [[Antiossidanti]]: Molecole che neutralizzano i radicali liberi, contrastando l'invecchiamento cellulare e lo stress ossidativo.
@@ -56,10 +56,10 @@
 - [[Disbiosi]]: La disbiosi intestinale è una condizione di alterazione qualitativa e quantitativa della normale flora batterica (microbiota) residente nel tratto gastrointestinale.
 - [[Disfunzione endoteliale]]: La disfunzione endoteliale è una condizione patologica in cui l'endotelio (lo strato più interno dei vasi sanguigni) perde la sua capacità di regolare adeguatamente il tono vascolare, l'infiammazione e la coagulazione.
 - [[Diterpeni]]: I diterpeni sono una vasta classe di composti organici terpenoidi.
+- [[EPA]]: L'acido eicosapentaenoico (EPA) è un acido grasso polinsaturo a catena lunga appartenente alla famiglia degli omega-3.
 - [[Ecocardiogramma]]: L'ecocardiogramma è una tecnica di imaging medico che utilizza gli ultrasuoni per creare immagini bidimensionali o tridimensionali del cuore.
 - [[Elettrocardiogramma]]: L'elettrocardiogramma (ECG) è un esame diagnostico non invasivo che registra l'attività elettrica del cuore nel tempo, rilevabile attraverso elettrodi posizionati sulla superficie del corpo.
 - [[Endotelio]]: L'endotelio è il monostrato di cellule squamose che riveste la superficie interna dei vasi sanguigni, dei vasi linfatici e del cuore.
-- [[EPA]]: L'acido eicosapentaenoico (EPA) è un acido grasso polinsaturo a catena lunga appartenente alla famiglia degli omega-3.
 - [[Fagioli]]: I fagioli sono legumi ricchi di proteine vegetali, fibre complesse (sia solubili che insolubili), ferro, magnesio e potassio.
 - [[Farro]]: Il farro è un genere di frumento antico, appartenente al genere Triticum, che comprende tre specie principali (dicocco, spelta e monococco) coltivate fin dalla preistoria.
 - [[Ferro]]: Il ferro è un minerale essenziale per l'organismo umano, fondamentale per la sintesi dell'emoglobina e della mioglobina, proteine responsabili del trasporto dell'ossigeno nel sangue e nei muscoli.
@@ -104,8 +104,8 @@
 - [[Mirtilli]]: I mirtilli sono piccoli frutti di bosco noti per il loro elevato contenuto di antiossidanti, in particolare antocianine, che conferiscono loro il caratteristico colore blu-violaceo.
 - [[Miso]]: Il miso è un condimento tradizionale giapponese ottenuto tramite la fermentazione della soia con l'aggiunta di sale e del fungo Aspergillus oryzae (koji).
 - [[Nitrati]]: I nitrati sono composti inorganici naturalmente presenti in diverse verdure, in particolare in quelle a foglia verde scuro e nelle [[Barbabietole]].
-- [[Noci]]: Frutti oleosi ricchi di grassi buoni, fibre, vitamine e minerali, apprezzati per la salute del cuore e il benessere generale.
 - [[Noci pecan]]: Le noci pecan (Carya illinoinensis) sono frutti a guscio energeticamente densi, originari del Nord America.
+- [[Noci]]: Frutti oleosi ricchi di grassi buoni, fibre, vitamine e minerali, apprezzati per la salute del cuore e il benessere generale.
 - [[Obesità]]: Condizione caratterizzata da eccesso di peso che aumenta significativamente il rischio di ipertensione, diabete e dislipidemia.
 - [[Olio d'oliva]]: Grasso vegetale ricco di acidi grassi monoinsaturi e antiossidanti, benefico per la salute cardiovascolare.
 - [[Olio di colza]]: L'olio di colza (canola oil) è un olio vegetale estratto dai semi di una varietà selezionata della pianta di colza.
@@ -150,10 +150,10 @@
 - [[Stress ossidativo]]: Squilibrio tra radicali liberi e antiossidanti che favorisce la formazione della placca aterosclerotica.
 - [[Stress psicologico]]: Lo stress psicologico prolungato è una condizione in cui l'individuo percepisce che le richieste dell'ambiente superano le proprie risorse di coping, portando a un'attivazione cronica degli assi ipotalamo-ipofisi-surrene (HPA) e simpato-adrenomedollare.
 - [[Sulforafano]]: Il sulforafano è un isotiocianato naturale abbondante nelle verdure crocifere, in particolare nei germogli di broccoli.
+- [[TMAO]]: L'N-ossido di trimetilammina (TMAO) è un metabolita derivato dall'ossidazione epatica della trimetilammina (TMA), prodotta dai batteri del [[Microbiota intestinale]] a partire da nutrienti come [[Colina]] e L-[[Carnitina]].
 - [[Tabagismo]]: Il tabagismo è la pratica di inalare il fumo derivante dalla combustione del tabacco.
 - [[Taurina]]: La taurina è un acido amminoetansolfonico presente in elevate concentrazioni nei tessuti dei mammiferi, in particolare nel cuore, nel cervello e nei muscoli scheletrici.
 - [[Teaflavine]]: Le teaflavine sono una classe di composti polifenolici che si formano durante la fermentazione enzimatica (ossidazione) delle foglie di tè, caratteristiche del tè nero.
-- [[TMAO]]: L'N-ossido di trimetilammina (TMAO) è un metabolita derivato dall'ossidazione epatica della trimetilammina (TMA), prodotta dai batteri del [[Microbiota intestinale]] a partire da nutrienti come [[Colina]] e L-[[Carnitina]].
 - [[Trigliceridi]]: I trigliceridi sono il principale tipo di grasso presente nel corpo umano.
 - [[Trombosi]]: La trombosi è il processo patologico di formazione di un trombo, ovvero un coagulo di sangue solido, all'interno di un vaso sanguigno intatto o nel cuore, che ostacola o ostruisce il normale flusso ematico.
 - [[Troponina]]: Le troponine cardiache (troponina T e troponina I) sono proteine regolatrici presenti all'interno delle cellule muscolari cardiache (miociti), essenziali per il meccanismo di contrazione mediato dal [[Calcio]].
@@ -175,3 +175,6 @@
 - [[Zenzero]]: Lo zenzero (Zingiber officinale) è una radice utilizzata globalmente come spezia e come rimedio tradizionale.
 - [[Zinco]]: Lo zinco è un minerale essenziale coinvolto in numerosi processi cellulari, tra cui la funzione del sistema immunitario, la sintesi delle proteine e del DNA, e la divisione cellulare.
 - [[Zuccheri semplici]]: Carboidrati il cui eccesso favorisce l'aumento dei trigliceridi e l'insulino-resistenza.
+
+## Procedure Mediche
+- [[Ablazione cardiaca]]: L'ablazione cardiaca è una procedura minimamente invasiva impiegata per trattare diversi tipi di aritmie cardiache.
