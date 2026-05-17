@@ -178,3 +178,4 @@
 
 ## Procedure Mediche
 - [[Ablazione cardiaca]]: L'ablazione cardiaca è una procedura minimamente invasiva impiegata per trattare diversi tipi di aritmie cardiache.
+- [[Bypass aortocoronarico]]: Il bypass aortocoronarico (CABG) è un intervento chirurgico maggiore impiegato per trattare la cardiopatia ischemica grave.
