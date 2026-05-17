@@ -713,3 +713,7 @@
 ## [2026-05-13] Ingestione: aorta.txt
 - Creata la pagina [[Aorta]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-14] Ingestione: bypass_aortocoronarico.txt
+- Creata la pagina [[Bypass aortocoronarico]].
+- Aggiornato l'elenco in `/wiki/index.md`.
