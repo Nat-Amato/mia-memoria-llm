@@ -1,0 +1,6 @@
+Il peptide natriuretico atriale (ANP) è un ormone peptidico secreto dalle cellule muscolari degli atri cardiaci in risposta all'aumento del volume ematico e dello stiramento della parete atriale.
+La sua funzione principale è promuovere l'escrezione di sodio (natriuresi) e acqua da parte dei reni, riducendo così il volume ematico intravascolare e la pressione arteriosa.
+L'ANP contrasta l'azione del sistema renina-angiotensina-aldosterone, agendo come un fondamentale meccanismo di regolazione omeostatica del sistema cardiovascolare.
+
+Riferimenti:
+Levin, E.R. et al. Natriuretic Peptides. New England Journal of Medicine, 1998. DOI: 10.1056/NEJM199807303390507

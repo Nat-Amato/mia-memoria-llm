@@ -1,0 +1,6 @@
+La pompa sodio-potassio, o Na+/K+-ATPasi, è un enzima transmembrana presente in tutte le cellule animali che trasporta attivamente ioni sodio all'esterno e ioni potassio all'interno della cellula contro il loro gradiente di concentrazione, consumando ATP.
+Questo meccanismo è vitale per mantenere il potenziale di membrana a riposo, regolare il volume cellulare e supportare il trasporto secondario attivo di altri soluti.
+Nel tessuto cardiaco, la modulazione dell'attività della pompa sodio-potassio (ad esempio attraverso l'uso di glicosidi digitalici) ha effetti significativi sulla contrattilità del miocardio.
+
+Riferimenti:
+Skou, J.C. The Identification of the Sodium-Pump. Bioscience Reports, 1998. DOI: 10.1023/a:1020196612909

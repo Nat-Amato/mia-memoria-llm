@@ -1,0 +1,6 @@
+La vasocostrizione è il restringimento del lume dei vasi sanguigni risultante dalla contrazione della muscolatura liscia vascolare.
+Questo processo fisiologico aumenta la resistenza vascolare sistemica, contribuendo all'innalzamento della pressione arteriosa e alla ridistribuzione del flusso sanguigno.
+È mediata da diversi fattori neuro-umorali, tra cui l'azione del sistema nervoso simpatico, l'angiotensina II e l'endotelina, svolgendo un ruolo vitale nella termoregolazione e nella risposta alle emorragie.
+
+Riferimenti:
+Brozovich, F.V. et al. Mechanisms of Vascular Smooth Muscle Contraction and the Basis for Pharmacologic Treatment of Smooth Muscle Disorders. Pharmacological Reviews, 2016. DOI: 10.1124/pr.115.010652

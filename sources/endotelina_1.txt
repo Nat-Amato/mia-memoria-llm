@@ -1,0 +1,6 @@
+L'endotelina-1 (ET-1) è un potente peptide vasocostrittore secreto principalmente dalle cellule endoteliali che rivestono internamente i vasi sanguigni.
+Oltre alla sua azione contrattile sulla muscolatura liscia vascolare, l'ET-1 è coinvolta in processi di proliferazione cellulare, infiammazione e fibrosi nel sistema cardiovascolare.
+Livelli elevati di endotelina-1 sono stati associati a diverse patologie cardiovascolari, come l'ipertensione polmonare e l'insufficienza cardiaca, rendendola un bersaglio terapeutico per farmaci specifici antagonisti recettoriali.
+
+Riferimenti:
+Barton, M., & Yanagisawa, M. Endothelin: 20 Years From Discovery to Medicine. Journal of Molecular Medicine, 2008. DOI: 10.1007/s00109-008-0432-8

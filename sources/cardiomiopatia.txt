@@ -1,0 +1,6 @@
+La cardiomiopatia è una patologia che colpisce il muscolo cardiaco, alterandone la struttura e la funzione, rendendo più difficile per il cuore pompare il sangue verso il resto del corpo.
+Esistono diverse forme di cardiomiopatia, tra cui quella dilatativa, ipertrofica e restrittiva, ciascuna con specifiche caratteristiche fisiopatologiche e cause sottostanti.
+La diagnosi si basa su esami strumentali come l'ecocardiogramma e il trattamento può includere modifiche dello stile di vita, terapia farmacologica o, nei casi più gravi, dispositivi impiantabili o trapianto.
+
+Riferimenti:
+Maron, B.J. et al. Contemporary Definitions and Classification of the Cardiomyopathies. Circulation, 2006. DOI: 10.1161/CIRCULATIONAHA.106.174287

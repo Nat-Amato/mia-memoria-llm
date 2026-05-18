@@ -1,0 +1,6 @@
+Il plasma sanguigno è la componente liquida del sangue, in cui sono sospesi gli elementi corpuscolati (globuli rossi, globuli bianchi e piastrine).
+Costituisce circa il 55% del volume sanguigno totale ed è composto per oltre il 90% da acqua, contenendo inoltre proteine (come l'albumina e il fibrinogeno), elettroliti, nutrienti e ormoni.
+Il plasma svolge funzioni vitali nel trasporto di sostanze nutritive e prodotti di scarto, oltre a essere fondamentale per il mantenimento della pressione osmotica e per i processi di coagulazione.
+
+Riferimenti:
+Hall, J.E. Guyton and Hall Textbook of Medical Physiology. Elsevier, 2015. ISBN: 978-1455770052

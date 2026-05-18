@@ -1,0 +1,6 @@
+Il sistema renina-angiotensina-aldosterone (RAAS) è un complesso meccanismo ormonale fondamentale per la regolazione della pressione arteriosa a lungo termine e per l'equilibrio dei fluidi e degli elettroliti nell'organismo.
+Si attiva in risposta a un calo della pressione arteriosa o del volume sanguigno, portando alla produzione di angiotensina II (un potente vasocostrittore) e alla secrezione di aldosterone.
+L'iperattivazione cronica del RAAS è un fattore patogenetico centrale nello sviluppo dell'ipertensione essenziale e dello scompenso cardiaco, rendendolo un bersaglio primario per la terapia farmacologica.
+
+Riferimenti:
+Atlas, S.A. The Renin-Angiotensin Aldosterone System: Pathophysiological Role and Pharmacologic Inhibition. Journal of Managed Care Pharmacy, 2007. DOI: 10.18553/jmcp.2007.13.8-b.9

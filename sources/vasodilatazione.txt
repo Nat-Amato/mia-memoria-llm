@@ -1,0 +1,6 @@
+La vasodilatazione è il processo fisiologico di allargamento del diametro dei vasi sanguigni, dovuto al rilassamento della muscolatura liscia presente nelle loro pareti.
+Questo fenomeno determina una diminuzione della resistenza vascolare e, conseguentemente, un aumento del flusso sanguigno e una riduzione della pressione arteriosa.
+Può essere innescata da vari fattori endogeni, come l'ossido nitrico, o esogeni, inclusi farmaci specifici e modificazioni della temperatura corporea.
+
+Riferimenti:
+Webb, R.C. Smooth muscle contraction and relaxation. Advances in Physiology Education, 2003. DOI: 10.1152/advan.00025.2003
