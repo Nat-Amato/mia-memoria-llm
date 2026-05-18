@@ -1,0 +1,7 @@
+# Niacina
+
+La [[Niacina]], o vitamina B3, è fondamentale per numerose reazioni enzimatiche nel corpo, in particolare quelle relative al metabolismo dei lipidi.
+Viene spesso utilizzata a dosi farmacologiche per aumentare i livelli di [[Colesterolo]] HDL e ridurre i [[Trigliceridi]] e le lipoproteine a bassa densità (LDL), sebbene il suo impiego clinico sia stato ridimensionato per i potenziali effetti collaterali e la disponibilità di altre terapie come le [[Statine]].
+
+Riferimenti:
+Guyton, J. R., & Bays, H. E. (2007). Safety considerations with niacin therapy. The American Journal of Cardiology, 99(6), S22-S31. DOI: 10.1016/j.amjcard.2006.11.018

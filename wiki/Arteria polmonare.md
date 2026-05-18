@@ -1,0 +1,8 @@
+# Arteria polmonare
+
+L'[[Arteria polmonare]] (o tronco polmonare) è un grosso vaso sanguigno che origina dal ventricolo destro del cuore e si divide in due rami, l'[[Arteria polmonare]] destra e sinistra.
+Rappresenta un'eccezione nel sistema circolatorio umano poiché trasporta sangue povero di ossigeno e ricco di anidride carbonica dal cuore ai polmoni, contrariamente alle altre arterie che trasportano sangue ossigenato.
+Il monitoraggio della pressione nell'[[Arteria polmonare]] è cruciale per la diagnosi di condizioni cliniche gravi come l'[[Ipertensione]] polmonare.
+
+Riferimenti:
+Simonneau, G. et al. Haemodynamic definitions and updated clinical classification of pulmonary hypertension. European Respiratory Journal, 2019. DOI: 10.1183/13993003.00091-2019

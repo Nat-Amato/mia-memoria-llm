@@ -1,0 +1,7 @@
+# Ipotensione
+
+L'[[Ipotensione]], o pressione sanguigna bassa, si verifica quando la pressione del sangue nelle arterie scende al di sotto dei valori normali (tipicamente definiti come meno di 90/60 mmHg).
+A differenza dell'[[Ipertensione]], che è un fattore di rischio cardiovascolare maggiore, l'[[Ipotensione]] lieve spesso non causa sintomi e può essere associata a longevità e salute cardiaca. Tuttavia, cali pressori improvvisi (come nell'[[Ipotensione]] ortostatica) o un'[[Ipotensione]] severa possono ridurre l'afflusso di sangue a organi vitali come il cervello e il cuore, provocando vertigini, sincope (svenimento) o, nei casi estremi, shock circolatorio.
+
+Riferimenti:
+Freeman, R., et al. "Consensus statement on the definition of orthostatic hypotension, neurally mediated syncope and the postural tachycardia syndrome." Clinical Autonomic Research, 2011. DOI: 10.1007/s10286-011-0119-5

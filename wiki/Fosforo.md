@@ -1,0 +1,8 @@
+# Fosforo
+
+Il [[Fosforo]] è il secondo minerale più abbondante nel corpo umano, presente prevalentemente nelle ossa e nei denti sotto forma di idrossiapatite. A livello cellulare, è un componente strutturale cruciale del DNA, dell'RNA, dei fosfolipidi di membrana e dell'ATP (adenosina trifosfato).
+Un'omeostasi alterata del [[Fosforo]], in particolare iperfosfatemia cronica (comune nella malattia renale cronica), è un importante fattore di rischio cardiovascolare. Livelli sierici elevati promuovono la [[Calcificazione vascolare]], irrigidendo le arterie e le valvole cardiache.
+La gestione nutrizionale e farmacologica dell'apporto di [[Fosforo]] è pertanto una priorità nei pazienti con insufficienza renale per prevenire le complicanze cardiovascolari associate.
+
+Riferimenti:
+Ketteler, M., et al. Executive summary of the 2017 KDIGO Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD) Guideline Update: what's changed and why it matters. Kidney International, 2017. DOI: 10.1016/j.kint.2017.04.006

@@ -1,0 +1,8 @@
+# Biotina
+
+La [[Biotina]], comunemente indicata come vitamina B8 (o vitamina H), è un micronutriente essenziale appartenente al gruppo delle vitamine idrosolubili.
+Agisce come coenzima per diverse carbossilasi, enzimi fondamentali per il metabolismo dei carboidrati, dei lipidi e degli aminoacidi. Partecipa attivamente alla gluconeogenesi e alla sintesi degli acidi grassi.
+Sebbene prodotta in parte dal [[Microbiota intestinale]], un apporto dietetico adeguato è necessario. Carenze, sebbene rare, possono provocare dermatiti, perdita di capelli e alterazioni neurologiche.
+
+Riferimenti:
+Zempleni, J. et al. Biotin. BioFactors, 2009. DOI: 10.1002/biof.8

@@ -1,0 +1,7 @@
+# Pacemaker
+
+Un [[Pacemaker]] è un piccolo dispositivo medico impiantabile utilizzato per il trattamento di varie forme di [[Aritmia]], in particolare quelle caratterizzate da un battito cardiaco eccessivamente lento, noto come bradicardia.
+Il dispositivo genera impulsi elettrici che stimolano il muscolo cardiaco a contrarsi in modo regolare, garantendo che il cuore mantenga una frequenza adeguata per soddisfare le esigenze metaboliche del corpo. Esistono [[Pacemaker]] temporanei e permanenti, e i modelli moderni sono in grado di adattare la frequenza degli impulsi in base al livello di [[Attività fisica]] del paziente.
+
+Riferimenti:
+Brignole, M., et al. "2013 ESC Guidelines on cardiac pacing and cardiac resynchronization therapy." European Heart Journal, 2013. DOI: 10.1093/eurheartj/eht150

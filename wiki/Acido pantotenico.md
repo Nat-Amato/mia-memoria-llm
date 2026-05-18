@@ -1,0 +1,8 @@
+# Acido pantotenico
+
+L'[[Acido pantotenico]], noto anche come vitamina B5, è una vitamina idrosolubile ampiamente distribuita negli alimenti di origine animale e vegetale.
+È un componente essenziale del coenzima A (CoA) e della proteina trasportatrice di acili (ACP), ruoli che lo rendono cruciale per il metabolismo energetico, la sintesi degli acidi grassi e la produzione di ormoni steroidei.
+Una carenza di questa vitamina è molto rara, data la sua presenza ubiquitaria nella dieta, ma se si verifica può causare affaticamento e disturbi neurologici.
+
+Riferimenti:
+Kelly, G. S. Pantothenic acid. Alternative Medicine Review, 2011. PMID: 22003882

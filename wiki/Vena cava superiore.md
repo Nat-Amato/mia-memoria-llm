@@ -1,0 +1,8 @@
+# Vena cava superiore
+
+La [[Vena cava superiore]] è una grossa vena situata nella parte superiore del mediastino, responsabile del ritorno venoso al cuore.
+Raccoglie il sangue deossigenato proveniente dalla testa, dal collo, dagli arti superiori e dalla parte superiore del torace, per riversarlo nell'atrio destro. Il suo corretto funzionamento è vitale per mantenere l'equilibrio emodinamico del flusso sanguigno refluo.
+L'ostruzione di questo vaso può causare una condizione nota come sindrome della [[Vena cava superiore]], spesso legata a masse mediastiniche.
+
+Riferimenti:
+Rice, T. W. et al. The superior vena cava syndrome: clinical characteristics and evolving etiology. Medicine, 2006. DOI: 10.1097/01.md.0000200465.33758.3a

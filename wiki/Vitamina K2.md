@@ -1,0 +1,7 @@
+# Vitamina K2
+
+La [[Vitamina K2]] (menachinone) è un sottotipo di [[Vitamina K]] che partecipa alla regolazione del metabolismo del [[Calcio]] nel corpo umano.
+A differenza della vitamina K1, che agisce prevalentemente sulla coagulazione sanguigna, la K2 attiva la proteina GLA della matrice (MGP), inibendo la calcificazione delle arterie e dei vasi sanguigni, un fattore di rischio chiave per l'[[Aterosclerosi]].
+
+Riferimenti:
+Geleijnse, J. M., et al. (2004). Dietary intake of menaquinone is associated with a reduced risk of coronary heart disease: the Rotterdam Study. The Journal of Nutrition, 134(11), 3100-3105. DOI: 10.1093/jn/134.11.3100
