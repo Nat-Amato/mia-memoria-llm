@@ -1,0 +1,7 @@
+# Capillari
+
+I [[Capillari]] sono i vasi sanguigni più piccoli e numerosi dell'apparato circolatorio, che collegano il sistema arterioso a quello venoso.
+Le loro pareti sottilissime e altamente permeabili permettono lo scambio di ossigeno, anidride carbonica, nutrienti e prodotti di scarto tra il sangue e i tessuti corporei circostanti. Il deterioramento della funzione microvascolare, spesso osservato in condizioni come l'[[Ipertensione]] e il diabete, può compromettere gravemente l'apporto energetico ai tessuti e favorire lo sviluppo di complicanze sistemiche, evidenziando il ruolo critico della microcircolazione nella salute generale.
+
+Riferimenti:
+Levy, B. I., et al. "Microcirculation in hypertension: a new target for treatment?" Circulation, 2001. DOI: 10.1161/hc3101.091158

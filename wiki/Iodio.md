@@ -1,0 +1,8 @@
+# Iodio
+
+Lo [[Iodio]] è un microelemento nutrizionale essenziale per la sintesi degli ormoni tiroidei: la tiroxina (T4) e la triiodotironina (T3).
+Poiché gli ormoni tiroidei sono regolatori primari del metabolismo basale, influenzano profondamente il sistema cardiovascolare, agendo sulla frequenza cardiaca, sulla contrattilità miocardica e sulla resistenza vascolare periferica.
+Sia la carenza di [[Iodio]] (che porta all'ipotiroidismo) sia l'eccesso (associato a ipertiroidismo) possono indurre squilibri emodinamici significativi e aumentare il rischio di insufficienza cardiaca e aritmie. La sua assunzione adeguata, comunemente garantita dall'uso di sale iodato, è quindi fondamentale per la salute sistemica.
+
+Riferimenti:
+Zimmermann, M. B. Iodine deficiency. Endocrine Reviews, 2009. DOI: 10.1210/er.2009-0011

@@ -1,0 +1,7 @@
+# Apolipoproteina A1
+
+L'[[Apolipoproteina A1]] (ApoA1) è la principale componente proteica delle lipoproteine ad alta densità (HDL).
+Gioca un ruolo chiave nel trasporto inverso del [[Colesterolo]] dai tessuti periferici al fegato e possiede proprietà antinfiammatorie e [[Antiossidanti]]. Elevati livelli plasmatici di ApoA1 sono considerati indicatori di un ridotto rischio di [[Malattie cardiovascolari]] aterosclerotiche.
+
+Riferimenti:
+Walldius, G., & Jungner, I. (2006). The apoB/apoA-I ratio: a strong, new risk factor for cardiovascular disease and a target for lipid-lowering therapy--a review of the evidence. Journal of Internal Medicine, 259(5), 493-519. DOI: 10.1111/j.1365-2796.2006.01643.x

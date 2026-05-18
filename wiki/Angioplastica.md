@@ -1,0 +1,7 @@
+# Angioplastica
+
+L'[[Angioplastica]], o intervento coronarico percutaneo (PCI), è una procedura medica minimamente invasiva usata per riaprire vasi sanguigni occlusi.
+Si avvale di un catetere con un palloncino sulla punta che viene gonfiato all'interno del vaso ristretto per comprimere la placca aterosclerotica contro la parete arteriosa. Solitamente, alla dilatazione segue l'inserimento di uno stent per prevenire la richiusura (restenosi).
+
+Riferimenti:
+Grüntzig, A. R., et al. (1979). Nonoperative dilatation of coronary-artery stenosis: percutaneous transluminal coronary angioplasty. New England Journal of Medicine, 301(2), 61-68. DOI: 10.1056/NEJM197907123010201

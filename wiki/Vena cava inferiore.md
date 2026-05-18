@@ -1,0 +1,8 @@
+# Vena cava inferiore
+
+La [[Vena cava inferiore]] è il vaso venoso più grande del corpo umano, situato lungo la parete addominale posteriore e a destra della colonna vertebrale.
+Il suo compito è trasportare il sangue deossigenato proveniente dagli arti inferiori, dal bacino e dall'addome verso l'atrio destro del cuore. Raccoglie il sangue dai principali organi addominali, come fegato e reni, prima di attraversare il diaframma.
+Anomalie o compressioni della [[Vena cava inferiore]] possono alterare in modo significativo il ritorno venoso, causando edemi e altre complicanze vascolari.
+
+Riferimenti:
+Kandpal, H. et al. Imaging the inferior vena cava: a road less traveled. Radiographics, 2008. DOI: 10.1148/rg.283075101

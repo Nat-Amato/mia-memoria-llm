@@ -1,0 +1,7 @@
+# Bradicardia
+
+La [[Bradicardia]] è una condizione caratterizzata da una frequenza cardiaca anormalmente bassa, generalmente definita come inferiore a 60 battiti per minuto a riposo.
+Può essere un adattamento fisiologico in atleti allenati o indicare una disfunzione del nodo seno-atriale o del sistema di conduzione. Forme patologiche severe possono causare affaticamento, vertigini o sincope, richiedendo talvolta l'impianto di un [[Pacemaker]].
+
+Riferimenti:
+Spodick, D. H. (1992). Normal sinus heart rate: sinus tachycardia and sinus bradycardia redefined. American Heart Journal, 124(4), 1119-1121. DOI: 10.1016/0002-8703(92)90997-Q

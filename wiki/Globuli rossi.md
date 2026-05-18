@@ -1,0 +1,7 @@
+# Globuli rossi
+
+I [[Globuli rossi]], o eritrociti, sono le cellule più abbondanti del sangue e svolgono l'essenziale funzione di trasportare l'ossigeno dai polmoni ai tessuti periferici e facilitare la rimozione dell'anidride carbonica.
+La loro forma biconcava aumenta la superficie di scambio e la flessibilità, essenziale per attraversare i minuscoli [[Capillari]]. Contengono [[Emoglobina]], la proteina che si lega all'ossigeno. Variazioni nel numero o nella struttura dei [[Globuli rossi]] possono causare anemie o policitemie, alterando significativamente l'ossigenazione dei tessuti e aumentando il carico di lavoro sul sistema cardiovascolare.
+
+Riferimenti:
+Bunn, H. F. "Pathogenesis and treatment of sickle cell disease." The New England Journal of Medicine, 1997. DOI: 10.1056/NEJM199709113371107

@@ -1,0 +1,8 @@
+# Clopidogrel
+
+Il [[Clopidogrel]] è un farmaco antiaggregante piastrinico della classe delle tienopiridine. Agisce inibendo in modo irreversibile il recettore P2Y12 dell'ADP sulla superficie delle piastrine, bloccando così l'attivazione e l'[[Aggregazione piastrinica]] indotta dall'ADP.
+È comunemente prescritto nella prevenzione secondaria di eventi aterotrombotici in pazienti con sindrome coronarica acuta, spesso in combinazione con acido acetilsalicilico (doppia terapia antiaggregante), o in pazienti con recente [[Infarto miocardico]], ictus ischemico o arteriopatia periferica accertata.
+Come profarmaco, richiede l'attivazione da parte degli enzimi del citocromo P450 epatico, rendendo la sua efficacia variabile in base a polimorfismi genetici.
+
+Riferimenti:
+Yusuf, S., et al. Effects of [[Clopidogrel]] in addition to aspirin in patients with acute coronary syndromes without ST-segment elevation. The New England Journal of Medicine, 2001. DOI: 10.1056/NEJMoa010746
