@@ -1,0 +1,6 @@
+Il sistema linfatico è una rete complessa di vasi, linfonodi e organi specializzati che svolge un ruolo essenziale nell'omeostasi dei fluidi e nelle difese immunitarie dell'organismo.
+Si occupa di raccogliere il fluido interstiziale in eccesso (linfa) dai tessuti e ricondurlo al sistema venoso, oltre ad assorbire i lipidi a livello intestinale.
+Il corretto funzionamento del sistema linfatico è cruciale per prevenire l'accumulo di liquidi (edema) e per il trasporto dei linfociti necessari alla risposta immunitaria.
+
+Riferimenti:
+Alitalo, K. The lymphatic vasculature in disease. Nature Medicine, 2011. DOI: 10.1038/nm.2545

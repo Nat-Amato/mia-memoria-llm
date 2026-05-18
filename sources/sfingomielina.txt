@@ -1,0 +1,6 @@
+La sfingomielina è uno sfingolipide essenziale presente nelle membrane cellulari degli animali, particolarmente abbondante nella guaina mielinica che avvolge gli assoni dei neuroni.
+È composta da una base sfingoide, un acido grasso, fosfato e colina, svolgendo ruoli strutturali e partecipando a importanti percorsi di segnalazione cellulare.
+Alterazioni nel metabolismo della sfingomielina e nel suo accumulo tissutale sono state correlate a processi aterosclerotici e a specifiche patologie metaboliche e cardiovascolari.
+
+Riferimenti:
+Slotte, J.P. Biological functions of sphingomyelins. Progress in Lipid Research, 2013. DOI: 10.1016/j.plipres.2013.05.001

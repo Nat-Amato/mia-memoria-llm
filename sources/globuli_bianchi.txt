@@ -1,0 +1,6 @@
+I globuli bianchi, o leucociti, sono cellule del sistema immunitario coinvolte nella difesa dell'organismo contro malattie infettive e materiali estranei.
+Vengono prodotti nel midollo osseo e si dividono in diverse tipologie, tra cui neutrofili, linfociti, monociti, eosinofili e basofili, ognuno con ruoli specifici nella risposta immunitaria.
+La valutazione del loro numero e della formula leucocitaria tramite un esame emocromocitometrico è uno strumento diagnostico essenziale in medicina per rilevare infiammazioni o infezioni.
+
+Riferimenti:
+Abbas, A.K. et al. Cellular and Molecular Immunology. Elsevier, 2017. ISBN: 978-0323479783

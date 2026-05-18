@@ -1,0 +1,6 @@
+La pressione venosa centrale (PVC) è la pressione del sangue misurata a livello della vena cava superiore e dell'atrio destro del cuore.
+Riflette la pressione venosa di ritorno al cuore e la capacità di quest'ultimo di pompare il sangue nel sistema arterioso, offrendo un indice del volume ematico intravascolare.
+Viene monitorata intensivamente in ambito di terapia intensiva per guidare la somministrazione di fluidi e valutare la funzione cardiaca destra, specialmente in pazienti in stato di shock.
+
+Riferimenti:
+Marik, P.E. et al. Does Central Venous Pressure Predict Fluid Responsiveness? Chest, 2008. DOI: 10.1378/chest.07-2331

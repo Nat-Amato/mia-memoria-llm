@@ -1,0 +1,6 @@
+La renina è un enzima proteolitico secreto dall'apparato iuxtaglomerulare del rene in risposta a diminuzioni della pressione di perfusione renale o a stimolazione simpatica.
+La sua funzione esclusiva è la scissione dell'angiotensinogeno, una proteina plasmatica prodotta dal fegato, per formare il decapeptide inattivo angiotensina I.
+La secrezione di renina rappresenta il passaggio limitante e l'evento iniziale nella cascata del sistema renina-angiotensina-aldosterone, rendendola un punto di controllo critico per la pressione arteriosa.
+
+Riferimenti:
+Persson, P.B. Renin: Origin, secretion and synthesis. Journal of Physiology, 2003. DOI: 10.1113/jphysiol.2003.049890

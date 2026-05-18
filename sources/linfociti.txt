@@ -1,0 +1,6 @@
+I linfociti sono un tipo di globuli bianchi fondamentali per l'immunità adattativa, specializzati nel riconoscere e rispondere a patogeni specifici.
+Si dividono principalmente in linfociti B, responsabili della produzione di anticorpi, e linfociti T, coinvolti nell'immunità cellulo-mediata.
+La misurazione dei livelli di linfociti nel sangue periferico è un parametro importante per monitorare lo stato del sistema immunitario, specialmente in presenza di infezioni virali o disordini autoimmuni.
+
+Riferimenti:
+Murphy, K., & Weaver, C. Janeway's Immunobiology. Garland Science, 2016. ISBN: 978-0815345053
