@@ -1,0 +1,5 @@
+Il nodo atrioventricolare è una struttura del sistema di conduzione del cuore che riceve l'impulso elettrico dagli atri e lo ritarda brevemente prima di trasmetterlo ai ventricoli.
+Questo ritardo è fondamentale per permettere il completo svuotamento degli atri prima dell'inizio della contrazione ventricolare.
+
+Riferimenti:
+Josephson, M.E. (2008). Clinical Cardiac Electrophysiology: Techniques and Interpretations. Lippincott Williams & Wilkins.

@@ -1,0 +1,5 @@
+La VES, o Velocità di Eritrosedimentazione, è un esame del sangue aspecifico che misura la velocità con cui i globuli rossi si depositano sul fondo di una provetta in un'ora.
+Valori elevati di VES sono indicatori di uno stato infiammatorio sistemico, utile per supportare la diagnosi di condizioni cardiovascolari acute come le miocarditi o le pericarditi.
+
+Riferimenti:
+Brigden, M.L. (1999). Clinical utility of the erythrocyte sedimentation rate. American Family Physician, 60(5), 1443-1450.

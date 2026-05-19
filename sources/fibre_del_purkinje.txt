@@ -1,0 +1,5 @@
+Le fibre del Purkinje costituiscono la rete terminale del sistema di conduzione cardiaco, distribuite nel miocardio ventricolare.
+Sono responsabili della conduzione ultra-rapida del potenziale d'azione, permettendo la contrazione simultanea ed efficiente delle pareti dei ventricoli.
+
+Riferimenti:
+Boyden, P.A., et al. (2010). Purkinje cells: from the earliest heart beats to arrhythmias. Trends in Cardiovascular Medicine, 20(8), 241-247.

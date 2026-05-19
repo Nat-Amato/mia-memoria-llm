@@ -1,0 +1,5 @@
+La digossina è un glicoside cardioattivo estratto dalla pianta Digitalis lanata, impiegato nel trattamento dello scompenso cardiaco e di alcune aritmie.
+Aumenta la forza della contrazione miocardica (effetto inotropo positivo) inibendo la pompa sodio-potassio, e rallenta la frequenza cardiaca, migliorando l'efficienza emodinamica.
+
+Riferimenti:
+The Digitalis Investigation Group. (1997). The effect of digoxin on mortality and morbidity in patients with heart failure. The New England Journal of Medicine, 336(8), 525-533.

@@ -1,0 +1,5 @@
+La cardioversione è una procedura medica, farmacologica o elettrica, finalizzata al ripristino del normale ritmo sinusale in presenza di aritmie quali la fibrillazione atriale.
+La cardioversione elettrica sincronizzata utilizza uno shock a basso dosaggio energetico coordinato con il complesso QRS dell'elettrocardiogramma per evitare l'insorgenza di aritmie ventricolari fatali.
+
+Riferimenti:
+January, C.T., et al. (2014). 2014 AHA/ACC/HRS Guideline for the Management of Patients With Atrial Fibrillation. Journal of the American College of Cardiology, 64(21), e1-e76.

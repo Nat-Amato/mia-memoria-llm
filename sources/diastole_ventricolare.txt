@@ -1,0 +1,5 @@
+La diastole ventricolare è il periodo di rilassamento del muscolo cardiaco successivo alla contrazione, durante il quale i ventricoli si riempiono di sangue.
+Un adeguato riempimento diastolico è cruciale per garantire una gittata cardiaca ottimale; alterazioni di questa fase portano alla disfunzione diastolica.
+
+Riferimenti:
+Zile, M.R., & Brutsaert, D.L. (2002). New concepts in diastolic dysfunction and diastolic heart failure: Part I. Circulation, 105(11), 1387-1393.

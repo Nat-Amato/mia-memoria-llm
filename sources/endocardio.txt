@@ -1,0 +1,5 @@
+L'endocardio è la membrana sierosa sottile che riveste internamente le cavità del cuore (atri e ventricoli) e forma la superficie delle valvole cardiache.
+La sua superficie liscia riduce l'attrito del sangue in transito e previene la formazione di coaguli, favorendo un flusso sanguigno laminare. Eventuali infiammazioni dell'endocardio possono portare a gravi complicazioni a livello valvolare.
+
+Riferimenti:
+Guyton, A.C., & Hall, J.E. (2015). Textbook of Medical Physiology. Elsevier Saunders.
