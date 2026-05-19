@@ -1,0 +1,5 @@
+La sistole ventricolare è la fase del ciclo cardiaco in cui i ventricoli si contraggono per pompare il sangue nelle arterie polmonari e nell'aorta.
+Durante questa fase, la pressione interna ai ventricoli supera quella delle grandi arterie, determinando l'apertura delle valvole semilunari e l'eiezione del sangue.
+
+Riferimenti:
+Boron, W.F., & Boulpaep, E.L. (2016). Medical Physiology. Elsevier.

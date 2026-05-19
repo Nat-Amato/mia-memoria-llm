@@ -1,0 +1,5 @@
+Il nodo senoatriale, localizzato nell'atrio destro, è il pacemaker naturale del cuore, responsabile della genesi degli impulsi elettrici che regolano il battito cardiaco.
+Le sue cellule specializzate si depolarizzano spontaneamente, determinando la frequenza cardiaca di base in condizioni di riposo.
+
+Riferimenti:
+Katz, A.M. (2010). Physiology of the Heart. Lippincott Williams & Wilkins.

@@ -1,0 +1,5 @@
+Il defibrillatore è un dispositivo medico essenziale in grado di erogare una scarica elettrica al cuore per ripristinare un ritmo cardiaco normale.
+È utilizzato nelle emergenze in caso di fibrillazione ventricolare o tachicardia ventricolare senza polso. I defibrillatori impiantabili (ICD) prevengono la morte cardiaca improvvisa in pazienti ad alto rischio.
+
+Riferimenti:
+Zipes, D.P., et al. (2006). ACC/AHA/ESC 2006 Guidelines for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death. Circulation, 114(10), e385-e484.

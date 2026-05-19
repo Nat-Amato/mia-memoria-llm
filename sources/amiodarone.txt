@@ -1,0 +1,5 @@
+L'amiodarone è uno dei farmaci antiaritmici più potenti, classificato nella classe III, ma con proprietà che interessano tutte e quattro le classi di Vaughan Williams.
+È utilizzato per trattare una vasta gamma di aritmie atriali e ventricolari severe, sebbene il suo uso a lungo termine richieda un monitoraggio attento a causa di possibili tossicità tiroidee, polmonari ed epatiche.
+
+Riferimenti:
+Zimetbaum, P. (2012). Antiarrhythmic drug therapy for atrial fibrillation. Circulation, 125(2), 381-389.

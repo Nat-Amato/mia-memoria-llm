@@ -1,0 +1,5 @@
+La nitroglicerina è un farmaco vasodilatatore appartenente alla classe dei nitrati, ampiamente utilizzato nel trattamento dell'angina pectoris.
+Agisce rilasciando ossido nitrico nel muscolo liscio vascolare, causando una dilatazione principalmente venosa che riduce il precarico cardiaco e il consumo di ossigeno del miocardio.
+
+Riferimenti:
+Thadani, U. (1997). Medical therapy of stable angina pectoris. Cardiology Clinics, 15(3), 393-408.

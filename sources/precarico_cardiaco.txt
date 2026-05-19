@@ -1,0 +1,5 @@
+Il precarico cardiaco rappresenta il grado di stiramento delle fibre muscolari miocardiche alla fine della diastole, prima della contrazione.
+È strettamente correlato al volume telediastolico: secondo la legge di Frank-Starling, un maggiore precarico determina fisiologicamente una contrazione più vigorosa.
+
+Riferimenti:
+Norton, J.M. (2001). Toward consistent definitions for preload and afterload. Advances in Physiology Education, 25(1-4), 53-61.

@@ -1,0 +1,5 @@
+La gittata sistolica è il volume di sangue che viene pompato da un singolo ventricolo (solitamente il sinistro) a ogni singola contrazione o battito cardiaco.
+Dipende dal precarico, dalla contrattilità miocardica e dal postcarico, e costituisce un parametro chiave per determinare la gittata cardiaca totale.
+
+Riferimenti:
+Klabunde, R.E. (2011). Cardiovascular Physiology Concepts. Lippincott Williams & Wilkins.

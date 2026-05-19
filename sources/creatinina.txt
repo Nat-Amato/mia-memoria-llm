@@ -1,0 +1,5 @@
+La creatinina è un prodotto di degradazione del metabolismo muscolare (dalla creatina fosfato) che viene regolarmente eliminato dai reni attraverso le urine.
+La sua misurazione nel sangue (creatininemia) è un parametro clinico fondamentale per valutare la funzionalità renale. Valori elevati possono indicare una compromissione renale che spesso complica i quadri di insufficienza cardiaca.
+
+Riferimenti:
+Levey, A.S., et al. (1999). A more accurate method to estimate glomerular filtration rate from serum creatinine: a new prediction equation. Annals of Internal Medicine, 130(6), 461-470.

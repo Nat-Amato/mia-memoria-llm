@@ -1,0 +1,5 @@
+La risonanza magnetica (RM) cardiaca è una tecnica di imaging non invasiva che sfrutta campi magnetici e onde radio per generare immagini dettagliate del cuore.
+Offre una valutazione accurata della morfologia, della funzionalità e della perfusione del miocardio, ed è particolarmente utile per identificare cicatrici miocardiche post-infarto o malattie del muscolo cardiaco.
+
+Riferimenti:
+Hundley, W.G., et al. (2010). ACCF/ACR/AHA/NASCI/SCMR 2010 expert consensus document on cardiovascular magnetic resonance. Journal of the American College of Cardiology, 55(23), 2614-2662.
