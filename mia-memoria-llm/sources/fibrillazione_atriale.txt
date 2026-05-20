@@ -1,0 +1,6 @@
+La fibrillazione atriale è la forma più comune di aritmia cardiaca persistente, caratterizzata da un'attivazione elettrica atriale rapida, caotica e disorganizzata.
+Questa condizione impedisce una contrazione atriale efficace, portando a un battito cardiaco irregolare e spesso accelerato.
+La fibrillazione atriale aumenta significativamente il rischio di formazione di trombi all'interno degli atri, che possono staccarsi e causare ictus cerebrali.
+
+Riferimenti:
+Hindricks, G., et al. 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS). European Heart Journal, 2021. DOI: 10.1093/eurheartj/ehaa612

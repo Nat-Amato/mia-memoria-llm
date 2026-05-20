@@ -1,0 +1,6 @@
+L'angina pectoris è una sindrome clinica caratterizzata da dolore o fastidio al petto, spesso descritto come senso di oppressione o peso.
+Si verifica quando c'è uno squilibrio tra la richiesta di ossigeno del muscolo cardiaco e l'apporto effettivo di sangue attraverso le arterie coronarie, solitamente a causa di restringimenti dovuti a placche aterosclerotiche (ischemia miocardica).
+Il dolore tipicamente insorge durante uno sforzo fisico o stress emotivo e si attenua con il riposo o la somministrazione di nitroglicerina.
+
+Riferimenti:
+Knuuti, J., et al. 2019 ESC Guidelines for the diagnosis and management of chronic coronary syndromes. European Heart Journal, 2020. DOI: 10.1093/eurheartj/ehz425

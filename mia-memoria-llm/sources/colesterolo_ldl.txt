@@ -1,0 +1,6 @@
+Il colesterolo LDL (Low-Density Lipoprotein) è una lipoproteina a bassa densità responsabile del trasporto del colesterolo dal fegato ai tessuti periferici.
+Quando presente in eccesso nel flusso sanguigno, il colesterolo LDL tende ad accumularsi e ossidarsi all'interno delle pareti arteriose, contribuendo alla formazione delle placche ateromasiche.
+Valori elevati di colesterolo LDL rappresentano uno dei principali fattori di rischio per le malattie cardiovascolari, come l'infarto miocardico e l'ictus cerebrale.
+
+Riferimenti:
+Ference, B. A., et al. Low-density lipoproteins cause atherosclerotic cardiovascular disease. 1. Evidence from genetic, epidemiologic, and clinical studies. A consensus statement from the European Atherosclerosis Society Consensus Panel. European Heart Journal, 2017. DOI: 10.1093/eurheartj/ehx144

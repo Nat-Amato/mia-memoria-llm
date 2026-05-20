@@ -1,0 +1,6 @@
+L'endotelio è il monostrato di cellule piatte che riveste la superficie interna dei vasi sanguigni (arterie, vene e capillari) e del cuore.
+Non è solo una barriera fisica, ma un organo endocrino e paracrino attivo che regola il tono vascolare, la coagulazione del sangue, e l'infiammazione, producendo sostanze come l'ossido nitrico.
+La disfunzione endoteliale è considerata uno dei primissimi stadi nello sviluppo dell'aterosclerosi.
+
+Riferimenti:
+Gimbrone, M. A., & García-Cardeña, G. Endothelial Cell Dysfunction and the Pathobiology of Atherosclerosis. Circulation Research, 2016. DOI: 10.1161/CIRCRESAHA.115.306301
