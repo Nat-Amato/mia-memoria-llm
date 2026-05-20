@@ -1,0 +1,6 @@
+La caffeina è un alcaloide naturale presente in diverse piante, tra cui caffè, tè e cacao, noto per i suoi effetti stimolanti sul sistema nervoso centrale.
+Agisce principalmente bloccando i recettori dell'adenosina, riducendo il senso di fatica e aumentando l'allerta.
+Se consumata in dosi moderate, è considerata sicura per la popolazione generale, ma dosi elevate possono causare tachicardia, ansia e insonnia in soggetti sensibili.
+
+Riferimenti:
+Nehlig, A., Daval, J. L., & Debry, G. Caffeine and the central nervous system: mechanisms of action, biochemical, metabolic and psychostimulant effects. Brain Research Reviews, 1992. DOI: 10.1016/0165-0173(92)90012-b

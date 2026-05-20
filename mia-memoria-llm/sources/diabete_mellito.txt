@@ -1,0 +1,6 @@
+Il diabete mellito è un gruppo di malattie metaboliche caratterizzate da iperglicemia cronica, derivante da difetti nella secrezione di insulina, nell'azione dell'insulina o in entrambe.
+Le forme principali sono il Tipo 1 (autoimmune, carenza assoluta di insulina) e il Tipo 2 (associato a insulino-resistenza e carenza relativa).
+A lungo termine, l'iperglicemia danneggia vasi sanguigni e nervi, aumentando il rischio di malattie cardiovascolari, retinopatia, nefropatia e neuropatia.
+
+Riferimenti:
+American Diabetes Association. Classification and Diagnosis of Diabetes: Standards of Medical Care in Diabetes—2021. Diabetes Care, 2021. DOI: 10.2337/dc21-S002

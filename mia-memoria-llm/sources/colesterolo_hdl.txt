@@ -1,0 +1,6 @@
+Il colesterolo HDL (High-Density Lipoprotein) è comunemente noto come "colesterolo buono".
+Le lipoproteine ad alta densità hanno la funzione di trasportare il colesterolo dai tessuti periferici e dalle pareti arteriose verso il fegato, dove viene metabolizzato o escreto tramite la bile (trasporto inverso del colesterolo).
+Livelli elevati di HDL sono associati a un minor rischio di sviluppare malattie cardiovascolari, poiché contrastano la formazione di placche aterosclerotiche.
+
+Riferimenti:
+Barter, P. The role of HDL-cholesterol in preventing atherosclerotic disease. European Heart Journal Supplements, 2005. DOI: 10.1093/eurheartj/sui036

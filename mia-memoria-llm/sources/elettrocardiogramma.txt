@@ -1,0 +1,6 @@
+L'elettrocardiogramma (ECG) è un esame diagnostico non invasivo che registra l'attività elettrica del cuore nel tempo.
+Viene eseguito posizionando degli elettrodi sulla superficie del corpo (torace e arti), che rilevano gli impulsi elettrici generati durante ogni ciclo cardiaco.
+L'ECG è fondamentale per diagnosticare aritmie, identificare segni di ischemia o infarto miocardico, e valutare la funzionalità generale del muscolo cardiaco.
+
+Riferimenti:
+Rautaharju, P. M., et al. AHA/ACCF/HRS recommendations for the standardization and interpretation of the electrocardiogram: Part IV. The ST segment, T and U waves, and the QT interval. Journal of the American College of Cardiology, 2009. DOI: 10.1016/j.jacc.2008.12.014
