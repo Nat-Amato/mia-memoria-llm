@@ -993,3 +993,7 @@
 ## [2026-05-18] Ingestione: sartani.txt
 - Creata la pagina [[Sartani]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-20] Ingestione: aldosterone.txt
+- Creata la pagina [[Aldosterone]].
+- Aggiornato l'elenco in `/wiki/index.md`.

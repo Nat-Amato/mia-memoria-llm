@@ -13,6 +13,7 @@
 - [[Aggregazione piastrinica]]: L'[[Aggregazione piastrinica]] è il processo biologico mediante il quale le piastrine si legano tra loro per formare un coagulo in risposta a un danno vascolare.
 - [[Aglio]]: L'aglio (Allium sativum) è una pianta bulbosa utilizzata fin dall'antichità sia come condimento che per i suoi presunti benefici per la salute.
 - [[Aglio nero]]: L'aglio nero è ottenuto dall'aglio fresco attraverso un processo prolungato di invecchiamento a temperatura e umidità controllate (spesso definito impropriamente fermentazione).
+- [[Aldosterone]]: L'aldosterone è un ormone steroideo della classe dei mineralcorticoidi, prodotto e secreto dalla corteccia delle ghiandole surrenali.
 - [[Allicina]]: L'allicina (diallil tiosulfinato) è il principale composto organosulfurico bioattivo presente nell'aglio crudo frantumato.
 - [[Aneurisma]]: Un [[Aneurisma]] è una dilatazione anomala e localizzata della parete di un'arteria, causata da un indebolimento strutturale dei tessuti vascolari.
 - [[Angina pectoris]]: L'angina pectoris è una sindrome clinica caratterizzata da dolore, oppressione o fastidio al petto, spesso irradiato al braccio sinistro, al collo o alla mandibola, provocato da un'[[Ischemia miocardica]] transitoria.
