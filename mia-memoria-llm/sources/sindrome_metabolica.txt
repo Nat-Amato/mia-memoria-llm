@@ -1,0 +1,6 @@
+La sindrome metabolica non è una singola malattia, ma un cluster (un raggruppamento) di fattori di rischio cardiometabolici che tendono a presentarsi congiuntamente nel medesimo paziente.
+I criteri diagnostici includono tipicamente l'obesità addominale (aumento della circonferenza vita), l'ipertrigliceridemia, bassi livelli di colesterolo HDL, ipertensione arteriosa e alterata glicemia a digiuno o insulino-resistenza.
+La presenza concomitante di queste alterazioni moltiplica in modo esponenziale, rispetto alla somma dei singoli fattori, il rischio del paziente di sviluppare patologie avverse come l'infarto miocardico, l'ictus cerebrale e il diabete mellito di tipo 2.
+
+Riferimenti:
+Eckel, R. H., et al. The metabolic syndrome. The Lancet, 2005. DOI: 10.1016/S0140-6736(05)66378-7

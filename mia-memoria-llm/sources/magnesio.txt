@@ -1,0 +1,6 @@
+Il magnesio è un macrominerale essenziale per l'organismo umano, coinvolto come cofattore in oltre 300 reazioni enzimatiche, fondamentali per la produzione di energia, la sintesi proteica e il metabolismo degli acidi nucleici.
+Dal punto di vista cardiovascolare, esso è cruciale per il corretto mantenimento del potenziale elettrico delle membrane cellulari miocardiche, regolando i battiti cardiaci, e favorisce il rilassamento della muscolatura liscia vascolare, contribuendo a mantenere la pressione sanguigna nella norma.
+Carenze di magnesio, spesso dovute a un'alimentazione raffinata o all'uso di farmaci diuretici, sono state associate a un maggior rischio di aritmie (come fibrillazione atriale e spasmi coronarici) e ipertensione arteriosa.
+
+Riferimenti:
+Rosique-Esteban, N., et al. Dietary Magnesium and Cardiovascular Disease: A Review with Emphasis in Epidemiological Studies. Nutrients, 2018. DOI: 10.3390/nu10020168

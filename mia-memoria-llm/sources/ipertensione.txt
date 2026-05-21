@@ -1,0 +1,6 @@
+L'ipertensione arteriosa, comunemente definita pressione alta, è una condizione clinica cronica in cui la pressione del sangue nelle arterie risulta costantemente elevata.
+Si tratta di un fattore di rischio maggiore per lo sviluppo di patologie cardiovascolari, come l'infarto miocardico, l'ictus cerebrale, l'insufficienza cardiaca e l'insufficienza renale cronica. Spesso è asintomatica e viene diagnosticata in seguito a misurazioni di routine, ma un controllo prolungato e costante è vitale per minimizzare i danni agli organi bersaglio.
+Il trattamento dell'ipertensione prevede sia modifiche allo stile di vita, come una dieta iposodica (povera di sodio), attività fisica e calo ponderale, sia terapie farmacologiche specifiche, solitamente basate su classi di farmaci come gli ACE inibitori, i calcio-antagonisti o i diuretici.
+
+Riferimenti:
+Williams, B., et al. 2018 ESC/ESH Guidelines for the management of arterial hypertension. European Heart Journal, 2018. DOI: 10.1093/eurheartj/ehy339

@@ -1,0 +1,6 @@
+L'insulino-resistenza è una condizione fisiopatologica sistemica in cui le cellule dell'organismo (in particolare muscolo scheletrico, fegato e tessuto adiposo) mostrano una ridotta sensibilità all'azione biologica dell'insulina.
+Di conseguenza, il pancreas è costretto a secernere quantità progressivamente maggiori di questo ormone (iperinsulinemia compensatoria) per mantenere la glicemia entro limiti normali, creando uno stato infiammatorio cronico di basso grado.
+Questa condizione è il precursore primario per lo sviluppo del diabete mellito di tipo 2, della sindrome metabolica e rappresenta un fattore di rischio cardiovascolare estremamente rilevante, spesso reversibile attraverso l'attività fisica aerobica e la restrizione calorica.
+
+Riferimenti:
+Reaven, G. M. Banting lecture 1988. Role of insulin resistance in human disease. Diabetes, 1988. DOI: 10.2337/diab.37.12.1595

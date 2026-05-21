@@ -1,0 +1,6 @@
+L'obesità è una complessa patologia cronica a eziologia multifattoriale caratterizzata da un eccessivo accumulo di massa grassa (tessuto adiposo) nell'organismo, tale da compromettere in modo significativo la salute.
+Dal punto di vista clinico viene diagnosticata primariamente tramite il calcolo dell'Indice di Massa Corporea (BMI, Body Mass Index), con valori uguali o superiori a 30 kg/m², pur considerando che la distribuzione del grasso (in particolare quello viscerale) è ancora più predittiva del rischio rispetto al semplice peso assoluto.
+Essa contribuisce direttamente all'aumento dell'incidenza di dislipidemie, ipertensione, diabete di tipo 2 e numerose problematiche cardiovascolari, rendendo necessari interventi multidisciplinari che combinano nutrizione clinica, psicologia e, in alcuni casi, chirurgia bariatrica.
+
+Riferimenti:
+Bray, G. A., et al. Obesity: a chronic relapsing progressive disease process. A position statement of the World Obesity Federation. Obesity Reviews, 2017. DOI: 10.1111/obr.12551
