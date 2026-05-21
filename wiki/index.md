@@ -15,6 +15,7 @@
 - [[Aglio nero]]: L'aglio nero è ottenuto dall'aglio fresco attraverso un processo prolungato di invecchiamento a temperatura e umidità controllate (spesso definito impropriamente fermentazione).
 - [[Aldosterone]]: L'aldosterone è un ormone steroideo della classe dei mineralcorticoidi, prodotto e secreto dalla corteccia delle ghiandole surrenali.
 - [[Allicina]]: L'allicina (diallil tiosulfinato) è il principale composto organosulfurico bioattivo presente nell'aglio crudo frantumato.
+- [[Amiodarone]]: L'amiodarone è uno dei farmaci antiaritmici più potenti, utilizzato per trattare una vasta gamma di forme di aritmia atriali e ventricolari severe.
 - [[Aneurisma]]: Un [[Aneurisma]] è una dilatazione anomala e localizzata della parete di un'arteria, causata da un indebolimento strutturale dei tessuti vascolari.
 - [[Angina pectoris]]: L'angina pectoris è una sindrome clinica caratterizzata da dolore, oppressione o fastidio al petto, spesso irradiato al braccio sinistro, al collo o alla mandibola, provocato da un'[[Ischemia miocardica]] transitoria.
 - [[Anguria]]: L'[[Anguria]] (Citrullus lanatus) è un frutto dissetante tipico del periodo estivo, composto per oltre il 90% da acqua, che garantisce un ridotto apporto calorico.
