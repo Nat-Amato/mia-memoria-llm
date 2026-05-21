@@ -1,0 +1,6 @@
+I trigliceridi sono la principale forma chimica in cui i lipidi (grassi) vengono immagazzinati nel tessuto adiposo dell'organismo umano e si trovano normalmente in circolazione nel sangue, associati a specifiche lipoproteine.
+Derivano in parte dall'alimentazione (soprattutto dai carboidrati in eccesso e dall'alcol) e in parte dalla sintesi epatica (fegato). Il loro ruolo primario è fungere da riserva energetica a lungo termine per le cellule.
+Valori ematici eccessivamente elevati di trigliceridi (ipertrigliceridemia) sono strettamente correlati all'insorgenza di aterosclerosi, sindrome metabolica, resistenza all'insulina e costituiscono un fattore di rischio indipendente per la patologia ischemica del cuore e, in casi gravi, per la pancreatite acuta.
+
+Riferimenti:
+Nordestgaard, B. G., & Varbo, A. Triglycerides and cardiovascular disease. The Lancet, 2014. DOI: 10.1016/S0140-6736(14)61177-6

@@ -1,0 +1,6 @@
+Il glucosio è uno zucchero semplice (monosaccaride) che rappresenta la fonte di energia primaria e più rapida per le cellule del corpo umano, in particolar modo per il sistema nervoso centrale e i globuli rossi.
+Esso viene ricavato principalmente dalla digestione e metabolizzazione dei carboidrati introdotti attraverso l'alimentazione (come amidi e zuccheri) e assorbito dall'intestino per entrare nel circolo sanguigno (glicemia).
+Il mantenimento della concentrazione ematica di glucosio entro livelli ottimali (omeostasi glucidica) è finemente regolato da ormoni pancreatici, in primis l'insulina, la cui carenza o inefficacia funzionale è alla base dello sviluppo del diabete mellito.
+
+Riferimenti:
+Petersen, M. C., & Shulman, G. I. Mechanisms of Insulin Action and Insulin Resistance. Physiological Reviews, 2018. DOI: 10.1152/physrev.00063.2017

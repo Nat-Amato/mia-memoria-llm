@@ -1,0 +1,6 @@
+La miocardite è un processo patologico infiammatorio acuto o cronico che coinvolge il miocardio, ovvero il tessuto muscolare del cuore, compromettendone potenzialmente la struttura e la funzione elettrica o meccanica.
+Le cause più frequenti sono di origine infettiva, in particolare virale (ad es. da Coxsackievirus, Adenovirus o SARS-CoV-2), ma può essere innescata anche da patologie autoimmuni o reazioni tossiche ad alcuni farmaci.
+Clinicamente si manifesta con un quadro molto variabile, che può andare dalla totale assenza di sintomi a dolore toracico, alterazioni del ritmo cardiaco (aritmie), insufficienza cardiaca severa e, in rari casi fulminanti, shock cardiogeno.
+
+Riferimenti:
+Caforio, A. L. P., et al. Current state of knowledge on aetiology, diagnosis, management, and therapy of myocarditis. European Heart Journal, 2013. DOI: 10.1093/eurheartj/eht210

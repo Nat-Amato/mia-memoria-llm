@@ -1,0 +1,6 @@
+L'infarto miocardico acuto (comunemente noto come attacco di cuore) si verifica quando il flusso di sangue diretto a una parte del muscolo cardiaco (il miocardio) si blocca in modo improvviso e prolungato.
+Tale ostruzione è prevalentemente causata dalla rottura di una placca aterosclerotica in un'arteria coronaria, con conseguente formazione di un trombo. L'assenza di ossigenazione determina la necrosi (morte cellulare) della porzione di miocardio interessata, compromettendo l'efficienza della funzione di pompa del cuore.
+Il sintomo classico è il dolore toracico oppressivo, che può irradiarsi al braccio sinistro, alla schiena, alla mandibola, ed essere associato a sudorazione fredda, nausea e dispnea. Una diagnosi precoce, spesso mediante elettrocardiogramma e test della troponina, e un intervento rapido (ad es. angioplastica o trombolisi) sono fondamentali per salvare il tessuto cardiaco.
+
+Riferimenti:
+Thygesen, K., et al. Fourth Universal Definition of Myocardial Infarction. Journal of the American College of Cardiology, 2018. DOI: 10.1016/j.jacc.2018.08.1038

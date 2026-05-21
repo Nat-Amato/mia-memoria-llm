@@ -1,0 +1,6 @@
+Gli acidi grassi Omega-3 sono una classe di lipidi polinsaturi essenziali, il che significa che il corpo umano non è in grado di sintetizzarli autonomamente e devono pertanto essere assunti attraverso l'alimentazione.
+Le forme biologicamente più attive sono l'acido eicosapentaenoico (EPA) e l'acido docosaesaenoico (DHA), presenti principalmente nel pesce azzurro (come salmone, sgombro e sardine), mentre fonti vegetali come semi di lino e noci forniscono l'acido alfa-linolenico (ALA).
+Questi composti svolgono un ruolo fondamentale nel modulare i processi infiammatori dell'organismo, favorire la salute delle membrane cellulari, proteggere la funzione neurologica e cardiovascolare, in particolare riducendo i livelli dei trigliceridi nel sangue.
+
+Riferimenti:
+Mozaffarian, D., & Wu, J. H. Omega-3 fatty acids and cardiovascular disease: effects on risk factors, molecular pathways, and clinical events. Journal of the American College of Cardiology, 2011. DOI: 10.1016/j.jacc.2011.06.063

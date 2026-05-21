@@ -1,0 +1,6 @@
+L'ecocardiogramma (spesso chiamato ecocardio) è un esame diagnostico non invasivo che sfrutta l'emissione di ultrasuoni (ecografia) per visualizzare in tempo reale l'anatomia e la funzionalità del cuore.
+Esso permette ai cardiologi di valutare con alta precisione le dimensioni delle camere cardiache (atri e ventricoli), lo spessore delle pareti muscolari, la capacità di pompaggio (frazione di eiezione) e il corretto funzionamento delle valvole cardiache.
+È considerato uno strumento fondamentale e di primo livello per diagnosticare una vasta gamma di patologie, tra cui scompenso cardiaco, miocarditi, endocarditi e pregresse ischemie, senza esporre il paziente a radiazioni ionizzanti.
+
+Riferimenti:
+Lang, R. M., et al. Recommendations for Cardiac Chamber Quantification by Echocardiography in Adults. Journal of the American Society of Echocardiography, 2015. DOI: 10.1016/j.echo.2014.10.003

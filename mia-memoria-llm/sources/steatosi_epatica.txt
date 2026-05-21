@@ -1,0 +1,6 @@
+La steatosi epatica non alcolica (spesso indicata con l'acronimo NAFLD) è una condizione patologica caratterizzata da un accumulo anomalo ed eccessivo di trigliceridi all'interno delle cellule del fegato (epatociti), in assenza di un consumo significativo di alcol.
+Tale accumulo lipidico è fortemente associato a stili di vita sedentari, obesità viscerale, dislipidemia e insulino-resistenza, di cui rappresenta essenzialmente la manifestazione a livello epatico.
+Se non gestita correttamente tramite interventi dietetici (come la riduzione di zuccheri semplici e grassi saturi) e calo ponderale, la steatosi può progredire in forme più severe, come la steatoepatite (NASH), aumentando il rischio di cirrosi, insufficienza epatica e complicanze cardiovascolari.
+
+Riferimenti:
+Younossi, Z. M., et al. Global epidemiology of nonalcoholic fatty liver disease—Meta-analytic assessment of prevalence, incidence, and outcomes. Hepatology, 2016. DOI: 10.1002/hep.28431
