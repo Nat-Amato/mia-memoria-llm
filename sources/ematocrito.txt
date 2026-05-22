@@ -1,0 +1,6 @@
+L'ematocrito è un parametro ematochimico che esprime il volume percentuale occupato dai globuli rossi rispetto al volume totale del sangue (composto anche da plasma e globuli bianchi).
+
+Valori normali di ematocrito garantiscono una viscosità sanguigna ottimale. Un ematocrito troppo elevato (policitemia) rende il sangue più denso e "sciropposo", aumentando la resistenza al flusso sanguigno. Questa condizione costringe il cuore a un maggiore sforzo di pompaggio e innalza significativamente il rischio di eventi trombotici, ischemia miocardica e ipertensione. Al contrario, un ematocrito troppo basso è indicativo di anemia.
+
+Riferimenti:
+Gagnon, D. R. et al. Hematocrit and the Risk of Cardiovascular Disease—The Framingham Study: A 34-Year Follow-up. American Heart Journal, 1994. DOI: 10.1016/0002-8703(94)90040-X

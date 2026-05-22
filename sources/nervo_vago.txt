@@ -1,0 +1,6 @@
+Il nervo vago è il decimo nervo cranico e rappresenta il componente principale del sistema nervoso parasimpatico. Ha un decorso esteso, innervando numerosi organi vitali, tra cui il cuore, i polmoni e l'intero tratto gastrointestinale.
+
+A livello cardiaco, l'attività del nervo vago esercita un effetto cronotropo negativo, rallentando la frequenza cardiaca attraverso il rilascio di acetilcolina a livello del nodo senoatriale. Un adeguato tono vagale è indicativo di una buona regolazione autonoma e contribuisce alla variabilità della frequenza cardiaca (HRV). Una stimolazione appropriata del nervo vago è studiata per le sue proprietà anti-infiammatorie e la sua potenziale utilità nel trattamento dello scompenso cardiaco e di altre patologie croniche.
+
+Riferimenti:
+Olshansky, B. et al. Parasympathetic Nervous System and Heart Failure: Pathophysiology and Potential Implications for Therapy. Circulation, 2008. DOI: 10.1161/CIRCULATIONAHA.107.760405

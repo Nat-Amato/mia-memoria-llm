@@ -1,0 +1,6 @@
+La plasmina è il principale enzima proteolitico responsabile della fibrinolisi, ovvero il processo fisiologico di degradazione e dissoluzione dei coaguli di sangue una volta che la lesione vascolare è riparata.
+
+Circola nel sangue in forma inattiva come plasminogeno, che viene convertito in plasmina attiva da specifici attivatori tissutali (come il t-PA) rilasciati dall'endotelio. La plasmina agisce scindendo i legami della rete di fibrina, producendo frammenti solubili noti come prodotti di degradazione della fibrina (FDP), tra cui il D-dimero. Il corretto bilanciamento tra la formazione di fibrina e l'attività della plasmina previene occlusioni vascolari letali.
+
+Riferimenti:
+Cesarman-Maus, G., & Hajjar, K. A. Molecular mechanisms of fibrinolysis. British Journal of Haematology, 2005. DOI: 10.1111/j.1365-2141.2005.05444.x

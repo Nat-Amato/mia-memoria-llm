@@ -1,0 +1,6 @@
+Il trombossano A2 (TXA2) è un potente eicosanoide, un derivato dell'acido arachidonico prodotto prevalentemente dalle piastrine attivate grazie all'azione dell'enzima ciclossigenasi (COX).
+
+Svolge un ruolo cruciale nell'emostasi e nella coagulazione del sangue. Il TXA2 è un forte vasocostrittore e un potente promotore dell'aggregazione piastrinica, facilitando la formazione del tappo piastrinico necessario per riparare le lesioni vascolari. Tuttavia, un'eccessiva produzione di trombossano contribuisce alla formazione di trombi patologici, aumentando il rischio di infarto miocardico e ictus. Farmaci antiaggreganti come l'acido acetilsalicilico agiscono proprio inibendo la sintesi del trombossano.
+
+Riferimenti:
+Patrono, C. et al. Platelet-Active Drugs: The Relationships Among Dose, Effectiveness, and Side Effects. Chest, 2004. DOI: 10.1378/chest.126.3_suppl.234S

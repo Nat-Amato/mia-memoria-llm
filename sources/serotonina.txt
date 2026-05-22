@@ -1,0 +1,6 @@
+La serotonina (5-idrossitriptamina o 5-HT) è un neurotrasmettitore monoaminico coinvolto in molteplici funzioni biologiche, tra cui la regolazione dell'umore, del sonno e dell'appetito. La maggior parte della serotonina nel corpo umano è tuttavia concentrata a livello periferico, in particolare nelle piastrine e nell'intestino.
+
+Nel sistema cardiovascolare, la serotonina ha effetti complessi e bifasici, potendo indurre sia vasodilatazione che vasocostrizione, a seconda del distretto vascolare e delle condizioni dell'endotelio. Quando rilasciata dalle piastrine durante l'aggregazione, contribuisce alla vasocostrizione locale e promuove la formazione del trombo. Alterazioni nella segnalazione serotoninergica sono state implicate nella fisiopatologia dell'ipertensione e delle malattie vascolari periferiche.
+
+Riferimenti:
+Watts, S. W. et al. Serotonin and blood pressure regulation. Pharmacological Reviews, 2012. DOI: 10.1124/pr.111.004697

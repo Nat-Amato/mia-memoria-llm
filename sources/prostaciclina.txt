@@ -1,0 +1,6 @@
+La prostaciclina (PGI2) è un eicosanoide della famiglia delle prostaglandine, prodotto principalmente dalle cellule endoteliali che rivestono i vasi sanguigni.
+
+Ha un'azione fisiologica diametralmente opposta a quella del trombossano. La prostaciclina è un potente vasodilatatore e il più forte inibitore endogeno dell'aggregazione piastrinica noto. L'equilibrio tra prostaciclina endoteliale e trombossano piastrinico è fondamentale per mantenere l'integrità del sistema vascolare, prevenendo la formazione di coaguli non necessari pur consentendo la riparazione dei tessuti. Analoghi sintetici della prostaciclina sono impiegati clinicamente nel trattamento dell'ipertensione polmonare.
+
+Riferimenti:
+Moncada, S. Biological importance of prostacyclin. British Journal of Pharmacology, 1982. PMCID: PMC2071745

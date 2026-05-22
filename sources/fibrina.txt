@@ -1,0 +1,6 @@
+La fibrina è una proteina insolubile prodotta nell'ultima fase della cascata coagulativa. Deriva dal fibrinogeno, una proteina plasmatica solubile, attraverso l'azione dell'enzima trombina.
+
+I filamenti di fibrina si intrecciano formando una rete tridimensionale (reticolo di fibrina) che intrappola i globuli rossi e le piastrine, consolidando il tappo piastrinico primario e formando un coagulo di sangue stabile e definitivo. Questo processo è vitale per arrestare l'emorragia (emostasi). L'eccessiva deposizione di fibrina, tuttavia, è il meccanismo patologico alla base della trombosi.
+
+Riferimenti:
+Weisel, J. W. Fibrinogen and fibrin. Advances in Protein Chemistry, 2005. DOI: 10.1016/S0065-3233(05)70008-5
