@@ -1,0 +1,6 @@
+Il microbiota intestinale è l'insieme dei trilioni di microrganismi, tra cui batteri, virus, funghi e protozoi, che risiedono nel tratto gastrointestinale umano, vivendo in simbiosi con l'ospite.
+Esso svolge funzioni metaboliche essenziali, come la fermentazione delle fibre alimentari in acidi grassi a catena corta, e modula lo sviluppo e l'attività del sistema immunitario. La composizione del microbiota è fortemente influenzata dalla dieta, dallo stile di vita e dall'uso di antibiotici.
+Alterazioni nella sua composizione, note come disbiosi, sono state collegate a stati infiammatori sistemici e a disturbi metabolici. In particolare, alcuni metaboliti derivati dal microbiota, come la trimetilammina N-ossido (TMAO), sono oggi riconosciuti come fattori di rischio indipendenti per lo sviluppo di malattie cardiovascolari.
+
+Riferimenti:
+Tang, W. H. W., et al. Intestinal Microbial Metabolism of Phosphatidylcholine and Cardiovascular Risk. The New England Journal of Medicine, 2013. DOI: 10.1056/NEJMoa1109400

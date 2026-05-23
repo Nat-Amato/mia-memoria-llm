@@ -1,0 +1,6 @@
+La trombosi è un processo patologico caratterizzato dalla formazione di un coagulo di sangue, o trombo, all'interno di un vaso sanguigno intatto, che ostruisce parzialmente o totalmente il normale flusso ematico.
+La sua origine è descritta dalla cosiddetta Triade di Virchow, che comprende alterazioni della parete vascolare (danno endoteliale), stasi del flusso sanguigno e ipercoagulabilità del sangue. I trombi possono formarsi sia nel sistema venoso (come nella trombosi venosa profonda) sia in quello arterioso.
+A livello cardiovascolare, la trombosi arteriosa è frequentemente la conseguenza della rottura di una placca aterosclerotica vulnerabile; essa rappresenta l'evento occlusivo acuto responsabile della maggior parte degli infarti miocardici e degli ictus cerebrali ischemici.
+
+Riferimenti:
+Furie, B., & Furie, B. C. Mechanisms of Thrombus Formation. The New England Journal of Medicine, 2008. DOI: 10.1056/NEJMra0801082

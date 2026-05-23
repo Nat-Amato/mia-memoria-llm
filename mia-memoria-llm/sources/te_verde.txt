@@ -1,0 +1,6 @@
+Il tè verde è una bevanda ottenuta dall'infusione delle foglie non fermentate della pianta Camellia sinensis, originaria dell'Asia orientale e consumata globalmente da millenni.
+È particolarmente ricco di polifenoli, in gran parte catechine, tra cui l'epigallocatechina gallato (EGCG). Questi composti bioattivi sono dotati di potenti proprietà antiossidanti e antinfiammatorie, proteggendo le cellule dallo stress ossidativo e dal danno al DNA.
+Il consumo regolare di tè verde è stato associato a benefici metabolici e cardiovascolari, tra cui il miglioramento della funzione endoteliale, la modesta riduzione della pressione sanguigna e un profilo lipidico più favorevole, contribuendo a un minor rischio di malattie coronariche.
+
+Riferimenti:
+Kuriyama, S., et al. Green tea consumption and mortality due to cardiovascular disease, cancer, and all causes in Japan: the Ohsaki study. JAMA, 2006. DOI: 10.1001/jama.296.10.1255

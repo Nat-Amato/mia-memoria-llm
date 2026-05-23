@@ -1,0 +1,6 @@
+Lo stress ossidativo è una condizione patologica causata da uno squilibrio tra la produzione di specie reattive dell'ossigeno (ROS), come i radicali liberi, e la capacità del sistema di difesa antiossidante dell'organismo di neutralizzarle.
+Questo eccesso di radicali liberi provoca danni strutturali a macromolecole cellulari quali DNA, proteine e lipidi. A livello del sistema cardiovascolare, lo stress ossidativo favorisce l'ossidazione delle lipoproteine a bassa densità (colesterolo LDL) all'interno delle pareti arteriose, innescando la risposta infiammatoria.
+Tale processo è una fase chiave nella patogenesi della disfunzione endoteliale e nello sviluppo e progressione dell'aterosclerosi, rendendo il controllo dei fattori scatenanti (come fumo, iperglicemia e inquinamento) fondamentale per la prevenzione.
+
+Riferimenti:
+Harrison, D., et al. Role of oxidative stress in atherosclerosis. The American Journal of Cardiology, 2003. DOI: 10.1016/s0002-9149(02)03144-2

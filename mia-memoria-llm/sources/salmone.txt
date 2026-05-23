@@ -1,0 +1,6 @@
+Il salmone è un pesce osseo che vive sia in acque dolci che marine, noto per le sue carni ricche e il suo elevato profilo nutrizionale.
+È una delle fonti alimentari più ricche di acidi grassi omega-3 a lunga catena, in particolare EPA (acido eicosapentaenoico) e DHA (acido docosaesaenoico). Questi nutrienti sono essenziali per il mantenimento dell'integrità delle membrane cellulari e svolgono una potente azione antinfiammatoria.
+Il consumo regolare di salmone è ampiamente raccomandato dalle linee guida nutrizionali per la prevenzione delle patologie cardiovascolari, in quanto contribuisce a ridurre i livelli di trigliceridi nel sangue, migliorare la funzione endoteliale e prevenire aritmie fatali.
+
+Riferimenti:
+Mozaffarian, D., & Rimm, E. B. Fish intake, contaminants, and human health: evaluating the risks and the benefits. JAMA, 2006. DOI: 10.1001/jama.296.15.1885

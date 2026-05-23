@@ -1,0 +1,6 @@
+La vitamina D è un pro-ormone liposolubile, sintetizzato principalmente a livello cutaneo in seguito all'esposizione ai raggi solari ultravioletti (UVB) e, in misura minore, introdotto attraverso la dieta.
+È cruciale per l'omeostasi del calcio e del fosforo, risultando fondamentale per la salute delle ossa. Recenti ricerche hanno evidenziato la presenza di recettori della vitamina D a livello delle cellule endoteliali e muscolari lisce vascolari, suggerendo un suo ruolo nella regolazione della pressione arteriosa e nella funzione immunitaria.
+Livelli carenti di vitamina D sono stati associati in studi epidemiologici a un aumentato rischio di ipertensione, insufficienza cardiaca e malattie ischemiche, sebbene i risultati degli studi di integrazione per la prevenzione primaria cardiovascolare non abbiano ancora fornito prove conclusive di efficacia.
+
+Riferimenti:
+Manson, J. E., et al. Vitamin D Supplements and Prevention of Cancer and Cardiovascular Disease. The New England Journal of Medicine, 2019. DOI: 10.1056/NEJMoa1809944

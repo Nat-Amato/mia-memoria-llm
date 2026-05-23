@@ -1,0 +1,6 @@
+Il vino rosso è una bevanda alcolica ottenuta dalla fermentazione del mosto di uva nera, caratterizzata dalla presenza di numerosi composti polifenolici derivanti dalle bucce e dai semi dell'uva.
+Tra questi composti spicca il resveratrolo, un antiossidante che ha mostrato in studi preclinici potenziali effetti protettivi sull'endotelio e sulla modulazione dei lipidi plasmatici. Tuttavia, l'effetto netto del consumo di vino rosso sulla salute cardiovascolare umana è oggetto di ampio dibattito.
+Sebbene un consumo moderato sia stato storicamente associato, in alcuni studi osservazionali, a un rischio ridotto di eventi coronarici (il cosiddetto "paradosso francese"), le moderne evidenze sottolineano che i rischi legati all'assunzione di alcol, tra cui l'aumento della pressione arteriosa e il rischio oncologico, spesso superano i potenziali benefici, sconsigliandone l'uso come strategia preventiva.
+
+Riferimenti:
+Biddinger, K. J., et al. Association of Habitual Alcohol Intake With Risk of Cardiovascular Disease. JAMA Network Open, 2022. DOI: 10.1001/jamanetworkopen.2022.3849
