@@ -1,0 +1,6 @@
+La trombosi è un processo patologico caratterizzato dalla formazione di un coagulo di sangue, detto trombo, all'interno di un vaso sanguigno (arteria o vena) o nelle cavità cardiache.
+La formazione del trombo ostruisce parzialmente o totalmente il normale flusso sanguigno, compromettendo l'ossigenazione e il nutrimento dei tessuti irrorati da quel vaso.
+Se una porzione del trombo si frammenta e viaggia nel circolo sanguigno, prende il nome di embolo, e può causare gravi complicanze a distanza, come l'embolia polmonare (se di origine venosa) o l'ictus ischemico (se di origine arteriosa o cardiaca).
+
+Riferimenti:
+Mackman, N. Triggers, targets and treatments for thrombosis. Nature, 2008. DOI: 10.1038/nature06797

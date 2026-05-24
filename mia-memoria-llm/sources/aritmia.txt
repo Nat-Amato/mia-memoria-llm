@@ -1,0 +1,6 @@
+L'aritmia cardiaca è un'alterazione del normale ritmo cardiaco, caratterizzata da battiti irregolari, accelerati (tachicardia) o rallentati (bradicardia), causata da anomalie nel sistema di generazione o di conduzione degli impulsi elettrici del cuore.
+Le aritmie possono variare da forme benigne e asintomatiche a condizioni potenzialmente fatali, in grado di compromettere severamente l'efficienza di pompaggio del miocardio.
+Tra le aritmie più comuni e clinicamente rilevanti vi è la fibrillazione atriale, che aumenta significativamente il rischio di formazione di trombi intracardiaci e di conseguenti eventi ischemici come l'ictus.
+
+Riferimenti:
+Zimetbaum, P. Antiarrhythmic Drug Therapy for Atrial Fibrillation. The New England Journal of Medicine, 2012. DOI: 10.1056/NEJMct1100995

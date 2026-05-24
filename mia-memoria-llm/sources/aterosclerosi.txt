@@ -1,0 +1,6 @@
+L'aterosclerosi è una malattia infiammatoria cronica delle arterie di medio e grosso calibro, caratterizzata dall'accumulo di lipidi, cellule infiammatorie, tessuto fibroso e depositi di calcio nella tunica intima dei vasi sanguigni.
+Questo processo porta alla formazione di placche ateromasiche che restringono il lume arterioso e compromettono il normale flusso sanguigno.
+La progressione dell'aterosclerosi è un processo silente che può culminare in eventi ischemici acuti, come l'infarto miocardico e l'ictus cerebrale, a seguito della rottura della placca e della conseguente formazione di un trombo.
+
+Riferimenti:
+Libby, P., Buring, J. E., Badimon, L., et al. Atherosclerosis. Nature Reviews Disease Primers, 2019. DOI: 10.1038/s41572-019-0106-z

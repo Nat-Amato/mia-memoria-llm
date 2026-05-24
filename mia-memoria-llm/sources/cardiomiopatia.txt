@@ -1,0 +1,6 @@
+La cardiomiopatia è un gruppo eterogeneo di malattie del muscolo cardiaco caratterizzate da alterazioni strutturali e funzionali del miocardio, in assenza di patologie coronariche, valvolari, ipertensive o congenite sufficienti a spiegarne l'entità.
+Le cardiomiopatie si classificano principalmente in forme dilatative, ipertrofiche e restrittive, a seconda delle modificazioni morfologiche e della compromissione della funzione ventricolare.
+Possono avere origini genetiche, infettive, tossiche o idiopatiche, e spesso evolvono verso lo scompenso cardiaco cronico o favoriscono l'insorgenza di aritmie letali.
+
+Riferimenti:
+Maron, B. J., et al. Contemporary Definitions and Classification of the Cardiomyopathies: An American Heart Association Scientific Statement. Circulation, 2006. DOI: 10.1161/CIRCULATIONAHA.106.174287

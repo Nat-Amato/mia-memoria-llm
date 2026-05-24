@@ -1,0 +1,6 @@
+L'ictus cerebrale è una sindrome clinica caratterizzata dalla rapida insorgenza di deficit neurologici focali o globali, dovuta a un'interruzione dell'apporto di sangue a una determinata area del cervello.
+Si classifica principalmente in due tipologie: l'ictus ischemico, causato dall'occlusione di un'arteria cerebrale (spesso a causa di trombosi o embolia), e l'ictus emorragico, derivante dalla rottura di un vaso sanguigno all'interno del parenchima cerebrale o nello spazio subaracnoideo.
+Costituisce una delle principali cause di mortalità e di disabilità permanente a livello globale, richiedendo un intervento medico tempestivo per minimizzare i danni al tessuto cerebrale.
+
+Riferimenti:
+Sacco, R. L., et al. An Updated Definition of Stroke for the 21st Century: A Statement for Healthcare Professionals From the American Heart Association/American Stroke Association. Stroke, 2013. DOI: 10.1161/STR.0b013e318296aeca
