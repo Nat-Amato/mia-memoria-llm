@@ -1001,3 +1001,7 @@
 ## [2026-05-21] Ingestione: amiodarone.txt
 - Creata la pagina [[Amiodarone]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-25] Ingestione: angiotac.txt
+- Creata la pagina [[Angio-TAC]].
+- Aggiornato l'elenco in `/wiki/index.md`.

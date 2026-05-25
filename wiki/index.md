@@ -243,6 +243,7 @@
 
 ## Procedure Mediche
 - [[Ablazione cardiaca]]: L'ablazione cardiaca è una procedura minimamente invasiva impiegata per trattare diversi tipi di aritmie cardiache.
+- [[Angio-TAC]]: L'Angio-TAC, o angiografia tomografica computerizzata, è un esame diagnostico che unisce la tecnologia della TAC all'iniezione di un mezzo di contrasto per visualizzare dettagliatamente i vasi sanguigni.
 - [[Angioplastica]]: L'[[Angioplastica]], o intervento coronarico percutaneo (PCI), è una procedura medica minimamente invasiva usata per riaprire vasi sanguigni occlusi.
 - [[Bypass aortocoronarico]]: Il bypass aortocoronarico (CABG) è un intervento chirurgico maggiore impiegato per trattare la cardiopatia ischemica grave.
 - [[Coronarografia]]: La [[Coronarografia]] è un esame radiologico invasivo per la visualizzazione diretta delle [[Arterie coronarie]].
