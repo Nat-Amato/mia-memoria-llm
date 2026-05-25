@@ -1,0 +1,6 @@
+L'aterosclerosi è una malattia infiammatoria cronica delle arterie di medio e grosso calibro, caratterizzata dalla formazione di placche ateromatose (o aterosclerotiche) all'interno dell'intima dei vasi sanguigni.
+Il processo aterosclerotico inizia generalmente con una lesione o una disfunzione endoteliale, che permette l'accumulo e l'ossidazione del colesterolo LDL nella parete arteriosa. Questo richiama cellule del sistema immunitario (macrofagi) che fagocitano i lipidi ossidati trasformandosi in cellule schiumose, dando origine alla stria lipidica che evolve successivamente in una placca fibrosa complessa.
+L'aterosclerosi restringe il lume vascolare, riducendo il flusso sanguigno verso gli organi vitali. La progressiva stenosi o la rottura acuta della placca possono causare gravi eventi cardiovascolari ischemici, come l'angina pectoris, l'infarto miocardico e l'ictus cerebrale.
+
+Riferimenti:
+Libby, P., et al. Atherosclerosis. Nature Reviews Disease Primers, 2019. DOI: 10.1038/s41572-019-0106-z
