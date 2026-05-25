@@ -1,0 +1,6 @@
+L'ictus ischemico è la forma più comune di ictus, responsabile di circa l'80-85% di tutti i casi. Si verifica quando un'arteria che fornisce sangue al cervello viene bloccata, solitamente da un coagulo di sangue (trombo) o da un embolo, interrompendo così l'apporto di ossigeno e nutrienti essenziali a una parte del tessuto cerebrale.
+
+L'interruzione del flusso sanguigno causa la rapida morte delle cellule nervose nell'area colpita, portando a deficit neurologici che dipendono dalla regione cerebrale coinvolta e dalla durata dell'ischemia. I principali fattori di rischio includono ipertensione, aterosclerosi, fibrillazione atriale, diabete e tabagismo. Il riconoscimento precoce dei sintomi e un intervento medico tempestivo, ad esempio tramite trombolisi, sono cruciali per minimizzare i danni cerebrali permanenti.
+
+Riferimenti:
+Campbell, B. C. V. et al. Ischaemic stroke. Nature Reviews Disease Primers, 2019. DOI: 10.1038/s41572-019-0118-8

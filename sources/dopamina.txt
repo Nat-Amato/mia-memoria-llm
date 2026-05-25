@@ -1,0 +1,6 @@
+La dopamina è un neurotrasmettitore catecolaminico del sistema nervoso centrale e periferico, noto principalmente per il suo ruolo nel circuito della ricompensa, della motivazione e del controllo motorio. Oltre alle sue funzioni cerebrali, la dopamina svolge importanti azioni periferiche.
+
+A livello cardiovascolare e renale, la dopamina interagisce con recettori specifici provocando vasodilatazione, specialmente nei letti vascolari renali, mesenterici e coronarici. Questo effetto contribuisce ad aumentare l'afflusso di sangue ai reni e a promuovere la diuresi e la natriuresi (escrezione di sodio). In ambito clinico, farmaci dopaminergici possono essere utilizzati per trattare alcuni tipi di shock e scompenso cardiaco.
+
+Riferimenti:
+Zeng, C., Sanada, H., Watanabe, H., Felder, R. A., & Jose, P. A. Role of Dopamine Receptor Subtypes in the Regulation of Blood Pressure. Hypertension, 2007. DOI: 10.1161/HYPERTENSIONAHA.107.087791

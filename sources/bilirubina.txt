@@ -1,0 +1,6 @@
+La bilirubina è un pigmento biliare di colore giallo-arancio, derivato principalmente dalla degradazione dell'eme, la molecola contenuta nell'emoglobina dei vecchi globuli rossi. Viene processata dal fegato ed escreta nella bile.
+
+Storicamente considerata solo un prodotto di scarto tossico ad alte concentrazioni, recenti evidenze indicano che la bilirubina, in concentrazioni fisiologiche o lievemente elevate, agisce come un potente antiossidante endogeno. Studi epidemiologici hanno dimostrato che livelli di bilirubina serica ai limiti superiori della norma sono associati a un minor rischio di sviluppare malattie cardiovascolari, grazie alla sua capacità di proteggere i lipidi plasmatici e l'endotelio dallo stress ossidativo.
+
+Riferimenti:
+Schwertner, H. A., Jackson, W. G., & Tolan, G. Association of low serum concentration of bilirubin with increased risk of coronary artery disease. Clinical Chemistry, 1994. DOI: 10.1093/clinchem/40.1.18

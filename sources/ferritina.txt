@@ -1,0 +1,6 @@
+La ferritina è una proteina globulare intracellulare responsabile dello stoccaggio del ferro in una forma non tossica e biologicamente disponibile. I livelli di ferritina sierica sono il marcatore più affidabile per valutare le riserve di ferro dell'organismo.
+
+Oltre al suo ruolo nel metabolismo marziale, la ferritina è una proteina della fase acuta e i suoi livelli aumentano in presenza di infiammazione cronica. Livelli molto elevati di ferritina sierica possono promuovere lo stress ossidativo a livello endoteliale, contribuendo al processo di aterosclerosi e aumentando il rischio di eventi cardiovascolari avversi.
+
+Riferimenti:
+Salonen, J. T. et al. High Stored Iron Levels Are Associated with Excess Risk of Myocardial Infarction in Eastern Finnish Men. Circulation, 1992. DOI: 10.1161/01.CIR.86.3.803

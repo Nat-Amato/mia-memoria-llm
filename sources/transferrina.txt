@@ -1,0 +1,6 @@
+La transferrina è una glicoproteina prodotta principalmente dal fegato, la cui funzione principale è legare e trasportare il ferro nel plasma sanguigno, veicolandolo in modo sicuro verso i tessuti che ne necessitano, come il midollo osseo per la sintesi dell'emoglobina.
+
+Mantenere il ferro strettamente legato alla transferrina è vitale per prevenire la formazione di radicali liberi dannosi. Se la saturazione della transferrina supera i limiti fisiologici, il ferro "libero" (non legato alla transferrina) in circolo può causare grave tossicità cardiovascolare, inducendo danno ossidativo diretto ai miociti cardiaci e promuovendo aritmie e insufficienza cardiaca.
+
+Riferimenti:
+Gomme, P. T., & McCann, K. B. Transferrin: structure, function and potential therapeutic actions. Drug Discovery Today, 2005. DOI: 10.1016/S1359-6446(05)03392-4
