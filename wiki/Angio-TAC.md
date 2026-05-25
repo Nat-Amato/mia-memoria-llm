@@ -1,0 +1,7 @@
+# Angio-TAC
+
+L'Angio-TAC, o angiografia tomografica computerizzata, è un esame diagnostico che unisce la tecnologia della TAC all'iniezione di un mezzo di contrasto per visualizzare dettagliatamente i vasi sanguigni.
+In ambito cardiovascolare, è largamente utilizzata per diagnosticare patologie delle [[Arterie coronarie]], come stenosi e [[Placche aterosclerotiche]], in modo rapido e meno invasivo rispetto alla [[Coronarografia]] tradizionale.
+
+Riferimenti:
+Raff, G.L., et al. (2009). SCCT guidelines for the interpretation and reporting of coronary computed tomographic angiography. Journal of Cardiovascular Computed Tomography, 3(2), 122-136.
