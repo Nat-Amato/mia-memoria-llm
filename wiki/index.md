@@ -10,6 +10,7 @@
 - [[Acido oleico]]: L'acido oleico è un acido grasso monoinsaturo appartenente alla famiglia degli omega-9, ed è il componente principale dell'olio d'oliva.
 - [[Acido pantotenico]]: L'[[Acido pantotenico]], noto anche come vitamina B5, è una vitamina idrosolubile ampiamente distribuita negli alimenti di origine animale e vegetale.
 - [[Acido urico]]: L'acido urico è il prodotto finale del metabolismo delle purine negli esseri umani, escreto principalmente attraverso i reni.
+- [[Adrenalina]]: L'adrenalina è un ormone e neurotrasmettitore vitale nella risposta da stress, con potenti effetti cardiostimolanti e vasopressori.
 - [[Aggregazione piastrinica]]: L'[[Aggregazione piastrinica]] è il processo biologico mediante il quale le piastrine si legano tra loro per formare un coagulo in risposta a un danno vascolare.
 - [[Aglio]]: L'aglio (Allium sativum) è una pianta bulbosa utilizzata fin dall'antichità sia come condimento che per i suoi presunti benefici per la salute.
 - [[Aglio nero]]: L'aglio nero è ottenuto dall'aglio fresco attraverso un processo prolungato di invecchiamento a temperatura e umidità controllate (spesso definito impropriamente fermentazione).

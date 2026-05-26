@@ -1005,3 +1005,7 @@
 ## [2026-05-25] Ingestione: angiotac.txt
 - Creata la pagina [[Angio-TAC]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-26] Ingestione: adrenalina.txt
+- Creata la pagina [[Adrenalina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
