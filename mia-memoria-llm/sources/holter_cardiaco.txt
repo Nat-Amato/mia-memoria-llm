@@ -1,0 +1,5 @@
+L'Holter cardiaco (o elettrocardiogramma dinamico di Holter) è una procedura di monitoraggio ambulatoriale continuo dell'attività elettrica del cuore, tipicamente eseguita per un periodo di 24-48 ore tramite un dispositivo portatile di registrazione collegato al torace del paziente con degli elettrodi.
+A differenza di un ECG standard che cattura l'attività cardiaca solo per pochi secondi, l'Holter è essenziale per diagnosticare aritmie transitorie, come la fibrillazione atriale parossistica o battiti ectopici, che potrebbero non verificarsi durante la visita medica. Viene inoltre utilizzato per correlare alterazioni elettrocardiografiche con i sintomi riportati dal paziente (come palpitazioni o sincopi) e per valutare l'efficacia dei farmaci antiaritmici.
+
+Riferimenti:
+Crawford, M. H., et al. ACC/AHA guidelines for ambulatory electrocardiography. Journal of the American College of Cardiology, 1999. DOI: 10.1016/S0735-1097(99)00354-X

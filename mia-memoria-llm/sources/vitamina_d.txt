@@ -1,0 +1,5 @@
+La vitamina D è un pro-ormone liposolubile fondamentale per il metabolismo osseo e per l'omeostasi del calcio e del fosforo. A differenza di altre vitamine, la sua fonte principale è la sintesi endogena a livello cutaneo mediata dall'esposizione ai raggi ultravioletti (UVB), sebbene possa essere assunta anche attraverso fonti alimentari come i pesci grassi e i latticini fortificati.
+Oltre al suo noto ruolo nella salute scheletrica, crescenti evidenze suggeriscono un coinvolgimento della vitamina D nella modulazione della risposta immunitaria, nella regolazione della pressione arteriosa e nella funzione endoteliale. Una carenza di questa vitamina è stata associata a un maggior rischio di sviluppare malattie cardiovascolari, ipertensione e disfunzioni metaboliche.
+
+Riferimenti:
+Holick, M. F. Vitamin D deficiency. The New England Journal of Medicine, 2007. DOI: 10.1056/NEJMra070553

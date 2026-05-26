@@ -1,0 +1,5 @@
+Il tè verde è una bevanda derivata dalle foglie non fermentate della pianta Camellia sinensis, caratterizzata da un elevato contenuto di composti bioattivi, in particolare le catechine (una classe di flavonoidi). Il polifenolo più abbondante e biologicamente attivo nel tè verde è l'epigallocatechina gallato (EGCG).
+Le catechine del tè verde esercitano potenti effetti antiossidanti e antinfiammatori. Il consumo abituale di tè verde è stato associato a benefici a livello cardiometabolico, includendo il miglioramento della funzione endoteliale, la riduzione dei livelli sierici di colesterolo totale e LDL e un potenziale effetto antipertensivo. Inoltre, l'EGCG sembra modulare positivamente il metabolismo lipidico e la sensibilità all'insulina.
+
+Riferimenti:
+Kuriyama, S., et al. Green tea consumption and mortality due to cardiovascular disease, cancer, and all causes in Japan: the Ohsaki study. JAMA, 2006. DOI: 10.1001/jama.296.10.1255

@@ -1,0 +1,5 @@
+L'omocisteina è un amminoacido solforato non proteinogenico prodotto nel corpo umano come intermedio del metabolismo della metionina. La sua regolazione richiede l'intervento di cofattori vitaminici essenziali, in particolare l'acido folico (vitamina B9), la vitamina B6 e la vitamina B12.
+Condizioni di iperomocisteinemia (livelli elevati di omocisteina nel sangue) possono derivare da carenze nutrizionali di tali vitamine o da difetti genetici negli enzimi del ciclo dei folati. Livelli sierici alterati di questo amminoacido sono stati epidemiologicamente associati a un danno dell'endotelio vascolare, a un aumento dello stress ossidativo e a un rischio maggiore di malattie aterotrombotiche coronariche, cerebrali e periferiche.
+
+Riferimenti:
+Wald, D. S., et al. Homocysteine and cardiovascular disease: evidence on causality from a meta-analysis. BMJ, 2002. DOI: 10.1136/bmj.325.7374.1202

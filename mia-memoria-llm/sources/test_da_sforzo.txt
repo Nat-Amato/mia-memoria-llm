@@ -1,0 +1,5 @@
+Il test da sforzo, o elettrocardiogramma (ECG) da sforzo, è un'indagine diagnostica cardiovascolare non invasiva che valuta la risposta del cuore a un aumento progressivo del lavoro muscolare (di solito indotto pedalando su un cicloergometro o camminando su un tapis roulant).
+L'obiettivo è incrementare la domanda miocardica di ossigeno e smascherare eventuali deficit di perfusione non evidenti a riposo. Monitorando in tempo reale l'attività elettrica del cuore, la pressione arteriosa e i sintomi clinici, il test permette di diagnosticare l'ischemia miocardica indotta da esercizio, valutare l'efficacia di terapie antiischemiche e determinare la prognosi nei pazienti con nota o sospetta cardiopatia ischemica.
+
+Riferimenti:
+Fletcher, G. F., et al. Exercise standards for testing and training: a scientific statement from the American Heart Association. Circulation, 2013. DOI: 10.1161/CIR.0b013e31829b5b44

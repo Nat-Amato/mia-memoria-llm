@@ -1,0 +1,5 @@
+Gli acidi grassi trans (TFA) sono una specifica forma di acidi grassi insaturi che contengono almeno un doppio legame in configurazione trans. Possono essere di origine naturale (prodotti dai batteri nello stomaco dei ruminanti, presenti in tracce in latte e carni) o, in misura molto maggiore, di origine industriale, generati durante il processo di idrogenazione parziale degli oli vegetali liquidi per renderli solidi.
+È ampiamente dimostrato che il consumo di acidi grassi trans artificiali esercita effetti gravemente avversi sulla salute cardiometabolica: essi non solo aumentano i livelli di colesterolo LDL (come i grassi saturi), ma causano parallelamente una riduzione del colesterolo HDL, favorendo in modo marcato l'infiammazione sistemica, la disfunzione endoteliale e l'aterosclerosi.
+
+Riferimenti:
+Mozaffarian, D., et al. Trans fatty acids and cardiovascular disease. The New England Journal of Medicine, 2006. DOI: 10.1056/NEJMra054035
