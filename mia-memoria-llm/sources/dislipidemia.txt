@@ -1,0 +1,5 @@
+La dislipidemia indica un'alterazione della quantità di lipidi circolanti nel sangue. Si manifesta tipicamente come ipercolesterolemia (livelli elevati di colesterolo totale o colesterolo LDL), ipertrigliceridemia (livelli aumentati di trigliceridi), o bassi livelli di colesterolo HDL.
+Le cause possono essere genetiche (dislipidemie primarie) o acquisite, legate a stili di vita errati, dieta ricca di acidi grassi saturi, obesità e sedentarietà (dislipidemie secondarie). È considerata uno dei principali fattori di rischio modificabili per la comparsa e la progressione dell'aterosclerosi e, di conseguenza, per l'insorgenza di malattie cardiovascolari acute come l'infarto miocardico.
+
+Riferimenti:
+Nelson, R. H. Hyperlipidemia as a Risk Factor for Cardiovascular Disease. Primary Care, 2013. DOI: 10.1016/j.pop.2012.11.003

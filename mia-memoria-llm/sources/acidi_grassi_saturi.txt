@@ -1,0 +1,5 @@
+Gli acidi grassi saturi sono molecole lipidiche la cui catena idrocarburica non presenta doppi legami tra gli atomi di carbonio, conferendo loro una struttura lineare e una consistenza generalmente solida a temperatura ambiente. Si trovano abbondantemente nei prodotti di origine animale (come carne, burro, formaggi) e in alcuni oli vegetali tropicali (come olio di palma e di cocco).
+Dal punto di vista della nutrizione cardiovascolare, un elevato apporto dietetico di acidi grassi saturi è storicamente associato a un aumento del colesterolo LDL sierico. Le attuali linee guida nutrizionali raccomandano di limitarne l'assunzione sostituendoli con acidi grassi insaturi (mono- o polinsaturi) per ridurre il rischio di malattie aterosclerotiche e migliorare il profilo lipidico.
+
+Riferimenti:
+Siri-Tarino, P. W., et al. Meta-analysis of prospective cohort studies evaluating the association of saturated fat with cardiovascular disease. The American Journal of Clinical Nutrition, 2010. DOI: 10.3945/ajcn.2009.27725

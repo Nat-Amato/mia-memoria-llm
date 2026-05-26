@@ -1,0 +1,5 @@
+La Proteina C-Reattiva (PCR o CRP) è una proteina di fase acuta prodotta principalmente dal fegato in risposta a stimoli infiammatori, mediata da citochine come l'interleuchina-6. La sua concentrazione sierica aumenta rapidamente e in modo aspecifico durante infezioni e infiammazioni sistemiche.
+In ambito cardiologico, la PCR ad alta sensibilità (hs-CRP) è utilizzata come biomarcatore per valutare l'infiammazione cronica di basso grado. Livelli cronicamente elevati di hs-CRP, anche in individui apparentemente sani, sono considerati un predittore indipendente di rischio per futuri eventi cardiovascolari, fornendo indicazioni sull'attività infiammatoria all'interno delle placche aterosclerotiche.
+
+Riferimenti:
+Ridker, P. M. Clinical application of C-reactive protein for cardiovascular disease detection and prevention. Circulation, 2003. DOI: 10.1161/01.CIR.0000053730.47739.3C

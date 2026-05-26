@@ -1,0 +1,5 @@
+La vitamina E comprende un gruppo di otto composti liposolubili (quattro tocoferoli e quattro tocotrienoli) con marcate proprietà antiossidanti. L'alfa-tocoferolo è la forma chimica maggiormente presente nei tessuti umani. Le principali fonti alimentari includono oli vegetali, frutta secca, semi e verdure a foglia verde.
+La funzione fisiologica primaria della vitamina E è la protezione delle membrane cellulari dal danno indotto dallo stress ossidativo, prevenendo la perossidazione lipidica. A livello cardiovascolare, la vitamina E contribuisce a inibire l'ossidazione del colesterolo LDL, un passaggio chiave nella patogenesi dell'aterosclerosi, e modula l'infiammazione cellulare, benché i risultati dell'integrazione farmacologica nella prevenzione secondaria rimangano oggetto di dibattito.
+
+Riferimenti:
+Traber, M. G., & Stevens, J. F. Vitamins C and E: beneficial effects from a mechanistic perspective. Free Radical Biology and Medicine, 2011. DOI: 10.1016/j.freeradbiomed.2011.05.017

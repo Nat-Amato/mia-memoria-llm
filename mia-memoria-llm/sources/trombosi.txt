@@ -1,0 +1,5 @@
+La trombosi è il processo patologico caratterizzato dalla formazione di un coagulo sanguigno (trombo) all'interno di un vaso sanguigno non interrotto, causando l'ostruzione parziale o totale del flusso ematico.
+La patogenesi della trombosi è descritta dalla "Triade di Virchow", che comprende: lesione dell'endotelio vascolare, alterazioni del flusso sanguigno (stasi o turbolenza) e ipercoagulabilità del sangue. A livello arterioso, si verifica spesso in corrispondenza della rottura di una placca aterosclerotica e può precipitare un evento ischemico acuto; a livello venoso, è frequente la trombosi venosa profonda, con il rischio di embolia polmonare se il coagulo si frammenta.
+
+Riferimenti:
+Furie, B., & Furie, B. C. Mechanisms of thrombus formation. The New England Journal of Medicine, 2008. DOI: 10.1056/NEJMra0801082

@@ -1,0 +1,5 @@
+Il resveratrolo è un polifenolo naturale appartenente alla classe degli stilbeni, sintetizzato da diverse piante (in particolare nell'uva rossa e nelle arachidi) in risposta a stress ambientali o infezioni patogene.
+È noto per le sue potenziali proprietà cardioprotettive, spesso citate come parziale spiegazione del cosiddetto "paradosso francese". Il resveratrolo agisce inibendo l'ossidazione delle lipoproteine a bassa densità (LDL), promuovendo l'efflusso di colesterolo dai macrofagi vascolari e stimolando l'attività della sintasi endoteliale dell'ossido nitrico (eNOS), meccanismi che nel complesso contribuiscono a contrastare lo sviluppo delle lesioni aterosclerotiche.
+
+Riferimenti:
+Baur, J. A., & Sinclair, D. A. Therapeutic potential of resveratrol: the in vivo evidence. Nature Reviews Drug Discovery, 2006. DOI: 10.1038/nrd2060
