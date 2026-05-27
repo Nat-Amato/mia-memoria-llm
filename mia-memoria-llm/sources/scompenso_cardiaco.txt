@@ -1,0 +1,5 @@
+Lo scompenso cardiaco, o insufficienza cardiaca, è una sindrome clinica complessa causata da alterazioni strutturali o funzionali del cuore che compromettono la sua capacità di riempirsi o di pompare sangue in quantità adeguata a soddisfare le esigenze metaboliche dell'organismo.
+Le cause più comuni includono la cardiopatia ischemica, l'ipertensione arteriosa cronica non controllata, le valvulopatie e le miocardiopatie. I sintomi tipici comprendono dispnea (mancanza di respiro), astenia (affaticamento anomalo) e ritenzione di liquidi, che si manifesta con edemi declivi (spesso a livello di caviglie e gambe) o congestione polmonare. La gestione della patologia richiede spesso un approccio combinato di modifiche dello stile di vita (riduzione dell'apporto di sodio) e terapia farmacologica.
+
+Riferimenti:
+Ponikowski, P., et al. 2016 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. European Heart Journal, 2016. DOI: 10.1093/eurheartj/ehw128

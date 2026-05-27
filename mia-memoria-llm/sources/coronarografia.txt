@@ -1,0 +1,5 @@
+La coronarografia è un esame radiologico invasivo utilizzato per visualizzare le arterie coronarie, i vasi sanguigni che forniscono ossigeno e nutrienti al muscolo cardiaco. È considerata il gold standard per la diagnosi della cardiopatia ischemica.
+La procedura viene eseguita inserendo un sottile catetere attraverso un'arteria periferica (solitamente radiale o femorale) fino all'origine delle coronarie nell'aorta. Successivamente, viene iniettato un mezzo di contrasto radiopaco che, tramite l'utilizzo di raggi X (fluoroscopia), permette di evidenziare l'albero coronarico e individuare eventuali restringimenti (stenosi) o occlusioni causate da placche aterosclerotiche. In caso di necessità, la coronarografia può essere immediatamente seguita da un intervento terapeutico di angioplastica coronarica (PCI) per ripristinare il flusso sanguigno.
+
+Riferimenti:
+Patel, M. R., et al. ACCF/AHA/SCAI/AMA-PCPI/ASNC/SCCT/SCMR/SIR 2012 appropriate use criteria for diagnostic catheterization. Journal of the American College of Cardiology, 2012. DOI: 10.1016/j.jacc.2012.03.003

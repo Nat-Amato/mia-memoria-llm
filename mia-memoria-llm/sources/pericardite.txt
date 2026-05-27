@@ -1,0 +1,5 @@
+La pericardite è una patologia infiammatoria a carico del pericardio, il sacco a doppia parete fibro-sierosa che avvolge e protegge il cuore.
+L'infiammazione del pericardio può essere di origine idiopatica, virale, batterica o conseguente a traumi, interventi cardiochirurgici, disturbi autoimmuni o infarto miocardico acuto. Il sintomo caratteristico è un dolore toracico acuto, trafiggente, che spesso peggiora con gli atti del respiro o in posizione supina, e migliora flettendo il busto in avanti. Tra le complicanze più rilevanti figura il versamento pericardico, ovvero l'accumulo patologico di liquido nello spazio pericardico, che in casi severi può ostacolare il normale riempimento cardiaco sfociando in tamponamento cardiaco, un'emergenza medica. La terapia farmacologica si basa primariamente sull'impiego di farmaci antinfiammatori non steroidei (FANS) e colchicina.
+
+Riferimenti:
+Adler, Y., et al. 2015 ESC Guidelines for the diagnosis and management of pericardial diseases: The Task Force for the Diagnosis and Management of Pericardial Diseases of the European Society of Cardiology (ESC). European Heart Journal, 2015. DOI: 10.1093/eurheartj/ehv318
