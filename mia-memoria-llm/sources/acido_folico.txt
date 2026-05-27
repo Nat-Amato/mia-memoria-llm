@@ -1,0 +1,5 @@
+L'acido folico, noto anche come vitamina B9, è una vitamina idrosolubile fondamentale per la sintesi del DNA, dell'RNA e per il corretto rinnovamento cellulare.
+A livello metabolico cardiovascolare, l'acido folico gioca un ruolo cruciale, insieme alle vitamine B6 e B12, nel metabolismo dell'omocisteina. Un deficit di queste vitamine può portare ad iperomocisteinemia, una condizione biochimica riconosciuta come fattore di rischio indipendente per la disfunzione endoteliale, l'aterosclerosi e la trombosi venosa e arteriosa. L'integrazione o l'adeguato apporto nutrizionale di acido folico, attraverso il consumo di verdure a foglia verde scuro, legumi e cereali integrali, permette la rimetilazione dell'omocisteina in metionina, riducendo conseguentemente il rischio cardiovascolare.
+
+Riferimenti:
+Wald, D. S., et al. Homocysteine and cardiovascular disease: evidence on causality from a meta-analysis. BMJ, 2002. DOI: 10.1136/bmj.325.7374.1202
