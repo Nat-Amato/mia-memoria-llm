@@ -2,6 +2,7 @@
 
 ## Alimentazione e Nutrizione
 - [[Acciughe]]: Le acciughe sono piccoli pesci azzurri marini molto diffusi e consumati freschi o conservati (sotto sale o sott'olio).
+- [[Acetilcolina]]: L'acetilcolina è un neurotrasmettitore essenziale, attivo sia nel sistema nervoso centrale che in quello periferico.
 - [[ACE inibitori]]: Gli ACE-inibitori bloccano l'enzima di conversione dell'angiotensina, impedendo la formazione di angiotensina II, un potente vasocostrittore.
 - [[Acidi grassi a catena corta]]: Gli acidi grassi a catena corta (SCFA), come l'acetato, il propionato e il butirrato, sono prodotti principalmente dalla fermentazione delle fibre alimentari non digeribili da parte dei batteri intestinali nel colon.
 - [[Acido acetilsalicilico]]: L'[[Acido acetilsalicilico]], comunemente noto come aspirina, è un FANS che possiede marcate proprietà antiaggreganti piastriniche a basse dosi.
@@ -67,7 +68,7 @@
 - [[Colesterolo]]: Lipide essenziale per l'organismo, i cui livelli elevati aumentano il rischio di malattie cardiache.
 - [[Colesterolo HDL]]: Il [[Colesterolo HDL]] (High-Density Lipoprotein) è comunemente noto come "[[Colesterolo]] buono" per la sua funzione di trasporto inverso.
 - [[Colesterolo LDL]]: Il [[Colesterolo LDL]] (Low-Density Lipoprotein) trasporta il [[Colesterolo]] dal fegato ai tessuti periferici ed è spesso definito "[[Colesterolo]] cattivo".
-- [[Colina]]: La colina è un nutriente essenziale, idrosolubile, spesso raggruppato con le vitamine del gruppo B, fondamentale per la sintesi dei fosfolipidi delle membrane cellulari e del neurotrasmettitore acetilcolina.
+- [[Colina]]: La colina è un nutriente essenziale, idrosolubile, spesso raggruppato con le vitamine del gruppo B, fondamentale per la sintesi dei fosfolipidi delle membrane cellulari e del neurotrasmettitore [[Acetilcolina]].
 - [[Creatinchinasi]]: La [[Creatinchinasi]] (CK) è un enzima presente in elevate concentrazioni nel muscolo scheletrico, nel muscolo cardiaco e nel cervello, che catalizza la conversione della creatina in fosfocreatina, reazione essenziale per la gestione dell'energia cellulare.
 - [[Cromo]]: Il [[Cromo]], specificamente nella sua forma trivalente (Cr3+), è un oligoelemento considerato essenziale per il metabolismo umano in tracce.
 - [[Curcuma]]: La curcuma (Curcuma longa) è una spezia dal caratteristico colore giallo brillante, ampiamente utilizzata nella cucina asiatica e nella medicina tradizionale.
