@@ -1009,3 +1009,7 @@
 ## [2026-05-26] Ingestione: adrenalina.txt
 - Creata la pagina [[Adrenalina]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-27] Ingestione: acetilcolina.txt
+- Creata la pagina [[Acetilcolina]].
+- Aggiornato l'elenco in `/wiki/index.md`.

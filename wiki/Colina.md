@@ -1,6 +1,6 @@
 # Colina
 
-La colina è un nutriente essenziale, idrosolubile, spesso raggruppato con le vitamine del gruppo B, fondamentale per la sintesi dei fosfolipidi delle membrane cellulari e del neurotrasmettitore acetilcolina.
+La colina è un nutriente essenziale, idrosolubile, spesso raggruppato con le vitamine del gruppo B, fondamentale per la sintesi dei fosfolipidi delle membrane cellulari e del neurotrasmettitore [[Acetilcolina]].
 È presente in abbondanza in alimenti come [[Uova]], fegato e carni. Sebbene sia cruciale per lo sviluppo cerebrale e la funzionalità epatica (prevenendo la steatosi), un eccesso derivante da fonti animali può essere convertito in TMA dalla flora batterica intestinale, un precursore del TMAO.
 
 Riferimenti:
