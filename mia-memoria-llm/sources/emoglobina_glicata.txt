@@ -1,0 +1,5 @@
+L'emoglobina glicata (HbA1c) è una forma di emoglobina che si genera quando il glucosio circolante nel sangue si lega in modo non enzimatico ai residui amminoacidici delle sue catene proteiche. La percentuale di HbA1c riflette in modo accurato la concentrazione media di glucosio ematico nei 2-3 mesi precedenti al prelievo.
+La misurazione di questo parametro rappresenta il cardine diagnostico e di monitoraggio terapeutico nel diabete mellito. Mantenere livelli ottimali di emoglobina glicata (generalmente inferiori al 7%) è strettamente associato a una netta riduzione del rischio di complicanze microvascolari e macrovascolari associate all'iperglicemia cronica.
+
+Riferimenti:
+American Diabetes Association. 6. Glycemic Targets: Standards of Medical Care in Diabetes-2021. Diabetes Care, 2021. DOI: 10.2337/dc21-S006

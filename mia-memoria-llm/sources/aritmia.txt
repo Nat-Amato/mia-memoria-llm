@@ -1,0 +1,5 @@
+Un'aritmia cardiaca è una qualsiasi alterazione della normale sequenza di attivazione elettrica del cuore, che può manifestarsi con un ritmo irregolare, troppo veloce o troppo lento. Questo gruppo di patologie include condizioni eterogenee come la fibrillazione atriale, i blocchi atrioventricolari e le extrasistoli.
+Le aritmie originano spesso da anomalie strutturali del miocardio, squilibri elettrolitici, ischemia o alterazioni genetiche dei canali ionici. La loro gravità clinica varia dall'assenza totale di sintomi fino a un rischio imminente di morte cardiaca improvvisa, richiedendo interventi che spaziano dai farmaci antiaritmici all'ablazione transcatetere o all'impianto di defibrillatori.
+
+Riferimenti:
+Al-Khatib, S. M., et al. 2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death. Circulation, 2018. DOI: 10.1161/CIR.0000000000000549

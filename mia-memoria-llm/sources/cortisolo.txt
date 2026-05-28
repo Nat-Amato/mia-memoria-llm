@@ -1,0 +1,5 @@
+Il cortisolo è il principale ormone glucocorticoide prodotto dalla corticale del surrene in risposta ai segnali dell'asse ipotalamo-ipofisi. Svolge un ruolo indispensabile nella regolazione del metabolismo glucidico, lipidico e proteico, oltre a modulare le reazioni infiammatorie e a preparare l'organismo alla risposta acuta allo stress.
+Se i livelli di cortisolo restano costantemente elevati a causa di stress cronico o disfunzioni endocrine (come nella sindrome di Cushing), si favorisce lo sviluppo di insulino-resistenza, obesità viscerale, ipertensione e alterazioni del profilo lipidico, configurando un quadro patologico che amplifica notevolmente la probabilità di eventi cardiovascolari avversi.
+
+Riferimenti:
+Whitworth, J. A., et al. Cardiovascular consequences of cortisol excess. Vascular Health and Risk Management, 2005. DOI: 10.2147/vhrm.1.4.291.75231

@@ -1,0 +1,5 @@
+Lo zinco è un oligoelemento essenziale presente in tutte le cellule umane, necessario per l'attività catalitica di oltre 300 enzimi metallo-dipendenti e per il corretto funzionamento del sistema immunitario. Fonti alimentari ricche di zinco includono carne, pesce, legumi e semi.
+A livello endoteliale, lo zinco agisce come un potente agente antiossidante e antinfiammatorio strutturale, proteggendo la membrana cellulare dal danno ossidativo. Una carenza prolungata di zinco è stata correlata ad alterazioni dell'omeostasi del glucosio e all'incremento dello stress ossidativo, entrambi fattori che favoriscono l'innesco di processi aterosclerotici.
+
+Riferimenti:
+Foster, M., & Samman, S. Zinc and Regulation of Inflammatory Tissue Damage. Nutrients, 2012. DOI: 10.3390/nu4070676

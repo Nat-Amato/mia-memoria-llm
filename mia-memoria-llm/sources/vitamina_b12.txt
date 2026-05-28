@@ -1,0 +1,5 @@
+La vitamina B12 (cobalamina) è una vitamina idrosolubile essenziale, coinvolta nel metabolismo degli amminoacidi, nella sintesi del DNA e nella corretta funzionalità del sistema nervoso. Nel contesto cardiovascolare, la vitamina B12 svolge un ruolo primario come cofattore per l'enzima metionina sintasi.
+La sua carenza può comportare un accumulo sistemico di omocisteina nel sangue (iperomocisteinemia), che costituisce un fattore di rischio indipendente per lo sviluppo precoce di aterosclerosi e patologie tromboemboliche. Dato che si trova quasi esclusivamente in alimenti di origine animale, la sua integrazione è fondamentale in diete strettamente vegane o in pazienti con deficit di assorbimento gastrico.
+
+Riferimenti:
+O'Leary, F., & Samman, S. Vitamin B12 in health and disease. Nutrients, 2010. DOI: 10.3390/nu2030299

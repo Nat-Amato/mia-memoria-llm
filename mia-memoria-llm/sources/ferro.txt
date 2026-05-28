@@ -1,0 +1,5 @@
+Il ferro è un elemento inorganico indispensabile per i processi biologici di trasporto dell'ossigeno, essendo un costituente strutturale primario dell'emoglobina e della mioglobina, e operando come cofattore in numerosi complessi enzimatici del metabolismo ossidativo.
+La carenza di ferro, anche in assenza di anemia conclamata, può determinare una marcata compromissione della tolleranza allo sforzo e una riduzione della qualità di vita, costituendo una comorbidità frequente ed aggravante nei pazienti con scompenso cardiaco cronico, per i quali l'integrazione venosa di ferro migliora significativamente gli esiti clinici.
+
+Riferimenti:
+Anker, S. D., et al. Ferric Carboxymaltose in Patients with Heart Failure and Iron Deficiency. The New England Journal of Medicine, 2009. DOI: 10.1056/NEJMoa0908355

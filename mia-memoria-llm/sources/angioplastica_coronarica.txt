@@ -1,0 +1,5 @@
+L'angioplastica coronarica percutanea (PTCA) è una procedura minimamente invasiva impiegata per ripristinare il flusso sanguigno nelle arterie coronarie occluse o ristrette dall'aterosclerosi. La tecnica prevede l'inserimento di un catetere a palloncino attraverso i vasi periferici fino al sito della stenosi, seguito dal gonfiaggio del palloncino per dilatare il vaso.
+Nella pratica clinica moderna, la procedura è quasi sempre accompagnata dall'impianto di uno stent coronarico, una piccola struttura metallica a maglie che previene il ritorno elastico del vaso vasale e riduce drasticamente il rischio di restenosi a lungo termine, migliorando in modo significativo la sopravvivenza dei pazienti con infarto miocardico acuto.
+
+Riferimenti:
+Neumann, F. J., et al. 2018 ESC/EACTS Guidelines on myocardial revascularization. European Heart Journal, 2019. DOI: 10.1093/eurheartj/ehy394

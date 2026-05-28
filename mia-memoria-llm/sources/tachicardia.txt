@@ -1,0 +1,5 @@
+La tachicardia è un disturbo del ritmo cardiaco definito da una frequenza cardiaca a riposo superiore a 100 battiti al minuto. Può originare negli atri (tachicardia sopraventricolare) o nei ventricoli (tachicardia ventricolare) e manifestarsi in forma parossistica o persistente.
+Tra le cause più comuni figurano lo stress fisico o emotivo, l'ipertiroidismo, l'uso di sostanze stimolanti (come la caffeina) e patologie cardiache ischemiche o strutturali. Se non controllata, la tachicardia persistente può compromettere il riempimento diastolico ventricolare, riducendo la gittata cardiaca e aumentando il rischio di insufficienza cardiaca indotta da tachicardia o eventi aritmici fatali.
+
+Riferimenti:
+Page, R. L., et al. 2015 ACC/AHA/HRS Guideline for the Management of Adult Patients With Supraventricular Tachycardia. Circulation, 2016. DOI: 10.1161/CIR.0000000000000311

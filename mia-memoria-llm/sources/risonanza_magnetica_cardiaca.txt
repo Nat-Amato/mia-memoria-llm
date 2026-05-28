@@ -1,0 +1,5 @@
+La risonanza magnetica cardiaca (RMC) è una metodica di imaging non invasiva avanzata che impiega forti campi magnetici e onde radio per produrre immagini tridimensionali ad alta risoluzione del cuore. Permette un'accurata valutazione morfologica, funzionale e tissutale del miocardio senza l'utilizzo di radiazioni ionizzanti.
+È considerata il gold standard per la quantificazione dei volumi ventricolari e della frazione di eiezione. Inoltre, grazie alla tecnica del late gadolinium enhancement (LGE), la RMC è fondamentale per individuare e caratterizzare aree di fibrosi miocardica, infarto del miocardio pregresso o patologie infiltrative come la miocardite.
+
+Riferimenti:
+Hundley, W. G., et al. ACCF/ACR/AHA/NASCI/SCMR 2010 Expert Consensus Document on Cardiovascular Magnetic Resonance. Journal of the American College of Cardiology, 2010. DOI: 10.1016/j.jacc.2009.11.011

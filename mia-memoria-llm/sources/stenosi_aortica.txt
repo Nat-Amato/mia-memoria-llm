@@ -1,0 +1,5 @@
+La stenosi aortica è una valvulopatia caratterizzata dal restringimento dell'orifizio della valvola aortica, che ostacola il flusso di sangue dal ventricolo sinistro all'aorta durante la sistole. È una delle patologie valvolari più diffuse, frequentemente legata al processo di calcificazione degenerativa legato all'invecchiamento o a malformazioni congenite come la valvola aortica bicuspide.
+Il progressivo aumento del gradiente pressorio transvalvolare induce un sovraccarico cronico del ventricolo sinistro, causando ipertrofia concentrica e successiva insufficienza cardiaca. Nelle fasi avanzate e sintomatiche, l'intervento risolutivo consiste nella sostituzione valvolare chirurgica o tramite impianto transcatetere (TAVI).
+
+Riferimenti:
+Otto, C. M., et al. 2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease. Circulation, 2021. DOI: 10.1161/CIR.0000000000000923
