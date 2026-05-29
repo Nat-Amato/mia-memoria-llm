@@ -15,6 +15,7 @@
 - [[Aggregazione piastrinica]]: L'[[Aggregazione piastrinica]] è il processo biologico mediante il quale le piastrine si legano tra loro per formare un coagulo in risposta a un danno vascolare.
 - [[Aglio]]: L'aglio (Allium sativum) è una pianta bulbosa utilizzata fin dall'antichità sia come condimento che per i suoi presunti benefici per la salute.
 - [[Aglio nero]]: L'aglio nero è ottenuto dall'aglio fresco attraverso un processo prolungato di invecchiamento a temperatura e umidità controllate (spesso definito impropriamente fermentazione).
+- [[Albumina]]: L'albumina è la proteina plasmatica più abbondante nel corpo umano, sintetizzata dal fegato.
 - [[Aldosterone]]: L'aldosterone è un ormone steroideo della classe dei mineralcorticoidi, prodotto e secreto dalla corteccia delle ghiandole surrenali.
 - [[Allicina]]: L'allicina (diallil tiosulfinato) è il principale composto organosulfurico bioattivo presente nell'aglio crudo frantumato.
 - [[Amiodarone]]: L'amiodarone è uno dei farmaci antiaritmici più potenti, utilizzato per trattare una vasta gamma di forme di aritmia atriali e ventricolari severe.
