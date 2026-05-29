@@ -1,0 +1,5 @@
+La bradicardia è un'alterazione del ritmo cardiaco caratterizzata da una frequenza cardiaca inferiore a 60 battiti al minuto a riposo. Può essere una condizione fisiologica, come si osserva frequentemente negli atleti molto allenati o durante il sonno profondo, oppure patologica, derivante da disfunzioni del nodo seno-atriale, blocchi atrioventricolari o squilibri elettrolitici.
+Quando patologica, la bradicardia può ridurre in modo critico la gittata cardiaca e la perfusione cerebrale, portando a sintomi quali astenia, vertigini, presincope o sincope. Nei casi sintomatici e severi, il trattamento di elezione prevede l'impianto di un pacemaker permanente per ripristinare un'adeguata frequenza cardiaca e prevenire complicanze emodinamiche.
+
+Riferimenti:
+Kusumoto, F. M., et al. 2018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients With Bradycardia and Cardiac Conduction Delay. Circulation, 2019. DOI: 10.1161/CIR.0000000000000628

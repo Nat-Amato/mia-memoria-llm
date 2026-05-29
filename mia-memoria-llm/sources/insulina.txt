@@ -1,0 +1,5 @@
+L'insulina è un ormone peptidico anabolico secreto dalle cellule beta delle isole di Langerhans del pancreas in risposta all'aumento della glicemia post-prandiale. La sua funzione primaria consiste nel facilitare l'ingresso del glucosio nel tessuto muscolare scheletrico e adiposo, inibendo contestualmente la produzione epatica di glucosio.
+Quando i tessuti periferici perdono sensibilità all'azione di questo ormone, l'organismo entra in uno stato di insulino-resistenza, compensato da una ipersecrezione pancreatica. L'iperinsulinemia cronica che ne consegue promuove l'accumulo di grasso ectopico, altera l'omeostasi endoteliale e costituisce il primo passo patogenetico verso lo sviluppo del diabete di tipo 2 e della sindrome metabolica.
+
+Riferimenti:
+Wilcox, G. Insulin and Insulin Resistance. The Clinical Biochemist Reviews, 2005. PMID: 16273149
