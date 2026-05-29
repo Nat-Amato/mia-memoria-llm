@@ -1013,3 +1013,7 @@
 ## [2026-05-27] Ingestione: acetilcolina.txt
 - Creata la pagina [[Acetilcolina]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-29] Ingestione: albumina.txt
+- Creata la pagina [[Albumina]].
+- Aggiornato l'elenco in `/wiki/index.md`.
