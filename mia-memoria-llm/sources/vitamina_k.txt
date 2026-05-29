@@ -1,0 +1,6 @@
+La vitamina K è una vitamina liposolubile essenziale, presente in natura in due forme principali: il fillochinone (vitamina K1), di origine vegetale, e i menachinoni (vitamina K2), sintetizzati in parte dalla flora batterica intestinale e presenti in cibi fermentati e di origine animale.
+Il suo ruolo fisiologico primario è fungere da cofattore enzimatico per la carbossilazione di specifici residui di acido glutammico in varie proteine. Questo processo è indispensabile per l'attivazione dei fattori della coagulazione ematica (nel fegato) e per le proteine coinvolte nel metabolismo osseo.
+A livello vascolare, la vitamina K (in particolare la K2) è essenziale per attivare la proteina Matrix Gla (MGP), un potente inibitore della calcificazione vascolare, proteggendo così le arterie dall'irrigidimento e riducendo il rischio cardiovascolare.
+
+Riferimenti:
+Theuwissen, E., Smit, E., & Vermeer, C. The role of vitamin K in soft-tissue calcification. Advances in Nutrition, 2012. DOI: 10.3945/an.111.001628

@@ -1,0 +1,6 @@
+Il peperoncino (genere Capsicum) è una spezia ampiamente utilizzata nelle tradizioni culinarie globali per conferire sapore e piccantezza ai cibi, grazie alla presenza del suo principale composto attivo: la capsaicina.
+La capsaicina, responsabile della caratteristica sensazione di bruciore, esplica la sua azione legandosi ai recettori TRPV1 presenti sulle terminazioni nervose. A livello sistemico, questo composto ha dimostrato proprietà analgesiche, antinfiammatorie e termogeniche, utili per stimolare il metabolismo.
+In ambito cardiovascolare, studi epidemiologici su larga scala hanno osservato che il consumo regolare di peperoncino è associato a una riduzione del rischio di mortalità per malattie cardiovascolari ischemiche, ipotizzando un ruolo della capsaicina nel miglioramento del profilo lipidico sierico, nel controllo del peso corporeo e nella promozione di una corretta funzione endoteliale.
+
+Riferimenti:
+Bonaccio, M., et al. Chili pepper consumption and mortality in Italian adults. Journal of the American College of Cardiology, 2019. DOI: 10.1016/j.jacc.2019.09.068

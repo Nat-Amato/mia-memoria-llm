@@ -1,0 +1,6 @@
+La risonanza magnetica cardiaca (Cardio-RM) è una metodica di diagnostica per immagini non invasiva avanzata che utilizza potenti campi magnetici e onde radio per produrre immagini ad alta risoluzione del cuore e dei grossi vasi, senza l'impiego di radiazioni ionizzanti.
+Permette una valutazione multiparametrica dell'apparato cardiovascolare in un singolo esame, offrendo dati estremamente precisi sull'anatomia, la funzione (volumi ventricolari, frazione di eiezione), la cinetica regionale e il flusso ematico.
+La caratteristica peculiare della Cardio-RM è la sua ineguagliabile capacità di caratterizzare i tessuti miocardici: mediante l'utilizzo di mezzi di contrasto (come il gadolinio), è possibile identificare e quantificare con precisione aree di ischemia, fibrosi, necrosi (esiti di infarto miocardico) o processi infiammatori come la miocardite.
+
+Riferimenti:
+Hundley, W. G., et al. ACCF/ACR/AHA/NASCI/SCMR 2010 expert consensus document on cardiovascular magnetic resonance. Journal of the American College of Cardiology, 2010. DOI: 10.1016/j.jacc.2009.11.011

@@ -1,0 +1,6 @@
+L'acido urico è il prodotto finale del metabolismo delle purine negli esseri umani e in altri primati superiori. Viene normalmente escreto in gran parte attraverso l'emuntorio renale e, in misura minore, per via intestinale.
+Quando si verifica un eccesso di produzione o un difetto nell'escrezione renale, i livelli sierici di acido urico possono aumentare, determinando una condizione nota come iperuricemia. Livelli cronicamente elevati possono portare alla precipitazione di cristalli di urato monosodico nelle articolazioni, causando la gotta.
+Recenti evidenze cliniche ed epidemiologiche indicano che l'iperuricemia asintomatica rappresenta anche un fattore di rischio indipendente per lo sviluppo di ipertensione arteriosa, sindrome metabolica e altre malattie cardiovascolari, promuovendo la disfunzione dell'endotelio e lo stress ossidativo a livello vascolare.
+
+Riferimenti:
+Feig, D. I., Kang, D. H., & Johnson, R. J. Uric acid and cardiovascular risk. The New England Journal of Medicine, 2008. DOI: 10.1056/NEJMra0800885

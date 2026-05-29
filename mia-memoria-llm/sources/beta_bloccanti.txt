@@ -1,0 +1,6 @@
+I beta-bloccanti, o antagonisti dei recettori beta-adrenergici, sono una classe di farmaci utilizzati prevalentemente per la gestione di diverse condizioni cardiovascolari, tra cui ipertensione, angina pectoris, scompenso cardiaco e alcune forme di aritmie.
+Questi farmaci agiscono bloccando i recettori beta-adrenergici del sistema nervoso simpatico, impedendo così il legame delle catecolamine (come adrenalina e noradrenalina). Questo blocco determina una riduzione della frequenza cardiaca (effetto cronotropo negativo) e della forza di contrazione del cuore (effetto inotropo negativo), diminuendo conseguentemente il lavoro miocardico e il consumo di ossigeno.
+L'utilizzo dei beta-bloccanti è particolarmente indicato nel post-infarto, poiché si è dimostrato efficace nel ridurre la mortalità e prevenire futuri eventi avversi cardiovascolari.
+
+Riferimenti:
+Cruickshank, J. M. Beta-blockers in heart failure: the historical role and current perspectives. Current Cardiology Reviews, 2010. DOI: 10.2174/157340310793566145

@@ -1,0 +1,6 @@
+Le statine sono una classe di farmaci ipolipemizzanti ampiamente utilizzati per abbassare i livelli di colesterolo nel sangue, in particolare il colesterolo LDL.
+Il loro meccanismo d'azione si basa sull'inibizione competitiva dell'enzima HMG-CoA reduttasi, che svolge un ruolo chiave nella via metabolica della sintesi del colesterolo endogeno a livello epatico. Riducendo la sintesi intracellulare di colesterolo, le statine inducono un aumento dell'espressione dei recettori LDL sulla superficie degli epatociti, promuovendo così una maggiore rimozione delle lipoproteine a bassa densità dal circolo sanguigno.
+Oltre all'effetto ipocolesterolemizzante, le statine esercitano effetti pleiotropici benefici, tra cui il miglioramento della funzione endoteliale, la stabilizzazione delle placche aterosclerotiche e la riduzione dello stato infiammatorio sistemico, rendendole fondamentali nella prevenzione primaria e secondaria delle patologie cardiovascolari.
+
+Riferimenti:
+Chou, R., et al. Statins for Prevention of Cardiovascular Disease in Adults: Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA, 2016. DOI: 10.1001/jama.2015.15629

@@ -1,0 +1,6 @@
+Il pacemaker cardiaco è un dispositivo medico impiantabile progettato per monitorare il ritmo del cuore e, se necessario, stimolarlo elettricamente per garantire una frequenza cardiaca adeguata.
+È costituito da un generatore di impulsi, solitamente alloggiato sotto la pelle nella regione sottoclavicolare, e da uno o più elettrocateteri che vengono inseriti attraverso le vene e posizionati all'interno delle camere cardiache (atrio o ventricolo destro). Il sistema rileva l'attività elettrica spontanea del cuore e interviene solo in caso di anomalie.
+L'impianto di un pacemaker è il trattamento di elezione per i pazienti affetti da bradiaritmie sintomatiche, come la malattia del nodo del seno o il blocco atrioventricolare avanzato, migliorando significativamente l'emodinamica e la qualità di vita del paziente, e riducendo il rischio di sincope.
+
+Riferimenti:
+Epstein, A. E., et al. ACC/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities. Journal of the American College of Cardiology, 2008. DOI: 10.1016/j.jacc.2008.02.032
