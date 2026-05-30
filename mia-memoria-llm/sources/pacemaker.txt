@@ -1,0 +1,6 @@
+Il pacemaker, o stimolatore cardiaco artificiale, è un dispositivo medico impiantabile progettato per monitorare il ritmo cardiaco ed emettere impulsi elettrici al fine di stimolare le contrazioni del muscolo cardiaco quando il nodo seno-atriale (il pacemaker naturale del cuore) non funziona correttamente o vi è un blocco nella conduzione elettrica.
+L'impiego primario del pacemaker riguarda il trattamento di diverse forme di aritmia, in particolare la bradicardia sintomatica (battito cardiaco eccessivamente lento), che può causare affaticamento, vertigini o sincope a causa di un insufficiente afflusso di sangue agli organi vitali.
+I moderni dispositivi sono programmabili, spesso dotati di sensori in grado di adattare la frequenza cardiaca al livello di attività fisica del paziente, e possono includere funzioni di resincronizzazione cardiaca (CRT) nei casi di scompenso cardiaco avanzato.
+
+Riferimenti:
+Glikko, S., & Bradley, D. J. Pacemakers and Implantable Cardioverter-Defibrillators. Circulation, 2012. DOI: 10.1161/CIRCULATIONAHA.111.059295

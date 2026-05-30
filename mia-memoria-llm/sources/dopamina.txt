@@ -1,0 +1,6 @@
+La dopamina è una catecolammina che svolge la duplice funzione di neurotrasmettitore nel cervello e di ormone a livello periferico.
+A livello del sistema nervoso centrale, essa regola una vasta gamma di funzioni vitali tra cui il controllo del movimento, il sistema della gratificazione e della motivazione, l'apprendimento e il comportamento; alterazioni nei circuiti dopaminergici sono implicate in patologie come il morbo di Parkinson e la schizofrenia.
+A livello sistemico periferico, la dopamina agisce come modulatore vascolare e renale: somministrata farmacologicamente, viene impiegata nella gestione di stati di shock grave o insufficienza cardiaca acuta, in quanto, a seconda del dosaggio, può incrementare la perfusione renale, aumentare la contrattilità miocardica (effetto inotropo positivo) o indurre vasocostrizione.
+
+Riferimenti:
+Beaulieu, J. M., & Gainetdinov, R. R. The physiology, signaling, and pharmacology of dopamine receptors. Pharmacological Reviews, 2011. DOI: 10.1124/pr.110.002642

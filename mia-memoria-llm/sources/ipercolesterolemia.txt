@@ -1,0 +1,6 @@
+L'ipercolesterolemia è una dislipidemia caratterizzata da livelli eccessivamente elevati di colesterolo nel sangue, con particolare riferimento all'incremento della frazione legata alle lipoproteine a bassa densità (colesterolo LDL).
+Questa condizione è uno dei principali fattori di rischio modificabili per lo sviluppo di aterosclerosi, in quanto l'eccesso di LDL circolante tende ad accumularsi e ossidarsi nella parete delle arterie, innescando un processo infiammatorio cronico che porta alla formazione di placche aterosclerotiche.
+La gestione dell'ipercolesterolemia prevede modifiche degli stili di vita, tra cui una dieta a ridotto contenuto di acidi grassi saturi e acidi grassi trans, aumento dell'attività fisica e, se necessario, il ricorso a terapie farmacologiche come le statine per prevenire eventi cardiovascolari avversi come infarto miocardico e ictus cerebrale.
+
+Riferimenti:
+Mach, F., Baigent, C., Catapano, A. L., Koskinas, K. C., Casula, M., Badimon, L., ... & ESC Scientific Document Group. 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk. European Heart Journal, 2020. DOI: 10.1093/eurheartj/ehz455
