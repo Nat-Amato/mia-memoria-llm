@@ -1,0 +1,6 @@
+La serotonina (5-idrossitriptamina, 5-HT) è una monoammina che agisce come importante neurotrasmettitore nel sistema nervoso centrale e come molecola di segnalazione nel sistema nervoso enterico e nel torrente circolatorio.
+Sebbene sia spesso associata alla regolazione dell'umore, del sonno e dell'appetito, la stragrande maggioranza (circa il 90%) della serotonina corporea viene prodotta e localizzata nel tratto gastrointestinale, dove regola la motilità intestinale.
+Nel sangue, la serotonina viene immagazzinata principalmente all'interno delle piastrine; al momento di un danno tissutale, viene rilasciata per promuovere l'aggregazione piastrinica e indurre vasocostrizione, giocando un ruolo critico nei processi di emostasi e, se disregolata, nella genesi della trombosi.
+
+Riferimenti:
+Berger, M., Gray, J. A., & Roth, B. L. The expanded biology of serotonin. Annual Review of Medicine, 2009. DOI: 10.1146/annurev.med.60.042307.110802
