@@ -1,0 +1,5 @@
+Il microbiota intestinale è l'ecosistema complesso e dinamico di trilioni di microrganismi (batteri, virus, funghi e protozoi) che colonizzano il tratto gastrointestinale umano. Svolge funzioni vitali, tra cui la digestione di fibre complesse, la sintesi di vitamine, la regolazione del sistema immunitario e la protezione contro i patogeni.
+La composizione del microbiota, o disbiosi, è stata collegata a numerose condizioni patologiche, tra cui obesità, diabete di tipo 2, malattie infiammatorie intestinali e patologie cardiovascolari, influenzando il metabolismo dell'ospite attraverso la produzione di metaboliti come gli acidi grassi a catena corta (SCFA) e la TMAO.
+
+Riferimenti:
+Lynch, S. V., & Pedersen, O. The Human Intestinal Microbiome in Health and Disease. New England Journal of Medicine, 2016. DOI: 10.1056/NEJMra1600266

@@ -1,0 +1,5 @@
+La leptina è un ormone prodotto principalmente dagli adipociti che agisce a livello ipotalamico per regolare il bilancio energetico, segnalando il senso di sazietà e inibendo l'appetito. La sua secrezione è proporzionale alla quantità di tessuto adiposo immagazzinato nel corpo.
+Nelle persone con obesità si osserva spesso una condizione di "resistenza alla leptina", in cui, nonostante i livelli ematici dell'ormone siano molto elevati, il cervello non riceve correttamente il segnale di sazietà. Livelli cronicamente elevati di leptina sono anche associati ad aumento dello stress ossidativo e del rischio cardiovascolare.
+
+Riferimenti:
+Friedman, J. M., & Halaas, J. L. Leptin and the regulation of body weight in mammals. Nature, 1998. DOI: 10.1038/30994

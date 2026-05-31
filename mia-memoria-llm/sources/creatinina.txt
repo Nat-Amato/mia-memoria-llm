@@ -1,0 +1,5 @@
+La creatinina è un prodotto di scarto derivante dal metabolismo della creatina a livello muscolare. La sua produzione è relativamente costante e dipende dalla massa muscolare dell'individuo. Poiché viene filtrata dai reni ed escreta nelle urine senza essere significativamente riassorbita, i suoi livelli nel sangue sono un indicatore fondamentale della funzionalità renale.
+Un aumento della creatinina sierica indica una riduzione del tasso di filtrazione glomerulare (eGFR), segno di potenziale insufficienza renale. La salute renale è strettamente connessa a quella cardiovascolare, e la malattia renale cronica è un noto moltiplicatore del rischio cardiovascolare.
+
+Riferimenti:
+Levey, A. S., et al. A new equation to estimate glomerular filtration rate. Annals of Internal Medicine, 2009. DOI: 10.7326/0003-4819-150-9-200905050-00006

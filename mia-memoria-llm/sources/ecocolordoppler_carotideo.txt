@@ -1,0 +1,5 @@
+L'ecocolordoppler carotideo è un esame ecografico non invasivo che utilizza gli ultrasuoni per studiare l'anatomia e il flusso sanguigno delle arterie carotidi, situate nel collo, che riforniscono di sangue il cervello. Combina l'ecografia morfologica per visualizzare le pareti vascolari con la tecnologia Doppler per valutare la velocità e la direzione del flusso ematico.
+Questo esame è essenziale per la diagnosi precoce dell'aterosclerosi, consentendo di misurare lo spessore intima-media (IMT) e di rilevare placche ateromatose che potrebbero causare stenosi o generare emboli, valutando così il rischio di ictus ischemico.
+
+Riferimenti:
+Grant, E. G., et al. Carotid Artery Stenosis: Gray-Scale and Doppler US Diagnosis—Society of Radiologists in Ultrasound Consensus Conference. Radiology, 2003. DOI: 10.1148/radiol.2292030516

@@ -1,0 +1,5 @@
+La TMAO (N-ossido di trimetilammina) è un metabolita organico prodotto nel fegato a partire dalla trimetilammina (TMA), che a sua volta viene generata dal microbiota intestinale durante la digestione di nutrienti ricchi di colina, L-carnitina e lecitina, abbondanti in carne rossa, uova e latticini grassi.
+Livelli elevati di TMAO nel sangue sono emersi come un predittore significativo e indipendente di rischio per eventi cardiovascolari maggiori, come infarto e ictus, poiché la TMAO promuove l'accumulo di colesterolo nei macrofagi, la formazione di cellule schiumose e l'iperreattività piastrinica.
+
+Riferimenti:
+Tang, W. H. W., et al. Intestinal Microbial Metabolism of Phosphatidylcholine and Cardiovascular Risk. New England Journal of Medicine, 2013. DOI: 10.1056/NEJMoa1109400

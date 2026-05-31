@@ -1,0 +1,5 @@
+La scintigrafia miocardica di perfusione è un esame diagnostico di medicina nucleare utilizzato per valutare il flusso sanguigno verso il muscolo cardiaco (perfusione miocardica) sia a riposo che sotto sforzo (fisico o farmacologico). Prevede la somministrazione endovenosa di un tracciante debolmente radioattivo, che viene captato dalle cellule cardiache vitali.
+Attraverso una gamma camera (spesso SPECT), si generano immagini che permettono di identificare aree del cuore con ridotto apporto di sangue (ischemia) o tessuto cicatriziale causato da un precedente infarto, supportando la diagnosi e la gestione della cardiopatia ischemica.
+
+Riferimenti:
+Henzlova, M. J., et al. ASNC imaging guidelines for SPECT nuclear cardiology procedures: Stress, protocols, and tracers. Journal of Nuclear Cardiology, 2016. DOI: 10.1007/s12350-015-0387-x
