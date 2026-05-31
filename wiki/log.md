@@ -1017,3 +1017,8 @@
 ## [2026-05-28] Ingestione: albumina.txt
 - Creata la pagina [[Albumina]].
 - Aggiornato l'elenco in `/wiki/index.md`.
+
+## [2026-05-31] Ingestione: angiotensina_ii.txt
+- Creata la pagina [[Angiotensina II]].
+- Aggiornati i file [[Sartani]], [[ACE inibitori]].
+- Aggiornato l'elenco in `/wiki/index.md`.

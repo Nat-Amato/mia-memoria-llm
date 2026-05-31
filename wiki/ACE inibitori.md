@@ -1,6 +1,6 @@
 # ACE inibitori
 
-Gli ACE-inibitori bloccano l'enzima di conversione dell'angiotensina, impedendo la formazione di angiotensina II, un potente vasocostrittore.
+Gli ACE-inibitori bloccano l'enzima di conversione dell'angiotensina, impedendo la formazione di [[Angiotensina II]], un potente vasocostrittore.
 Questa azione promuove il rilassamento dei vasi sanguigni, diminuendo la [[Pressione arteriosa]]. Sono ampiamente usati nell'[[Ipertensione]], nell'insufficienza cardiaca e per rallentare il danno renale nei pazienti diabetici, grazie alle loro proprietà cardioprotettive e nefroprotettive.
 
 Riferimenti:
