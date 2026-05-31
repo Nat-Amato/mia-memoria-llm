@@ -1,0 +1,5 @@
+L'Holter pressorio, o monitoraggio ambulatoriale della pressione arteriosa (ABPM), è un esame diagnostico che prevede la registrazione automatica della pressione sanguigna a intervalli regolari (solitamente ogni 15-30 minuti) per un intero periodo di 24 ore, durante le normali attività quotidiane e il sonno del paziente.
+Questo monitoraggio fornisce un quadro pressorio molto più accurato rispetto alle misurazioni sporadiche in ambulatorio. È fondamentale per identificare l'ipertensione da "camice bianco", l'ipertensione mascherata e per valutare il calo fisiologico notturno della pressione (dipping), un importante indice di rischio cardiovascolare.
+
+Riferimenti:
+O'Brien, E., et al. European Society of Hypertension position paper on ambulatory blood pressure monitoring. Journal of Hypertension, 2013. DOI: 10.1097/HJH.0b013e328363e964

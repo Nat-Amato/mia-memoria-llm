@@ -1,0 +1,5 @@
+La ferritina è una proteina intracellulare essenziale per lo stoccaggio del ferro nel corpo umano, mantenendolo in una forma solubile e non tossica. La misurazione della ferritina sierica è il test più affidabile per valutare le riserve corporee di ferro; livelli bassi indicano una carenza marziale (spesso causa di anemia), mentre livelli elevati suggeriscono un sovraccarico di ferro o stati infiammatori.
+Essendo una proteina della fase acuta, la ferritina aumenta in risposta a infiammazione cronica, infezioni e danni tissutali. Un accumulo eccessivo di ferro può promuovere lo stress ossidativo, contribuendo potenzialmente a disfunzioni epatiche, metaboliche e cardiovascolari.
+
+Riferimenti:
+Wang, W., et al. Serum ferritin: Past, present and future. Biochimica et Biophysica Acta (BBA) - General Subjects, 2010. DOI: 10.1016/j.bbagen.2010.03.011

@@ -1,0 +1,5 @@
+L'angiografia è una procedura diagnostica di imaging medico invasiva impiegata per visualizzare l'interno dei vasi sanguigni e degli organi del corpo, con particolare interesse per arterie, vene e camere cardiache. Viene eseguita iniettando un mezzo di contrasto radiopaco nel sistema vascolare tramite un catetere, seguito dall'acquisizione di immagini a raggi X (fluoroscopia).
+L'angiografia coronarica è il gold standard per valutare la presenza e la gravità della malattia coronarica, permettendo di identificare stenosi o ostruzioni nelle arterie che riforniscono il muscolo cardiaco e guidando eventuali interventi terapeutici, come l'angioplastica.
+
+Riferimenti:
+Baim, D. S. Grossman's Cardiac Catheterization, Angiography, and Intervention. Lippincott Williams & Wilkins, 2006.

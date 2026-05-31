@@ -1,0 +1,5 @@
+L'acido urico è il prodotto finale del metabolismo delle purine nell'essere umano. Viene principalmente escreto dai reni, ma se la sua produzione è eccessiva o l'escrezione è ridotta, i suoi livelli ematici aumentano, causando iperuricemia. L'iperuricemia cronica è la causa primaria della gotta, caratterizzata dalla deposizione di cristalli di urato nelle articolazioni.
+Oltre alla gotta, l'acido urico elevato è fortemente associato a condizioni metaboliche e cardiovascolari, come ipertensione, sindrome metabolica, disfunzione renale e aumentato rischio di eventi coronarici, agendo come un marker di stress ossidativo e disfunzione endoteliale.
+
+Riferimenti:
+Johnson, R. J., et al. Is there a pathogenetic role for uric acid in hypertension and cardiovascular and renal disease? Hypertension, 2003. DOI: 10.1161/01.HYP.0000069700.62727.C5

@@ -1,0 +1,5 @@
+La tomografia computerizzata coronarica (Angio-TAC coronarica) è una metodica diagnostica per immagini non invasiva avanzata che genera immagini tridimensionali dettagliate del cuore e delle arterie coronarie. Utilizza raggi X sincronizzati con l'elettrocardiogramma e l'iniezione di un mezzo di contrasto endovenoso per visualizzare il lume vascolare.
+L'Angio-TAC è particolarmente utile per escludere la presenza di malattia coronarica ostruttiva in pazienti con rischio cardiovascolare da basso a intermedio e per valutare il burden aterosclerotico calcolando il Calcium Score (punteggio del calcio coronarico).
+
+Riferimenti:
+Hoffmann, U., et al. Coronary CT Angiography versus Standard Evaluation in Acute Chest Pain. New England Journal of Medicine, 2012. DOI: 10.1056/NEJMoa1201161

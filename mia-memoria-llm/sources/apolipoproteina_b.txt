@@ -1,0 +1,5 @@
+L'apolipoproteina B (ApoB) è la principale proteina strutturale delle lipoproteine aterogene, tra cui le LDL, le VLDL e i chilomicroni. Ciascuna di queste particelle contiene una singola molecola di ApoB, rendendo la misurazione dei livelli plasmatici di ApoB un indicatore diretto e accurato del numero totale di particelle potenzialmente aterogene in circolo.
+Elevati livelli di ApoB sono un forte fattore di rischio per l'aterosclerosi e gli eventi cardiovascolari, spesso considerato superiore alla semplice misurazione del colesterolo LDL, specialmente in pazienti con sindrome metabolica o diabete, dove le particelle LDL possono essere piccole e dense.
+
+Riferimenti:
+Sniderman, A. D., et al. Apolipoprotein B and cardiovascular disease risk: rationale for global risk assessment and clinical management. Nature Reviews Cardiology, 2011. DOI: 10.1038/nrcardio.2010.211
