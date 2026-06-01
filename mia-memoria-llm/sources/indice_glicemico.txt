@@ -1,0 +1,5 @@
+L'indice glicemico (IG) è un sistema di classificazione numerica utilizzato per misurare la rapidità con cui i carboidrati contenuti in un alimento vengono digeriti, assorbiti e metabolizzati, provocando un aumento della glicemia nel sangue rispetto a un alimento di riferimento (solitamente glucosio o pane bianco).
+Alimenti con un alto indice glicemico (come dolci, bevande zuccherate e cereali raffinati) causano rapidi picchi glicemici seguiti da brusche cadute, stimolando un'elevata secrezione di insulina. Nel lungo termine, una dieta costantemente ricca di alimenti ad alto IG è associata allo sviluppo di insulino-resistenza, diabete mellito di tipo 2, obesità e un aumento del rischio cardiovascolare. Privilegiare cibi a basso indice glicemico (come cereali integrali, legumi e molte verdure) contribuisce al controllo del peso corporeo, al miglioramento del profilo lipidico e alla prevenzione cardiometabolica.
+
+Riferimenti:
+Jenkins, D. J., et al. Glycemic index: overview of implications in health and disease. The American Journal of Clinical Nutrition, 2002. DOI: 10.1093/ajcn/76.1.266S

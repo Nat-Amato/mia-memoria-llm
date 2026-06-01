@@ -1,0 +1,5 @@
+Il miocardio è il tessuto muscolare che costituisce lo strato intermedio e più spesso della parete del cuore, situato tra l'endocardio (il rivestimento interno) e l'epicardio (il foglietto viscerale del pericardio). È responsabile della funzione di pompa dell'organo: la sua contrazione ritmica e involontaria permette di spingere il sangue nelle arterie e garantire la circolazione sistemica e polmonare.
+A differenza del muscolo scheletrico, il miocardio è un sincizio funzionale, le cui cellule (cardiomiociti) sono connesse elettricamente tra loro per garantire una contrazione coordinata. È un tessuto strettamente aerobio, con un'altissima densità di mitocondri, il che lo rende estremamente vulnerabile all'ipossia. Un'interruzione del flusso sanguigno coronarico, anche per un breve periodo, causa la morte dei cardiomiociti, evento patologico alla base dell'infarto miocardico.
+
+Riferimenti:
+Katz, A. M. Physiology of the Heart. Lippincott Williams & Wilkins, 2010. ISBN: 978-1608311712

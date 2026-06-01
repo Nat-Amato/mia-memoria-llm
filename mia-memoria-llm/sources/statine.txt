@@ -1,0 +1,5 @@
+Le statine sono una classe di farmaci ampiamente utilizzati per abbassare i livelli di colesterolo nel sangue, in particolare il colesterolo LDL. Agiscono inibendo l'enzima HMG-CoA reduttasi, che svolge un ruolo chiave nella sintesi del colesterolo nel fegato.
+La riduzione dei livelli sierici di colesterolo LDL indotta dalle statine è stata dimostrata ridurre significativamente il rischio di eventi cardiovascolari avversi, come l'infarto miocardico e l'ictus cerebrale, sia nella prevenzione primaria che in quella secondaria. Oltre all'effetto ipolipemizzante, le statine esercitano effetti pleiotropici, tra cui il miglioramento della funzione endoteliale, la stabilizzazione delle placche aterosclerotiche e la riduzione dell'infiammazione sistemica, evidenziata dalla diminuzione dei livelli di proteina C-reattiva.
+
+Riferimenti:
+Baigent, C., et al. Efficacy and safety of cholesterol-lowering treatment: prospective meta-analysis of data from 90,056 participants in 14 randomised trials of statins. The Lancet, 2005. DOI: 10.1016/S0140-6736(05)67394-1

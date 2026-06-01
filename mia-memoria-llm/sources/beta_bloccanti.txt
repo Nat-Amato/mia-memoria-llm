@@ -1,0 +1,5 @@
+I beta-bloccanti sono una classe di farmaci che agiscono antagonizzando l'azione delle catecolamine (adrenalina e noradrenalina) sui recettori beta-adrenergici presenti nel cuore e nei vasi sanguigni. L'effetto principale è la riduzione della frequenza cardiaca, della contrattilità del miocardio e, di conseguenza, del consumo di ossigeno da parte del muscolo cardiaco.
+Questi farmaci sono ampiamente utilizzati nella gestione di diverse patologie cardiovascolari, tra cui l'angina pectoris, l'ipertensione arteriosa e le aritmie. Nello scompenso cardiaco a frazione di eiezione ridotta e nel post-infarto miocardico, i beta-bloccanti hanno dimostrato di migliorare significativamente la sopravvivenza riducendo il rimodellamento ventricolare e il rischio di morte cardiaca improvvisa.
+
+Riferimenti:
+Freemantle, N., et al. $\beta$ Blockade after myocardial infarction: systematic review and meta regression analysis. BMJ, 1999. DOI: 10.1136/bmj.318.7200.1730

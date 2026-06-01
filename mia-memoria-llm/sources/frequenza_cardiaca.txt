@@ -1,0 +1,5 @@
+La frequenza cardiaca (FC) indica il numero di contrazioni o battiti che il cuore compie in un minuto (bpm) ed è un parametro vitale fondamentale per valutare la funzionalità dell'apparato cardiovascolare. In un adulto sano a riposo, i valori normali sono generalmente compresi tra 60 e 100 bpm. Valori inferiori sono definiti bradicardia, mentre valori superiori costituiscono la tachicardia.
+Un'elevata frequenza cardiaca a riposo è riconosciuta come un predittore indipendente di mortalità cardiovascolare e per tutte le cause, sia in individui sani che in pazienti con patologie cardiache note (come l'ipertensione o lo scompenso cardiaco). Riflette spesso un aumento dell'attività del sistema nervoso simpatico o una ridotta modulazione parasimpatica, comportando un maggiore consumo di ossigeno miocardico, un accorciamento del tempo di riempimento diastolico e un potenziale stress meccanico sulla parete arteriosa, favorendo il processo aterosclerotico.
+
+Riferimenti:
+Fox, K., et al. Resting heart rate in cardiovascular disease. Journal of the American College of Cardiology, 2007. DOI: 10.1016/j.jacc.2007.04.079

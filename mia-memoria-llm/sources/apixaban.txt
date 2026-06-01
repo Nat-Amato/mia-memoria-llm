@@ -1,0 +1,5 @@
+L'apixaban è un farmaco appartenente alla classe dei nuovi anticoagulanti orali diretti (DOAC o NOAC). Il suo meccanismo d'azione si basa sull'inibizione diretta, selettiva e reversibile del Fattore Xa, un enzima chiave nella via comune della cascata coagulativa, bloccando in tal modo la generazione di trombina e, di conseguenza, lo sviluppo del coagulo.
+Rispetto ai tradizionali antagonisti della vitamina K come il warfarin, l'apixaban presenta numerosi vantaggi pratici: ha un inizio d'azione rapido, una farmacocinetica prevedibile che non richiede il monitoraggio sistematico dell'INR, e un profilo di interazioni farmaco-cibo molto più favorevole. È largamente impiegato per la prevenzione dell'ictus e dell'embolismo sistemico nei pazienti con fibrillazione atriale non valvolare e per il trattamento e la prevenzione secondaria della trombosi venosa profonda e dell'embolia polmonare.
+
+Riferimenti:
+Granger, C. B., et al. Apixaban versus warfarin in patients with atrial fibrillation. The New England Journal of Medicine, 2011. DOI: 10.1056/NEJMoa1107039

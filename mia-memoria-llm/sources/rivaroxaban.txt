@@ -1,0 +1,5 @@
+Il rivaroxaban, al pari dell'apixaban, è un anticoagulante orale ad azione diretta che inibisce specificamente e competitivamente il Fattore Xa libero e quello legato al complesso protrombinasico. Questa inibizione mirata interrompe le vie intrinseca ed extrinseca della cascata di coagulazione del sangue, sopprimendo la conversione della protrombina in trombina.
+È approvato per diverse indicazioni cliniche, tra cui la prevenzione dell'ictus e dell'embolia sistemica nei pazienti adulti con fibrillazione atriale non valvolare, e per il trattamento della trombosi venosa profonda (TVP) e dell'embolia polmonare (EP). A causa della sua emivita relativamente breve rispetto al warfarin, l'aderenza alla terapia quotidiana è fondamentale per mantenere un'adeguata protezione tromboembolica, pur garantendo il vantaggio di non necessitare di test ematici di routine per il monitoraggio della coagulazione.
+
+Riferimenti:
+Patel, M. R., et al. Rivaroxaban versus warfarin in nonvalvular atrial fibrillation. The New England Journal of Medicine, 2011. DOI: 10.1056/NEJMoa1009638

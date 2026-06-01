@@ -1,0 +1,5 @@
+L'eparina è un potente farmaco anticoagulante ad azione rapida, somministrato per via parenterale (endovenosa o sottocutanea). Il suo meccanismo d'azione consiste nel legarsi all'antitrombina III, un inibitore fisiologico della coagulazione, potenziandone drasticamente la capacità di inattivare la trombina (Fattore IIa) e il Fattore Xa, bloccando così la cascata coagulativa e la formazione del coagulo di fibrina.
+Esistono due forme principali: l'eparina non frazionata (UFH), utilizzata prevalentemente in ambito ospedaliero per le emergenze acute o durante procedure chirurgiche, e le eparine a basso peso molecolare (LMWH, come l'enoxaparina), che offrono una biodisponibilità superiore, un'emivita più lunga e non richiedono un monitoraggio di laboratorio costante. L'eparina è fondamentale nel trattamento acuto dell'infarto miocardico, dell'angina instabile, dell'embolia polmonare e della trombosi venosa profonda.
+
+Riferimenti:
+Hirsh, J., et al. Heparin and low-molecular-weight heparin: the Seventh ACCP Conference on Antithrombotic and Thrombolytic Therapy. Chest, 2004. DOI: 10.1378/chest.126.3_suppl.188S

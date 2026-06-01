@@ -1,0 +1,5 @@
+I sartani, o antagonisti recettoriali dell'angiotensina II (ARB), sono farmaci utilizzati per il trattamento di varie patologie cardiovascolari, in primis l'ipertensione arteriosa. Essi agiscono bloccando in modo selettivo i recettori AT1 dell'angiotensina II, impedendo così gli effetti vasocostrittivi e profibrotici di questo ormone, con un meccanismo d'azione simile agli ACE-inibitori ma senza interferire con la degradazione della bradichinina (motivo per cui raramente causano tosse secca, il tipico effetto collaterale degli ACE-inibitori).
+Oltre al controllo dei valori pressori, i sartani hanno dimostrato efficacia nella riduzione della mortalità e delle ospedalizzazioni nei pazienti con scompenso cardiaco intolleranti agli ACE-inibitori, e sono impiegati per la protezione renale nei pazienti diabetici, contribuendo a rallentare la progressione del danno d'organo.
+
+Riferimenti:
+Turnbull, F., et al. Effects of different blood-pressure-lowering regimens on major cardiovascular events: results of prospectively-designed overviews of randomised trials. The Lancet, 2003. DOI: 10.1016/S0140-6736(03)14795-3

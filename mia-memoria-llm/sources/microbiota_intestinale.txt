@@ -1,0 +1,5 @@
+Il microbiota intestinale è il complesso ecosistema di triliardi di microrganismi, tra cui batteri, virus, funghi e protozoi, che colonizza il tratto gastrointestinale umano. Esso svolge funzioni vitali per l'ospite, come la digestione di fibre complesse, la sintesi di vitamine, lo sviluppo del sistema immunitario e la protezione contro i patogeni.
+Recenti evidenze scientifiche hanno evidenziato una stretta connessione tra la composizione del microbiota intestinale (disbiosi) e lo sviluppo di malattie cardiovascolari e metaboliche. Un meccanismo chiave è la produzione di trimetilammina (TMA) da parte di specifici batteri intestinali a partire da nutrienti come colina e carnitina (abbondanti in carne rossa e uova); la TMA viene poi ossidata nel fegato a TMAO (N-ossido di trimetilammina), un metabolita pro-aterogeno associato a un aumentato rischio di infarto, ictus e mortalità.
+
+Riferimenti:
+Tang, W. H. W., et al. Intestinal microbial metabolism of phosphatidylcholine and cardiovascular risk. The New England Journal of Medicine, 2013. DOI: 10.1056/NEJMoa1109400
