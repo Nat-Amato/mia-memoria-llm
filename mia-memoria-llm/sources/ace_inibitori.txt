@@ -1,0 +1,5 @@
+Gli ACE-inibitori (inibitori dell'enzima di conversione dell'angiotensina) sono farmaci cardiovascolari che bloccano l'enzima responsabile della conversione dell'angiotensina I nella sua forma attiva, l'angiotensina II, un potente vasocostrittore. La riduzione dei livelli di angiotensina II porta a vasodilatazione, diminuzione della pressione arteriosa e riduzione della secrezione di aldosterone.
+Nella pratica clinica, gli ACE-inibitori rappresentano una terapia di prima linea per l'ipertensione arteriosa e per lo scompenso cardiaco. Essi sono inoltre fondamentali nel prevenire il rimodellamento avverso del ventricolo sinistro dopo un infarto miocardico e offrono un'importante protezione renale (nefroprotezione), specialmente nei pazienti affetti da diabete mellito con nefropatia diabetica iniziale.
+
+Riferimenti:
+Flather, M. D., et al. Long-term ACE-inhibitor therapy in patients with heart failure or left-ventricular dysfunction: a systematic overview of data from individual patients. The Lancet, 2000. DOI: 10.1016/S0140-6736(00)02212-1

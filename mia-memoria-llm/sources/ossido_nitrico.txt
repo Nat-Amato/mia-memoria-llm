@@ -1,0 +1,5 @@
+L'ossido nitrico (NO) è una piccola molecola gassosa endogena prodotta principalmente dalle cellule dell'endotelio vascolare attraverso l'azione dell'enzima ossido nitrico sintasi endoteliale (eNOS). Svolge un ruolo cruciale come potente vasodilatatore, rilassando la muscolatura liscia vasale e contribuendo così al mantenimento di una normale pressione arteriosa e di un adeguato flusso sanguigno ai tessuti, compreso il miocardio.
+Oltre al suo effetto sul tono vascolare, l'ossido nitrico possiede importanti proprietà antiaterogene: inibisce l'aggregazione e l'adesione piastrinica, riduce l'adesione dei leucociti all'endotelio e inibisce la proliferazione delle cellule muscolari lisce vascolari. Una ridotta biodisponibilità di NO è il segno distintivo della disfunzione endoteliale, un passaggio chiave precoce nella patogenesi dell'aterosclerosi e di altre patologie cardiovascolari.
+
+Riferimenti:
+Ignarro, L. J., et al. Nitric oxide as a signaling molecule in the vascular system: an overview. Journal of Cardiovascular Pharmacology, 1999. DOI: 10.1097/00005344-199912000-00016

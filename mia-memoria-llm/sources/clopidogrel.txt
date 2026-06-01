@@ -1,0 +1,5 @@
+Il clopidogrel è un farmaco antiaggregante piastrinico appartenente alla classe delle tienopiridine. Agisce come inibitore irreversibile del recettore P2Y12 per l'adenosina difosfato (ADP) sulla superficie delle piastrine. Questa inibizione impedisce l'attivazione e l'aggregazione piastrinica indotte dall'ADP, riducendo la probabilità di formazione di trombi arteriosi all'interno dei vasi sanguigni.
+Il clopidogrel è un farmaco cardine nella cardiologia interventistica e nella prevenzione secondaria. Spesso somministrato in combinazione con l'aspirina (doppia terapia antiaggregante - DAPT), è essenziale per i pazienti sottoposti ad angioplastica coronarica con impianto di stent, allo scopo di prevenire la trombosi acuta o subacuta dello stent. Viene inoltre utilizzato nei pazienti con sindrome coronarica acuta, infarto miocardico recente o arteriopatia periferica, offrendo un'alternativa per coloro che sono intolleranti all'aspirina.
+
+Riferimenti:
+Yusuf, S., et al. Effects of clopidogrel in addition to aspirin in patients with acute coronary syndromes without ST-segment elevation. The New England Journal of Medicine, 2001. DOI: 10.1056/NEJMoa010746

@@ -1,0 +1,5 @@
+I calcio-antagonisti, o bloccanti dei canali del calcio, sono farmaci che inibiscono l'ingresso degli ioni calcio attraverso i canali voltaggio-dipendenti di tipo L nelle cellule muscolari lisce dei vasi sanguigni e nelle cellule miocardiche. Questo blocco determina vasodilatazione periferica e coronarica, riducendo la pressione arteriosa e migliorando l'apporto di ossigeno al cuore.
+Vengono suddivisi in due categorie principali: i diidropiridinici (come l'amlodipina), che hanno una spiccata azione vasodilatatrice vascolare periferica, e i non diidropiridinici (come il verapamil e il diltiazem), che esercitano anche un effetto inotropo e cronotropo negativo sul cuore. Sono largamente impiegati nel trattamento dell'ipertensione arteriosa, dell'angina pectoris e di alcune aritmie sopraventricolari.
+
+Riferimenti:
+Blood Pressure Lowering Treatment Trialists' Collaboration. Effects of different blood-pressure-lowering regimens on major cardiovascular events: results of prospectively-designed overviews of randomised trials. The Lancet, 2003. DOI: 10.1016/S0140-6736(03)14795-3

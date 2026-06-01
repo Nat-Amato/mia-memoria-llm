@@ -1,0 +1,5 @@
+L'aspirina, o acido acetilsalicilico, è un farmaco antinfiammatorio non steroideo (FANS) che, a bassi dosaggi, viene impiegato come agente antiaggregante piastrinico nella prevenzione delle patologie cardiovascolari. Agisce inibendo irreversibilmente l'enzima ciclossigenasi-1 (COX-1), bloccando la sintesi del trombossano A2, un potente induttore dell'aggregazione piastrinica e della vasocostrizione.
+In ambito cardiologico, l'uso cronico di aspirina a basso dosaggio è un pilastro della prevenzione secondaria nei pazienti che hanno già subito un evento ischemico acuto, come un infarto miocardico o un ictus ischemico, riducendo in modo significativo il rischio di recidive. L'impiego nella prevenzione primaria è invece oggetto di attenta valutazione clinica, in quanto il beneficio protettivo deve essere bilanciato con il rischio di effetti avversi, in particolare emorragie gastrointestinali.
+
+Riferimenti:
+Antithrombotic Trialists' (ATT) Collaboration. Aspirin in the primary and secondary prevention of vascular disease: collaborative meta-analysis of individual participant data from randomised trials. The Lancet, 2009. DOI: 10.1016/S0140-6736(09)60503-1
