@@ -1,0 +1,6 @@
+Il sistema renina-angiotensina-aldosterone (RAAS) è un complesso meccanismo ormonale che regola a lungo termine la pressione arteriosa, il volume del sangue e l'equilibrio dei fluidi e degli elettroliti (in particolare sodio e potassio) nel corpo.
+Quando la pressione sanguigna o il volume ematico diminuiscono, i reni rilasciano l'enzima renina, che converte l'angiotensinogeno epatico in angiotensina I. Questa viene poi convertita dall'enzima di conversione dell'angiotensina (ACE) in angiotensina II, un potente vasocostrittore che aumenta la pressione sanguigna. L'angiotensina II stimola anche la secrezione di aldosterone dalle ghiandole surrenali, promuovendo la ritenzione di sodio e acqua.
+Una iperattivazione cronica di questo sistema è un fattore patogenetico centrale nello sviluppo dell'ipertensione e dello scompenso cardiaco. I farmaci che inibiscono il RAAS, come gli ACE inibitori e i sartani, sono tra le terapie più efficaci e diffuse in cardiologia.
+
+Riferimenti:
+Ferrario, C. M., & Strawn, W. B. Role of the renin-angiotensin-aldosterone system and rationale for evaluating diet as a therapeutic intervention. The American Journal of Cardiology, 2006. DOI: 10.1016/j.amjcard.2006.04.015

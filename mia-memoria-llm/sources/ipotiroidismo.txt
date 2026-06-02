@@ -1,0 +1,6 @@
+L'ipotiroidismo è una sindrome clinica causata da una produzione insufficiente di ormoni tiroidei (tiroxina o T4, e triiodotironina o T3) da parte della ghiandola tiroide.
+Gli ormoni tiroidei sono essenziali per la regolazione del metabolismo basale, la termogenesi, la crescita e lo sviluppo, e influenzano profondamente il sistema cardiovascolare.
+Una carenza di questi ormoni porta a un generale rallentamento dei processi metabolici dell'organismo. Dal punto di vista cardiovascolare, l'ipotiroidismo può causare bradicardia (rallentamento del battito cardiaco), un aumento delle resistenze vascolari periferiche che predispone all'ipertensione diastolica, e disfunzioni nel metabolismo dei lipidi, portando frequentemente a dislipidemia (in particolare all'innalzamento del colesterolo LDL). Queste alterazioni accelerano i processi di aterosclerosi e aumentano il rischio complessivo di malattie cardiache.
+
+Riferimenti:
+Cappola, A. R., & Ladenson, P. W. Hypothyroidism and atherosclerosis. The Journal of Clinical Endocrinology & Metabolism, 2003. DOI: 10.1210/jc.2003-030398

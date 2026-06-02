@@ -1,0 +1,7 @@
+Il peptide natriuretico cerebrale (BNP) è un ormone peptidico secreto dai ventricoli del cuore in risposta all'eccessivo stiramento delle cellule muscolari cardiache (miociti).
+La sua funzione principale è quella di regolare il volume del sangue e la pressione arteriosa promuovendo la natriuresi (escrezione di sodio nelle urine), la diuresi e la vasodilatazione, agendo in antagonismo al sistema renina-angiotensina-aldosterone.
+La misurazione dei livelli circolanti di BNP, o del suo precursore inattivo NT-proBNP, è diventata uno strumento diagnostico e prognostico fondamentale nella pratica clinica cardiologica.
+Livelli elevati di BNP nel sangue indicano un aumento dello stress sulla parete ventricolare e sono un forte indicatore di scompenso cardiaco, aiutando i medici a differenziare la dispnea di origine cardiaca da quella di origine polmonare e a monitorare l'efficacia della terapia.
+
+Riferimenti:
+Maisel, A. S., et al. Rapid Measurement of B-Type Natriuretic Peptide in the Emergency Diagnosis of Heart Failure. The New England Journal of Medicine, 2002. DOI: 10.1056/NEJMoa020233

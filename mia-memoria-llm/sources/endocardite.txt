@@ -1,0 +1,7 @@
+L'endocardite è un'infiammazione del rivestimento interno del cuore (endocardio), che coinvolge tipicamente le valvole cardiache.
+Nella maggior parte dei casi, è di origine infettiva (endocardite infettiva), causata da batteri, o più raramente funghi, che entrano nel flusso sanguigno (batteriemia) e si attaccano ad aree del cuore già danneggiate o anomale, come valvole difettose o protesiche.
+L'infezione porta alla formazione di vegetazioni – ammassi di microrganismi, fibrina e piastrine – sulle valvole, che possono distruggere il tessuto valvolare causando insufficienza cardiaca acuta. Inoltre, frammenti di queste vegetazioni possono staccarsi e viaggiare nel flusso sanguigno (embolizzazione), causando danni ad altri organi, come ictus cerebrale o ascessi.
+Fattori di rischio includono malattie valvolari preesistenti, cardiopatie congenite, uso di droghe per via endovenosa e procedure dentistiche o mediche che possono introdurre batteri nel sangue.
+
+Riferimenti:
+Baddour, L. M., et al. Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications. Circulation, 2015. DOI: 10.1161/CIR.0000000000000296
