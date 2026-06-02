@@ -1,0 +1,6 @@
+La sindrome coronarica acuta (SCA) è un termine ombrello che raggruppa un insieme di condizioni cliniche caratterizzate da un'improvvisa e grave riduzione del flusso sanguigno alle arterie coronarie.
+Questa sindrome comprende tipicamente l'angina instabile e l'infarto miocardico acuto (con o senza sopraslivellamento del tratto ST). La causa sottostante più frequente è la rottura o l'erosione di una placca aterosclerotica, seguita dalla rapida formazione di un trombo (trombosi) che ostruisce parzialmente o totalmente il vaso.
+I sintomi classici includono un dolore toracico oppressivo (angina pectoris) che può irradiarsi al braccio sinistro, alla mandibola o al collo, accompagnato spesso da sudorazione, dispnea e nausea. La SCA è un'emergenza medica che richiede un intervento immediato (spesso tramite angioplastica coronarica o terapia fibrinolitica) per ripristinare la perfusione del muscolo cardiaco e limitare il danno ischemico.
+
+Riferimenti:
+Amsterdam, E. A., et al. 2014 AHA/ACC Guideline for the Management of Patients with Non-ST-Elevation Acute Coronary Syndromes. Journal of the American College of Cardiology, 2014. DOI: 10.1016/j.jacc.2014.09.017

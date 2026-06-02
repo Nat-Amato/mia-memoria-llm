@@ -1,0 +1,7 @@
+Il bypass aorto-coronarico (CABG) è una procedura chirurgica maggiore impiegata per trattare la malattia coronarica grave, caratterizzata dal restringimento o dall'occlusione delle arterie coronarie a causa dell'aterosclerosi.
+L'intervento consiste nel prelevare un segmento di vaso sanguigno sano da un'altra parte del corpo (come la vena safena dalla gamba o l'arteria mammaria interna dal torace) e utilizzarlo per creare una nuova via ("bypass") per il flusso sanguigno, aggirando così la porzione di arteria coronaria bloccata.
+Questo ripristina l'apporto di sangue ossigenato al muscolo cardiaco, alleviando i sintomi dell'angina pectoris, migliorando la funzione cardiaca e riducendo il rischio di un infarto miocardico.
+Il bypass coronarico è spesso raccomandato in pazienti con restringimenti multipli, malattia dell'arteria coronaria principale sinistra o in concomitanza con disfunzione ventricolare sinistra o diabete mellito, situazioni in cui l'angioplastica coronarica potrebbe non essere l'opzione ottimale.
+
+Riferimenti:
+Alexander, J. H., & Smith, P. K. Coronary-Artery Bypass Grafting. The New England Journal of Medicine, 2016. DOI: 10.1056/NEJMcp1405706

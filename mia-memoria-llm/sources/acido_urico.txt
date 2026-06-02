@@ -1,0 +1,7 @@
+L'acido urico è il prodotto finale del metabolismo delle purine, composti azotati presenti in molti alimenti (come carni rosse, frattaglie, frutti di mare) e nelle cellule dell'organismo.
+Normalmente, l'acido urico viene disciolto nel sangue, filtrato dai reni ed escreto attraverso l'urina.
+Tuttavia, quando vi è una sovrapproduzione o una ridotta escrezione, i livelli nel sangue possono aumentare, portando a una condizione nota come iperuricemia. L'iperuricemia cronica può causare la precipitazione di cristalli di urato nelle articolazioni, innescando attacchi di gotta, e nei reni, favorendo la formazione di calcoli renali.
+Inoltre, livelli elevati di acido urico sono stati associati a un maggior rischio di sviluppare ipertensione, sindrome metabolica e malattie cardiovascolari, suggerendo un ruolo dell'acido urico come marker di disfunzione endoteliale e stress ossidativo.
+
+Riferimenti:
+Feig, D. I., Kang, D. H., & Johnson, R. J. Uric acid and cardiovascular risk. The New England Journal of Medicine, 2008. DOI: 10.1056/NEJMra0800885

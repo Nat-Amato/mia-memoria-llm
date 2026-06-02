@@ -1,0 +1,6 @@
+Il pacemaker è un dispositivo medico elettronico impiantabile utilizzato per il trattamento dei disturbi del ritmo cardiaco (aritmie), in particolare quando il cuore batte troppo lentamente (bradicardia) o in modo irregolare a causa di un blocco nel sistema di conduzione elettrica del cuore.
+Il sistema è composto da un generatore di impulsi (che contiene la batteria e i circuiti) impiantato tipicamente sotto la pelle del torace, e da uno o più elettrocateteri (fili) che vengono inseriti attraverso le vene fino alle camere cardiache.
+Il pacemaker monitora costantemente l'attività elettrica del cuore: se rileva un battito troppo lento o assente, invia un impulso elettrico per stimolare la contrazione del muscolo cardiaco, garantendo così una frequenza cardiaca adeguata per mantenere un flusso sanguigno sufficiente verso il corpo e prevenendo sintomi come stanchezza, vertigini o sincope.
+
+Riferimenti:
+Epstein, A. E., et al. ACC/AHA/HRS 2008 Guidelines for Device-Based Therapy of Cardiac Rhythm Abnormalities: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines. Journal of the American College of Cardiology, 2008. DOI: 10.1016/j.jacc.2008.02.032

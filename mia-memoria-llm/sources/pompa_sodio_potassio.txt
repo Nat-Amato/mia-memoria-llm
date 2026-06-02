@@ -1,0 +1,6 @@
+La pompa sodio-potassio (Na+/K+-ATPasi) è un enzima transmembrana presente nella membrana cellulare di tutte le cellule animali, inclusi i miociti cardiaci e le cellule dell'endotelio vascolare.
+La sua funzione primaria è quella di mantenere il gradiente elettrochimico attraverso la membrana cellulare trasportando attivamente ioni sodio (Na+) all'esterno della cellula e ioni potassio (K+) all'interno, consumando energia sotto forma di ATP.
+Questo gradiente è essenziale per il mantenimento del potenziale di riposo della membrana, la propagazione del potenziale d'azione (fondamentale per la contrazione del muscolo cardiaco e il ritmo cardiaco), la regolazione del volume cellulare e il trasporto secondario attivo di nutrienti. Disfunzioni di questa pompa o alterazioni dei livelli di sodio o potassio possono portare ad aritmia, ipertensione e scompenso cardiaco.
+
+Riferimenti:
+Skou, J. C. The influence of some cations on an adenosine triphosphatase from peripheral nerves. Biochimica et Biophysica Acta, 1957. DOI: 10.1016/0006-3002(57)90092-0

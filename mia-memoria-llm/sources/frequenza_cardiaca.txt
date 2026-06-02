@@ -1,0 +1,6 @@
+La frequenza cardiaca rappresenta il numero di battiti del cuore in un minuto (bpm) e indica la velocità con cui il cuore pompa il sangue attraverso il sistema cardiovascolare per fornire ossigeno e nutrienti ai tessuti corporei.
+In un adulto sano a riposo, la frequenza cardiaca normale varia generalmente tra 60 e 100 bpm. Valori inferiori a 60 bpm definiscono la bradicardia (che può essere fisiologica negli atleti), mentre valori superiori a 100 bpm definiscono la tachicardia.
+La misurazione e il monitoraggio della frequenza cardiaca (a riposo, durante lo sforzo fisico o in recupero) sono parametri fondamentali per valutare la salute cardiovascolare generale, il livello di allenamento fisico e la presenza di eventuali patologie come aritmie, ipertensione o scompenso cardiaco. Un'elevata frequenza cardiaca a riposo è considerata un fattore di rischio indipendente per la mortalità cardiovascolare.
+
+Riferimenti:
+Fox, K., et al. Resting heart rate in cardiovascular disease. Journal of the American College of Cardiology, 2007. DOI: 10.1016/j.jacc.2007.04.079

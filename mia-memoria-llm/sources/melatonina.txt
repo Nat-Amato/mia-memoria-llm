@@ -1,0 +1,6 @@
+La melatonina è un ormone lipofilo derivato dalla serotonina e secreto prevalentemente dalla ghiandola pineale, situata nel cervello, seguendo un ritmo circadiano regolato dalla luce e dal buio.
+La sua funzione più nota è la regolazione del ciclo sonno-veglia (ritmo circadiano), ma possiede anche spiccate proprietà antiossidanti, antinfiammatorie e immunomodulanti.
+Ricerca recente evidenzia il ruolo della melatonina nella salute cardiovascolare: contribuisce alla modulazione del tono vascolare (regolando la pressione arteriosa) e protegge l'endotelio dallo stress ossidativo neutralizzando i radicali liberi. Livelli alterati di melatonina, spesso conseguenti a disturbi del sonno o lavori su turni, sono stati associati a un aumentato rischio di sviluppare ipertensione arteriosa, dislipidemia e sindrome metabolica.
+
+Riferimenti:
+Reiter, R. J., et al. Melatonin and its relation to the immune system and inflammation. Annals of the New York Academy of Sciences, 2000. DOI: 10.1111/j.1749-6632.2000.tb06622.x
