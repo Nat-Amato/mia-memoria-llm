@@ -21,6 +21,7 @@
 - [[Amiodarone]]: L'amiodarone è uno dei farmaci antiaritmici più potenti, utilizzato per trattare una vasta gamma di forme di aritmia atriali e ventricolari severe.
 - [[Aneurisma]]: Un [[Aneurisma]] è una dilatazione anomala e localizzata della parete di un'arteria, causata da un indebolimento strutturale dei tessuti vascolari.
 - [[Angina pectoris]]: L'angina pectoris è una sindrome clinica caratterizzata da dolore, oppressione o fastidio al petto, spesso irradiato al braccio sinistro, al collo o alla mandibola, provocato da un'[[Ischemia miocardica]] transitoria.
+- [[Angiotensina II]]: L'angiotensina II è un ormone peptidico octapeptidico che agisce come uno dei più potenti vasocostrittori endogeni, derivando dalla conversione dell'angiotensina I.
 - [[Anguria]]: L'[[Anguria]] (Citrullus lanatus) è un frutto dissetante tipico del periodo estivo, composto per oltre il 90% da acqua, che garantisce un ridotto apporto calorico.
 - [[Antiossidanti]]: Molecole che neutralizzano i radicali liberi, contrastando l'invecchiamento cellulare e lo stress ossidativo.
 - [[Antocianine]]: Le antocianine sono una classe di pigmenti idrosolubili appartenenti alla famiglia dei flavonoidi, responsabili dei colori rosso, viola e blu di molti frutti e verdure.
